@@ -15,7 +15,7 @@ To batch download the files from this repository, you may enter its URL into the
 
 第九屆全體委員會議記錄中，多項「會議議程」於網站缺漏，但「會議紀錄」完整。
 
-2018年9月7特別業主大會議程連結有誤，導向至會議紀錄。
+2018年9月7日特別業主大會議程連結有誤，導向至同日會議紀錄。
 
 強制驗樓驗窗計劃 2. 及 3. 各導向以下連結，均已失效。
 * https://www.bd.gov.hk/chineseT/services/index_MBIS_MWIS.html
