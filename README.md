@@ -5,6 +5,8 @@ Starting around the evening of December 3, 2025 (Hong Kong Time), the website’
 
 By around 11:50 p.m. latest on the same day, the homepage returned to normal.
 
+---
+
 法團網站中，2018年12月18日第十屆第九次全體委員會議記錄之連結有誤，導向至2021年11月17日第十一屆第九次全體委員會議記錄。因此，2018年12月18日第十屆第九次全體委員會議記錄缺漏。
 
 第九屆全體委員會議記錄中，多項「會議議程」於網站缺漏，但「會議紀錄」完整。
