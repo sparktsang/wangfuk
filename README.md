@@ -2,7 +2,8 @@ This GitHub repository is used to store backups of the meeting minutes and docum
 
 Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage (http://www.wangfuk.org/html/home/index.asp) suddenly became inaccessible and displayed the error: HTTP Error 404.0 - Not Found. It had been functioning normally before that.
 
-	
+By around 11:50 p.m. on the same day at the latest, the homepage finally returned to normal.
+
 法團網站中，2018年12月18日第十屆第九次全體委員會議記錄之連結有誤，導向至2021年11月17日第十一屆第九次全體委員會議記錄。因此，2018年12月18日第十屆第九次全體委員會議記錄缺漏。
 
 第九屆全體委員會議記錄中，多項「會議議程」於網站缺漏，但「會議紀錄」完整。
@@ -16,6 +17,6 @@ https://www.bd.gov.hk/chineseT/documents/guideline/GGMBISMWIS.pdf
 強制驗樓驗窗計劃 10. 非文件，係導向以下連結。
 https://smarttender.brplatform.org.hk/zh-HK/index.htm
 
-以下檔案過大暫未能上載：
+以下檔案過大暫時未能上載：
 大維修相關資訊 2. 工程解說會簡報(宏業及鴻毅).pdf
 大維修相關資訊 8. 特別業主大會解說會簡報(14-3-2025).pdf 
