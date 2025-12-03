@@ -5,6 +5,8 @@ Starting around the evening of December 3, 2025 (Hong Kong Time), the website’
 
 By around 11:50 p.m. latest on the same day, the homepage returned to normal.
 
+This is part of a project which examines the tragic fire at Wang Fuk Court during renovation works, which resulted in over 150 deaths.
+
 To batch download the files from this repository, you may enter its URL into the following website: https://download-directory.github.io/
 
 ---
