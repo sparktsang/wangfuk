@@ -1,5 +1,5 @@
 This GitHub repository is used to store backups of all of the meeting minutes, and other documents, specifically concerning the mandatory building inspection, from the Wang Fuk Court Incorporated Owners' website.
-http://www.wangfuk.org/html/home/index.asp
+>http://www.wangfuk.org/html/home/index.asp
 
 Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage above suddenly became inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`. It had been functioning normally before that.
 
