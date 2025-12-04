@@ -13,7 +13,7 @@ To batch download the files from this repository, you may enter its URL into the
 
 The meeting minutes from 2024-12-18 to 2025-11-07 have been consolidated into Markdown format as follows.
 
-https://github.com/sparktsang/wangfuk/blob/main/MINUTES%20MARKDOWN%202024-12-18%20TO%202025-11-07.md
+https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 
 ---
 
