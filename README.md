@@ -11,22 +11,14 @@ https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 
 ---
 
-### Service Outage Report: December 3, 2025
+### Large files
 
-Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage suddenly became inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`. It had been functioning normally before that.
-
-![](https://github.com/sparktsang/wangfuk/blob/main/Error.jpg)
-
-**Incident Analysis: Server-Side Failure vs. Protocol Error**
-
-It has been [suggested](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary/issues/256#issuecomment-3612794080) that this downtime was caused by inadvertently using the HTTPS protocol. However, the forensic evidence proves otherwise:
-
-1.  **The Error Page Distinction:** The screenshot above shows a **Native IIS 404.0 Error** (white background). This is a low-level server error indicating that the IIS web server itself was unable to map requests to the application directory.
-2.  **HTTPS Behavior:** Accessing the site via HTTPS (which is currently misconfigured) results in a [**Plesk Custom Error** page](https://github.com/sparktsang/wangfuk/blob/main/HTTPS_error.png).
-
-The presence of the raw IIS error confirms that this was a **server-side infrastructure failure** (system maintenance or configuration detachment) and not a client-side protocol mismatch. See also the [detailed analysis of this error](https://github.com/sparktsang/wangfuk/blob/main/error_analysis.md). 
-
-By around 11:50 p.m. on the same day, the homepage returned to normal functionality via HTTP.
+The following files are too large and have therefore been uploaded separately to MEGA Cloud Storage: https://mega.nz/folder/M5cHHAYa#W0VxI6dDM1b6fpf4K9Ma1w
+* 大維修相關資訊 2. 工程解說會簡報(宏業及鴻毅).pdf
+* 大維修相關資訊 8. 特別業主大會解說會簡報(14-3-2025).pdf 
+* 宏福通訊 第12屆管理委員會-第4期.pdf
+* 宏福通訊 第12屆管理委員會-第5期.pdf
+* 宏福通訊 第12屆管理委員會-第9期.pdf
 
 ---
 
@@ -52,22 +44,30 @@ Item 10 under the same scheme (強制驗樓驗窗計劃 10.) is not a hosted doc
 
 ---
 
+### Service Outage Report: December 3, 2025
+
+Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage suddenly became inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`. It had been functioning normally before that.
+
+![](https://github.com/sparktsang/wangfuk/blob/main/Error.jpg)
+
+**Incident Analysis: Server-Side Failure vs. Protocol Error**
+
+It has been [suggested](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary/issues/256#issuecomment-3612794080) that this downtime was caused by inadvertently using the HTTPS protocol. However, the forensic evidence proves otherwise:
+
+1.  **The Error Page Distinction:** The screenshot above shows a **Native IIS 404.0 Error** (white background). This is a low-level server error indicating that the IIS web server itself was unable to map requests to the application directory.
+2.  **HTTPS Behavior:** Accessing the site via HTTPS (which is currently misconfigured) results in a [**Plesk Custom Error** page](https://github.com/sparktsang/wangfuk/blob/main/HTTPS_error.png).
+
+The presence of the raw IIS error confirms that this was a **server-side infrastructure failure** (system maintenance or configuration detachment) and not a client-side protocol mismatch. See also the [detailed analysis of this error](https://github.com/sparktsang/wangfuk/blob/main/error_analysis.md). 
+
+By around 11:50 p.m. on the same day, the homepage returned to normal functionality via HTTP.
+
+---
+
 ### Batch download
 
 To batch download the files from this repository, you may enter its URL into the following website: 
 
 https://download-directory.github.io/
-
----
-
-### Large files
-
-The following files are too large and have therefore been uploaded separately to MEGA Cloud Storage: https://mega.nz/folder/M5cHHAYa#W0VxI6dDM1b6fpf4K9Ma1w
-* 大維修相關資訊 2. 工程解說會簡報(宏業及鴻毅).pdf
-* 大維修相關資訊 8. 特別業主大會解說會簡報(14-3-2025).pdf 
-* 宏福通訊 第12屆管理委員會-第4期.pdf
-* 宏福通訊 第12屆管理委員會-第5期.pdf
-* 宏福通訊 第12屆管理委員會-第9期.pdf
 
 ---
 
