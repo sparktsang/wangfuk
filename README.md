@@ -33,20 +33,23 @@ https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 ### Data Integrity & Discrepancy Log
 
 **1. Mismatched Record (10th Term):**
-The [link](http://www.wangfuk.org/html/meeting/05/%E7%AC%AC9%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) for the *Minutes of the 9th Management Committee Meeting of the 10th Term (December 18, 2018)* (2018年12月18日第十屆第九次全體委員會議記錄) is incorrectly mapped. It redirects to the *11th Term Minutes (November 17, 2021)* (2021年11月17日第十一屆第九次全體委員會議記錄) instead. Consequently, the original 2018 document is missing.
+The [link](http://www.wangfuk.org/html/meeting/05/%E7%AC%AC9%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) for the *Minutes of the 9th Management Committee Meeting of the 10th Term (December 18, 2018)* (第十屆第九次全體委員會議記錄) is incorrectly mapped. It redirects to the *11th Term Minutes (November 17, 2021)* (第十一屆第九次全體委員會議記錄) instead. Consequently, the original 2018 document is missing.
 
 **2. Missing Agendas (9th Term):**
 While the *Meeting Minutes* for the [9th Term](http://www.wangfuk.org/html/meeting/04.htm) are complete, multiple *Meeting Agendas* are missing from the source website.
 
-**3. Incorrect Link (2018 EGM):**
+**3. Missing File Number (12th Term):**
+The file number of the *Minutes of the 4th Management Committee Meeting of the 12th Term ([August 14, 2024](https://github.com/sparktsang/wangfuk/blob/main/2024-08-14%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%9B%9B%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf))* (第十二屆第四次全體委員會議記錄) is missing. All other recent meeting minutes include file numbers.
+
+**4. Incorrect Link (2018 EGM):**
 The [link](http://www.wangfuk.org/html/meeting/05/2018.09.07-%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E8%AD%B0%E7%A8%8B.pdf) for the *Agenda of the Extraordinary General Meeting (September 7, 2018)* (2018年9月7日特別業主大會議程) incorrectly points to the *Minutes* of the same day. As a result, the Agenda document is missing.
 
-**4. Broken External Links (MBIS/MWIS):**
+**5. Broken External Links (MBIS/MWIS):**
 Items 2 and 3 under the [*Mandatory Building Inspection & Window Inspection Scheme*](http://www.wangfuk.org/html/home/inspection.asp) (強制驗樓驗窗計劃 2. 及 3.) point to the following dead URLs:
 *   `https://www.bd.gov.hk/chineseT/services/index_MBIS_MWIS.html`
 *   `https://www.bd.gov.hk/chineseT/documents/guideline/GGMBISMWIS.pdf`
 
-**5. Non-Document Redirection:**
+**6. Non-Document Redirection:**
 Item 10 under the same scheme (強制驗樓驗窗計劃 10.) is not a hosted document but a direct link to the external Smart Tender platform:
 *   `https://smarttender.brplatform.org.hk/zh-HK/index.htm`
 
