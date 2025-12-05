@@ -24,7 +24,7 @@ By around 11:50 p.m. on the same day, the homepage returned to normal functional
 
 ### Compilation of meeting minutes for accessibility
 
-The meeting minutes from 2024-12-18 to 2025-11-07 have been consolidated into Markdown format as follows.
+The meeting minutes from 2024-05-25 to 2025-11-07 have been consolidated into Markdown format as follows.
 
 https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 
