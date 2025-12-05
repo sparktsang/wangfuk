@@ -16,7 +16,7 @@ It has been [suggested](https://github.com/Hong-Kong-Emergency-Coordination-Hub/
 1.  **The Error Page Distinction:** The screenshot above shows a **Native IIS 404.0 Error** (white background). This is a low-level server error indicating that the IIS web server itself was unable to map requests to the application directory.
 2.  **HTTPS Behavior:** Accessing the site via HTTPS (which is currently misconfigured) results in a [**Plesk Custom Error** page](https://github.com/sparktsang/wangfuk/blob/main/HTTPS_error.png).
 
-The presence of the raw IIS error confirms that this was a **server-side infrastructure failure** (system maintenance or configuration detachment) and not a client-side protocol mismatch.
+The presence of the raw IIS error confirms that this was a **server-side infrastructure failure** (system maintenance or configuration detachment) and not a client-side protocol mismatch. See also the [detailed analysis of this error](https://github.com/sparktsang/wangfuk/blob/main/error_analysis.md). 
 
 By around 11:50 p.m. on the same day, the homepage returned to normal functionality via HTTP.
 
