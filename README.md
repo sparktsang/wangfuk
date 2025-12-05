@@ -1,13 +1,24 @@
 This GitHub repository is used to store backups of all of the meeting minutes, and other major documents, from the Wang Fuk Court Incorporated Owners' website.
->http://www.wangfuk.org/html/home/index.asp
+> http://www.wangfuk.org/html/home/index.asp
 
-Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage above suddenly became inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`. It had been functioning normally before that.
+### Service Outage Report: December 3, 2025
+
+Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage suddenly became inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`. It had been functioning normally before that.
 
 ![](https://github.com/sparktsang/wangfuk/blob/main/Error.jpg)
 
-By around 11:50 p.m. latest on the same day, the homepage returned to normal.
+**Incident Analysis: Server-Side Failure vs. Protocol Error**
 
-This is part of a [project](https://sparktsang.github.io/life/2025/12/04/status.html) which examines the tragic fire at Wang Fuk Court during renovation works, which resulted in over 150 deaths.
+It has been [suggested](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary/issues/256) that this downtime was caused by inadvertently using the HTTPS protocol. However, the forensic evidence proves otherwise:
+
+1.  **The Error Page Distinction:** The screenshot above shows a **Native IIS 404.0 Error** (white background). This is a low-level server error indicating that the IIS web server itself was unable to map requests to the application directory.
+2.  **HTTPS Behavior:** Accessing the site via HTTPS (which is currently misconfigured) results in a [**Plesk Custom Error** page](https://github.com/sparktsang/wangfuk/blob/main/HTTPS_error.png).
+
+The presence of the raw IIS error confirms that this was a **server-side infrastructure failure** (system maintenance or configuration detachment) and not a client-side protocol mismatch.
+
+By around 11:50 p.m. on the same day, the homepage returned to normal functionality via HTTP.
+
+---
 
 To batch download the files from this repository, you may enter its URL into the following website: https://download-directory.github.io/
 
@@ -38,6 +49,10 @@ The following files are too large and have therefore been uploaded separately to
 * 宏福通訊 第12屆管理委員會-第4期.pdf
 * 宏福通訊 第12屆管理委員會-第5期.pdf
 * 宏福通訊 第12屆管理委員會-第9期.pdf
+
+---
+
+This is part of a [project](https://sparktsang.github.io/life/2025/12/04/status.html) which examines the tragic fire at Wang Fuk Court during renovation works, which resulted in over 150 deaths.
 
 ---
 
