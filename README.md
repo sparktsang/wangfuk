@@ -45,6 +45,14 @@ Item 10 under the same scheme (強制驗樓驗窗計劃 10.) is not a hosted doc
 
 ---
 
+### Batch download
+
+To batch download the files from this repository, you may enter its URL into the following website: 
+
+https://download-directory.github.io/
+
+---
+
 ### Service Outage Report: December 3, 2025
 
 Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage suddenly became inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`. It had been functioning normally before that.
@@ -61,14 +69,6 @@ It has been [suggested](https://github.com/Hong-Kong-Emergency-Coordination-Hub/
 The presence of the raw IIS error confirms that this was a **server-side infrastructure failure** (system maintenance or configuration detachment) and not a client-side protocol mismatch. See also the [detailed analysis of this error](https://github.com/sparktsang/wangfuk/blob/main/error_analysis.md). 
 
 By around 11:50 p.m. on the same day, the homepage returned to normal functionality via HTTP.
-
----
-
-### Batch download
-
-To batch download the files from this repository, you may enter its URL into the following website: 
-
-https://download-directory.github.io/
 
 ---
 
