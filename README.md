@@ -20,8 +20,6 @@ By around 11:50 p.m. on the same day, the homepage returned to normal functional
 
 ---
 
-To batch download the files from this repository, you may enter its URL into the following website: https://download-directory.github.io/
-
 The meeting minutes from 2024-12-18 to 2025-11-07 have been consolidated into Markdown format as follows.
 
 https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
@@ -40,6 +38,12 @@ https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 
 強制驗樓驗窗計劃 10. 非文件，係導向以下連結。
 https://smarttender.brplatform.org.hk/zh-HK/index.htm
+
+---
+
+To batch download the files from this repository, you may enter its URL into the following website: 
+
+https://download-directory.github.io/
 
 ---
 
