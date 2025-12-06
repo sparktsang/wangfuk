@@ -1,5 +1,4 @@
-This technical analysis was originally published here:
-https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary/issues/256#issuecomment-3615847283
+This technical analysis was originally published [here](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary/issues/256#issuecomment-3615847283) at an issue in the "Hong Kong Fire Documentary" repo, which unfortunately does not exist anymore starting from December 6, 2025. 
 
 ---
 
