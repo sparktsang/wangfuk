@@ -61,7 +61,7 @@ Starting around the evening of December 3, 2025 (Hong Kong Time), the website’
 
 **Incident Analysis: Server-Side Failure vs. Protocol Error**
 
-It has been [suggested](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary/issues/256#issuecomment-3612794080) that this downtime was caused by inadvertently using the HTTPS protocol. However, the forensic evidence proves otherwise:
+It has been suggested that this downtime was caused by inadvertently using the HTTPS protocol. However, the forensic evidence proves otherwise:
 
 1.  **The Error Page Distinction:** The screenshot above shows a **Native IIS 404.0 Error** (white background). This is a low-level server error indicating that the IIS web server itself was unable to map requests to the application directory.
 2.  **HTTPS Behavior:** Accessing the site via HTTPS (which is currently misconfigured) results in a [**Plesk Custom Error** page](https://github.com/sparktsang/wangfuk/blob/main/HTTPS_error.png).
