@@ -13,7 +13,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 **3. Systemic Collusion & Conflict of Interest:**
 *   **The Consultant (Will Power / 鴻毅):** Acted as both the building inspector and the project manager, facilitating Prestige's winning bid. 
 *   **The Contractor (Prestige / 宏業):** Their directors now face **manslaughter** charges. Despite being more expensive, they were awarded specific fire tank valve repairs (Item 11.5) to "avoid warranty disputes," effectively locking the MC into their ecosystem.
-*   **The "Double Agent" (Wong Chin Hang / 黃展鏗):** The Clerk of Works, theoretically representing the residents but hired via the Architect, pushed for these specific repairs that facilitated the Contractor's workflow.
+*   **The "Double Agent" (Wong Chin Hang / 黃展鏗):** The Clerk of Works, theoretically representing the residents but hired via the Consultant, pushed for these specific repairs that facilitated the Contractor's workflow.
 *   **The Silent Watchdog (Victory Fire / 宏泰):** As the fire system maintenance contractor, they secured the renewal contract in Sept 2025. Yet, it took the *General Contractor's* need for waterproofing in Nov 2025 to identify "aging valves" that Victory's annual inspection apparently missed or ignored.
 
 **📜 Original Record (Composite):**
