@@ -1,3 +1,60 @@
+### 🆔 [E-SAFETY-2025-12-04] The "Normal" Myth vs. The Broken Reality
+
+**🚨 Significance:**
+
+There is an irreconcilable contradiction between the maintenance contractor's public defense and the internal maintenance records, suggesting a deliberate cover-up of safety failures.
+
+**1. The Public Whitewash:**
+On December 4, 2025 (post-disaster), **Victory Fire Engineering (宏泰)**—the contractor for 9 consecutive years—claimed on national television (Now News) that the system was "functioning normally" (運作正常) during the Annual Inspection in March 2025, emphasizing there were "no big problems."
+
+**2. The Internal Reality:**
+Internal records from September 29, 2025, completely falsify this claim. The records list a massive repair bill of **$144,170** for defects in the most critical life-saving components:
+*   **Fire Inlet Valves (消防入水掣):** Essential for firefighters to pump water into the building.
+*   **Hose Reel Assemblies (喉轆組件):** Essential for residents to fight fire.
+*   **Fire Bells (消防警鐘):** Essential for evacuation.
+
+**Logical Deduction:**
+*   **Impossible Degradation:** Fire systems are durable. It is logically impossible for a system to be "normal" in March and then simultaneously suffer failures in *all* major components (valves, hoses, bells) by September without a catastrophic event.
+*   **The "Schrödinger's" Trap:**
+    *   **Scenario A:** The March inspection was fake (Fraud). The system was already broken, but Victory signed the certificate (FS251) anyway.
+    *   **Scenario B:** The system broke after March. If so, why did it take until September (6 months) to tender for repairs? This implies the estate was left defenseless for half a year.
+*   **Conclusion:** Victory's statement "no big problems" is a lie. $144,170 worth of defects *is* a big problem. This lie attempts to mask their liability for the 159 deaths caused by the failure of these exact components.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Public Lie**
+> *Source: Now News / 2025-12-04*
+>
+> **宏泰消防工程稱...強調三月消防年檢無大問題**
+> "宏泰...公司代表提到，三月為屋苑進行年檢時，**消防裝置運作正常**... 董事鍾先生：「...在年檢時是沒有問題，**沒有大問題**。」"
+>
+> *Translation:*
+> **Victory Fire Engineering claims... emphasizing March annual inspection showed no big problems**
+> "Victory... representative stated that during the March annual inspection, **fire installations were functioning normally**... Director Mr. Chung: '...there were no problems, **no big problems** during the annual inspection.'"
+
+> **Evidence [B]: The Documentary Evidence of Failure**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10.2**
+> "管理處向委員報告每座需修葺或更換的消防設施項目，主要包括：**消防入水掣**、**喉轆組件**(射咀、閘掣、拉輪、標示膠牌、**消防警鐘**、**消防拎手掣**、滅火筒、照明燈連電池)等..."
+> "宏泰消防工程有限公司... $144,170"
+>
+> *Translation:*
+> **10.2**
+> "The Management Office reported... items requiring repair or replacement, mainly including: **Fire Inlet Valves**, **Hose Reel Assemblies** (Nozzles, Gate Valves, Drums...), **Fire Bells**, **Manual Call Points**, Extinguishers, Emergency Lighting..."
+> "Victory Fire Engineering Ltd... $144,170"
+
+**📅 Dates:**
+*   2025-03: Annual Inspection (Claimed "Normal")
+*   2025-09-29: Defects Confirmed (Repair Tender Approved)
+*   2025-12-04: Victory's Denial on TV
+
+**🔗 Links:**
+*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
+*   [Minute 12 (The Defects)](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+
+---
+
 ### 🆔 [E-ADMIN-2025-09-29] Zombie Governance: The "Lift" Contractor & The $1.7M Blunder
 
 **🚨 Significance:**
@@ -52,7 +109,7 @@ On September 29, 2025, the MC approved a tender for fire safety repairs. However
 
 ---
 
-### 🆔 [E-PROJECT-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
+### 🆔 [E-SAFETY-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
 
 **🚨 Significance:**
 
@@ -134,7 +191,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 
 ---
 
-### 🆔 [E-RISK-2024-11-15-09] The Insurance Boycott
+### 🆔 [E-SAFETY-2024-11-15-09] The Insurance Boycott
 
 **🚨 Significance:**
 
@@ -190,7 +247,7 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 ---
 
-### 🆔 [E-SEDITION-2025-12-01-01] Arrest of Volunteer Coordinator
+### 🆔 [E-SUPPRESS-2025-12-01-01] Arrest of Volunteer Coordinator
 
 **🚨 Significance:**
 
@@ -244,7 +301,7 @@ On 1 December 2025, Lee Yuen Ching (李宛澄), a volunteer who had been coordin
 
 ---
 
-### 🆔 [E-CENSOR-2025-12-06-01] The Dismantling of Independent Archives
+### 🆔 [E-SUPPRESS-2025-12-06-01] The Dismantling of Independent Archives
 
 **🚨 Significance:**
 
