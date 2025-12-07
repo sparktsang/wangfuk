@@ -134,7 +134,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 
 ---
 
-### 🆔 [E-MINUTES-2024-11-15-09] The Insurance Boycott
+### 🆔 [E-RISK-2024-11-15-09] The Insurance Boycott
 
 **🚨 Significance:**
 
@@ -190,7 +190,7 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 ---
 
-### 🆔 [E-POLICE-2025-12-01-01] Arrest of Volunteer Coordinator
+### 🆔 [E-SEDITION-2025-12-01-01] Arrest of Volunteer Coordinator
 
 **🚨 Significance:**
 
