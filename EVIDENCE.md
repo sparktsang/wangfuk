@@ -1,115 +1,3 @@
-### 🆔 [E-SAFETY-2025-12-04—01] The "No Big Problem" Discrepancy & The 180-Day Safety Gap
-
-**🚨 Significance:**
-
-There is a clear gap between what the fire contractor, Victory Fire Engineering (宏泰消防工程有限公司), said in public and what the estate’s own records show.
-
-**1. Public Statement (Dec 4):**
-Victory said the fire system was "working normally" in March and that there were "no big problems."
-
-**2. Internal Records (Sep 29):**
-The estate listed a **$144,170 repair package** for major fire-safety parts, including:
-
-* Fire Inlet Valves
-* Hose Reel Assemblies
-* Fire Bells
-  These are core safety components, not cosmetic items.
-
-**3. Direct Link:**
-The documents say the September repair tender was issued **"after the Annual Inspection."**
-So these problems came from the March inspection done by Victory.
-
-**4. Long Delay:**
-The repairs were not approved until September—about **180 days** after the issues were found.
-
-**5. The Contradiction:**
-Publicly: "No big problems."
-Internally: A long list of repairs on critical fire-safety parts.
-
-These are documented discrepancies. The public can judge what they mean.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Source of Defects (The March Link)**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10.1**
-> "管理處報告於 2025 年 9 月 1 日共向 8 間消防承辦商發出**消防年檢後的設備執修**報價邀請。"
->
-> *Translation:*
-> "The Management Office reported that on Sept 1, 2025, invitations... were issued for equipment rectification **following the fire annual inspection**."
-> *(Analysis: This establishes the defects as findings stemming from the March Annual Inspection.)*
-
-> **Evidence [B]: The Nature of Defects (Core Safety Components)**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10.2**
-> "...主要包括：**消防入水掣**、喉轆組件(...閘掣...)、**消防警鐘**..."
->
-> *Translation:*
-> **10.2**
-> "...mainly including: **Fire Inlet Valves**, Hose Reel Assemblies (...Gate Valves...), **Fire Bells**..."
-
-> **Evidence [C]: The Public Statement**
-> *Source: Now News / 2025-12-04*
->
-> "宏泰...公司代表提到，三月為屋苑進行年檢時，**消防裝置運作正常**... 董事鍾先生：「...在年檢時是沒有問題，**沒有大問題**。」"
->
-> *Translation:*
-> "Victory... representative stated that during the March annual inspection, **fire installations were functioning normally**... Director Mr. Chung: '...there were **no big problems**.'"
-
-**📅 Timeline:**
-
-* **2025-03:** Victory identifies issues during Annual Inspection.
-* **2025-03 → 2025-09:** Six-month delay before tendering.
-* **2025-09-01:** Tender issued "following annual inspection."
-* **2025-11-26:** Fire occurs.
-* **2025-12-04:** Victory asserts "no big problems" during March inspection.
-
-**🔗 Links:**
-*   [Minute 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
-*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
-
----
-
-### 🆔 [E-SAFETY-2025-12-04-02] The Chairman's fatal ignorance on safety status
-
-**🚨 Significance:**
-
-On December 4, 2025, MC Chairman Tsui Man-kam admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Admission of Ignorance**
-> *Source: Now News / 2025-12-04*
->
-> "本台向業主立案法團主席徐滿柑查詢，他表示**不清楚該次的消防執修工程是否已經完成**。"
->
-> *Translation:*
-> "Now News enquired with MC Chairman **Tsui Man-kam**, who stated he **was unclear whether that specific fire rectification work had been completed.**"
-
-> **Evidence [B]: The Project He Approved**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10.3**
-> "經商議後，徐主席動議由最低報價的「宏泰消防工程有限公司」進行消防設備執修工作，各委員一致贊成通過。"
->
-> *Translation:*
-> "After discussion, **Chairman Tsui moved** to have the lowest bidder, 'Victory Fire Engineering', conduct the fire equipment rectification works; all members unanimously approved."
-
-> **Evidence [C]: The Project Timeline**
-> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
->
-> *Note: Just 19 days before the fire, the minutes were amended regarding this specific project (correcting the "Lift/Monthly" error), proving the project was fresh on the agenda.*
-
-**📅 Date:** 2025-12-04
-
-**🔗 Links:**
-*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
-*   [Minute 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
-
----
-
 ### 🆔 [E-SAFETY-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling
 
 **🚨 Significance:**
@@ -237,7 +125,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 
 ---
 
-### 🆔 [E-SAFETY-2024-11-15-09] The Insurance Boycott
+### 🆔 [E-SAFETY-2024-11-15-01] The Insurance Boycott
 
 **🚨 Significance:**
 
@@ -290,6 +178,118 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 **📅 Date:** 2024-11-15 | **Source:** 12th MC Meeting Minutes (No. 7)
 
 **🔗 Links:** [Official PDF](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC7%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%B8%83%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+
+---
+
+### 🆔 [E-SAFETY-2025-12-04—01] The "No Big Problem" Discrepancy & The 180-Day Safety Gap
+
+**🚨 Significance:**
+
+There is a clear gap between what the fire contractor, Victory Fire Engineering (宏泰消防工程有限公司), said in public and what the estate’s own records show.
+
+**1. Public Statement (Dec 4):**
+Victory said the fire system was "working normally" in March and that there were "no big problems."
+
+**2. Internal Records (Sep 29):**
+The estate listed a **$144,170 repair package** for major fire-safety parts, including:
+
+* Fire Inlet Valves
+* Hose Reel Assemblies
+* Fire Bells
+  These are core safety components, not cosmetic items.
+
+**3. Direct Link:**
+The documents say the September repair tender was issued **"after the Annual Inspection."**
+So these problems came from the March inspection done by Victory.
+
+**4. Long Delay:**
+The repairs were not approved until September—about **180 days** after the issues were found.
+
+**5. The Contradiction:**
+Publicly: "No big problems."
+Internally: A long list of repairs on critical fire-safety parts.
+
+These are documented discrepancies. The public can judge what they mean.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Source of Defects (The March Link)**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10.1**
+> "管理處報告於 2025 年 9 月 1 日共向 8 間消防承辦商發出**消防年檢後的設備執修**報價邀請。"
+>
+> *Translation:*
+> "The Management Office reported that on Sept 1, 2025, invitations... were issued for equipment rectification **following the fire annual inspection**."
+> *(Analysis: This establishes the defects as findings stemming from the March Annual Inspection.)*
+
+> **Evidence [B]: The Nature of Defects (Core Safety Components)**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10.2**
+> "...主要包括：**消防入水掣**、喉轆組件(...閘掣...)、**消防警鐘**..."
+>
+> *Translation:*
+> **10.2**
+> "...mainly including: **Fire Inlet Valves**, Hose Reel Assemblies (...Gate Valves...), **Fire Bells**..."
+
+> **Evidence [C]: The Public Statement**
+> *Source: Now News / 2025-12-04*
+>
+> "宏泰...公司代表提到，三月為屋苑進行年檢時，**消防裝置運作正常**... 董事鍾先生：「...在年檢時是沒有問題，**沒有大問題**。」"
+>
+> *Translation:*
+> "Victory... representative stated that during the March annual inspection, **fire installations were functioning normally**... Director Mr. Chung: '...there were **no big problems**.'"
+
+**📅 Timeline:**
+
+* **2025-03:** Victory identifies issues during Annual Inspection.
+* **2025-03 → 2025-09:** Six-month delay before tendering.
+* **2025-09-01:** Tender issued "following annual inspection."
+* **2025-11-26:** Fire occurs.
+* **2025-12-04:** Victory asserts "no big problems" during March inspection.
+
+**🔗 Links:**
+*   [Minute 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
+
+---
+
+### 🆔 [E-SAFETY-2025-12-04-02] The Chairman's fatal ignorance on safety status
+
+**🚨 Significance:**
+
+On December 4, 2025, MC Chairman Tsui Man-kam admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Admission of Ignorance**
+> *Source: Now News / 2025-12-04*
+>
+> "本台向業主立案法團主席徐滿柑查詢，他表示**不清楚該次的消防執修工程是否已經完成**。"
+>
+> *Translation:*
+> "Now News enquired with MC Chairman **Tsui Man-kam**, who stated he **was unclear whether that specific fire rectification work had been completed.**"
+
+> **Evidence [B]: The Project He Approved**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10.3**
+> "經商議後，徐主席動議由最低報價的「宏泰消防工程有限公司」進行消防設備執修工作，各委員一致贊成通過。"
+>
+> *Translation:*
+> "After discussion, **Chairman Tsui moved** to have the lowest bidder, 'Victory Fire Engineering', conduct the fire equipment rectification works; all members unanimously approved."
+
+> **Evidence [C]: The Project Timeline**
+> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
+>
+> *Note: Just 19 days before the fire, the minutes were amended regarding this specific project (correcting the "Lift/Monthly" error), proving the project was fresh on the agenda.*
+
+**📅 Date:** 2025-12-04
+
+**🔗 Links:**
+*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
+*   [Minute 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
 
 ---
 
