@@ -178,7 +178,7 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 ---
 
-### 🆔 [E-SAFETY-2025-12-04—01] The "No Big Problem" Discrepancy & The 180-Day Safety Gap
+### 🆔 [E-SAFETY-2025-12-04-01] The "No Big Problem" Discrepancy & The 180-Day Safety Gap
 
 **🚨 Significance:**
 
