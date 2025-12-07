@@ -1,3 +1,86 @@
+### 🆔 [E-NEGLIGENCE-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
+
+**🚨 Significance:**
+
+On November 26, 2025, during the fatal fire, the estate’s fire hose system was effectively paralyzed, with reports indicating only one hose might have functioned. This failure is directly traceable to a series of administrative decisions made just 19 days prior.
+
+**1. The "Profit-Driven" Maintenance Logic:**
+Records show that the replacement of critical water gate valves (閘掣) was prioritized **not for fire safety compliance**, but to accommodate the waterproofing works of the general contractor, **Prestige Construction (宏業)**. The Clerk of Works (COW) explicitly stated that valves needed replacing "because the General Contractor needs to stop water intake to proceed with waterproofing." This implies that if there were no waterproofing contract (profit), the aging valves might have been left to rot.
+
+**2. The Critical Gap:**
+The decision to replace these valves was finalized on **November 7, 2025**. The fire occurred on **November 26**. It is highly probable that the water supply to the fire fighting system was suspended or the valves were dismantled for this "maintenance" at the exact moment the fire broke out.
+
+**3. Systemic Collusion & Conflict of Interest:**
+*   **The Consultant (Will Power / 鴻毅):** Acted as both the building inspector and the project manager, facilitating Prestige's winning bid. 
+*   **The Contractor (Prestige / 宏業):** Their directors now face **manslaughter** charges. Despite being more expensive, they were awarded specific fire tank valve repairs (Item 11.5) to "avoid warranty disputes," effectively locking the MC into their ecosystem.
+*   **The "Double Agent" (Wong Chin Hang / 黃展鏗):** The Clerk of Works, theoretically representing the residents but hired via the Architect, pushed for these specific repairs that facilitated the Contractor's workflow.
+*   **The Silent Watchdog (Victory Fire / 宏泰):** As the fire system maintenance contractor, they secured the renewal contract in Sept 2025. Yet, it took the *General Contractor's* need for waterproofing in Nov 2025 to identify "aging valves" that Victory's annual inspection apparently missed or ignored.
+
+**📜 Original Record (Composite):**
+
+> **Evidence [A]: The "Double Agent" Structure**
+> *Source: 12th MC Meeting Minutes (No. 10) / 2025-05-21*
+>
+> **5.7 有關聘請工程監督事宜**
+> "(...) 駐地盤工程監督黃展鏗先生現已正式到任。顧問公司將收取 (...) 另工程監督薪金及行政費每月$39,718 (...) 相關費用由大維修賬戶支付。"
+>
+> *Translation:*
+> **5.7 On hiring a Clerk of Works (COW)**
+> "(...) The resident COW, Mr. **Wong Chin Hang**, has officially assumed duty. The Consultant [Will Power] will charge (...) plus a monthly salary and administration fee of $39,718 for the COW (...) costs to be paid from the Major Repair Account."
+> *(Analysis: The residents pay him, but he reports to the Consultant/Architect, creating a conflict where he may favor the project's progress over safety.)*
+
+> **Evidence [B]: The "Profit-Driven" Repair Logic**
+> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
+>
+> **7) 商討及議決更換老化水缸閘掣事宜**
+> "7.1 按早前工程監督檢視天台及地面泵房後，建議更換未能正常運作的老化水缸閘掣。**由於大維修承建商需要停止水缸入水才可進行水缸防水工作**，故管理處已就各類閘掣及喉管配件的項目進行招標報價。"
+>
+> *Translation:*
+> **7) Discussion and resolution on replacing aging water tank gate valves**
+> "7.1 After inspection by the COW... it is suggested to replace aging gate valves that fail to operate normally. **Since the Major Repair Contractor [Prestige] needs to stop water intake to proceed with water tank waterproofing work**, the Management Office has tendered for..."
+> *(Analysis: The trigger for repair was the Contractor's need to work (and get paid), not a safety audit.)*
+
+> **Evidence [C]: The "Prestige" Monopoly**
+> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
+>
+> **11.5**
+> "就宏志閣天台消防缸閘掣滲漏事宜... 考慮到日後整個水缸防水保養期由大維修承建商負責，為免日後雙方爭拗，各委員建議由「宏業」報價進行更換以免影響整體防水保養。"
+>
+> *Translation:*
+> **11.5**
+> "Regarding the leakage of the fire tank gate valve at Wang Chi Court... Considering the waterproofing warranty will be held by the Major Repair Contractor, to avoid future disputes, members suggested having **'Prestige' [Macro-Ip]** quote for the replacement..."
+> *(Analysis: Prestige was awarded the specific fire tank job despite higher costs ($102,000 vs $78,400 in item 7.1 comparison), consolidating their control over the fire safety infrastructure.)*
+
+> **Evidence [D]: The Failure of Routine Checks**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10.3**
+> "經商議後，徐主席動議由最低報價的「宏泰消防工程有限公司」進行消防設備執修工作..."
+>
+> *Translation:*
+> **10.3**
+> "After discussion, Chairman Tsui moved to have the lowest bidder, **'Victory Fire Engineering Limited'**, conduct the fire equipment rectification works..."
+> *(Analysis: Victory was the incumbent. If valves were aging to the point of failure in Nov, why did Victory not flag this in Sept? Either they were negligent, or the "aging" excuse in Nov was a pretext for Prestige's works.)*
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Owner must keep fire service installation in efficient working order at all times.
+*   **Provision:** Fire Service (Installations and Equipment) Regulations, Cap. 95A, Section 8
+*   **Ref:** [eLegislation Cap. 95A](https://www.elegislation.gov.hk/hk/cap95A!en/s8?_lang=en)
+
+**📅 Dates:** 
+*   **COW Appointment:** 2025-05-21
+*   **Fire Contract Renewal:** 2025-09-29
+*   **Valve Replacement Decision:** 2025-11-07
+*   **The Fire:** 2025-11-26
+
+**🔗 Links:**
+*   [Official Minutes (Directory)](http://www.wangfuk.org/html/meeting/index.htm)
+*   [Combined Markdown Record](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+*   [Backup Repository](https://github.com/sparktsang/wangfuk)
+
+---
+
 ### 🆔 [E-MINUTES-2024-11-15-09] The Insurance Boycott
 
 **🚨 Significance:**
