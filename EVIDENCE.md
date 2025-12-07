@@ -6,11 +6,11 @@ Official records reveal that the Management Committee (MC) operated in a state o
 
 On September 29, 2025, the MC approved a tender for fire safety repairs. However, the minutes show they unanimously passed a document containing two fatal absurdities:
 1.  **Wrong Profession:** They listed the fire safety companies as **"Lift Contractors"** (升降機承辦商).
-2.  **Wrong Cost:** They approved the repair cost of **$144,170** as a **"Monthly Fee"** (每月費用).
+2.  **Wrong Cost:** They approved the repair cost of **HK$144,170** as a **"Monthly Fee"** (每月費用).
 
 **Logical Deduction:**
 *   **The "Rubber Stamp" Proof:** If even one member had read the document, they would have asked why a "Lift" company was fixing fire hoses.
-*   **The Financial Blindness:** If the figure was truly a "Monthly Fee," the annual cost would be **$1.73 million**—an astronomical figure for minor repairs. That no one questioned this implies the committee members were financially illiterate or simply not looking at what they were signing.
+*   **The Financial Blindness:** If the figure was truly a "Monthly Fee," the annual cost would be **HK$1.73 million**—an astronomical figure for minor repairs. That no one questioned this implies the committee members were financially illiterate or simply not looking at what they were signing.
 *   **The Conclusion:** This explains the disaster. A committee that cannot distinguish between a Lift Contractor and a Fire Contractor, or between a one-off payment and a monthly fee, lacks the cognitive capacity to monitor complex building safety.
 
 **📜 Original Record:**
