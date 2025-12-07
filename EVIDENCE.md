@@ -1,72 +1,32 @@
-### 🆔 [E-SAFETY-2025-12-04] The "No Big Problem" Discrepancy & The 250-Day Safety Gap
+### 🆔 [E-SAFETY-2025-12-04] The "No Big Problem" Discrepancy & The 180-Day Safety Gap
 
 **🚨 Significance:**
 
-There is a measurable inconsistency between the contractor’s public defense and the estate’s internal records.
-This gap raises legitimate questions about how safety information was handled.
+There is a clear gap between what the fire contractor, Victory Fire Engineering (宏泰消防工程有限公司), said in public and what the estate’s own records show.
 
-**1. The Public Whitewash:** On December 4, 2025—after the disaster—**Victory Fire Engineering (宏泰)** publicly stated on Now News that during the March 2025 Annual Inspection, the fire system was "functioning normally," stressing there were "no big problems."
+**1. Public Statement (Dec 4):**
+Victory said the fire system was "working normally" in March and that there were "no big problems."
 
-This is a categorical reassurance offered *post-factum*, implying no substantial issues were identified earlier in the year.
+**2. Internal Records (Sep 29):**
+The estate listed a **$144,170 repair package** for major fire-safety parts, including:
 
-**2. The Internal Reality:** Internal management records from September 29, 2025 list a **$144,170** repair package for components directly tied to core fire-safety functions:
+* Fire Inlet Valves
+* Hose Reel Assemblies
+* Fire Bells
+  These are core safety components, not cosmetic items.
 
-* **Fire Inlet Valves (消防入水掣)**
-* **Hose Reel Assemblies (喉轆組件)**
-* **Fire Bells (消防警鐘)**
+**3. Direct Link:**
+The documents say the September repair tender was issued **"after the Annual Inspection."**
+So these problems came from the March inspection done by Victory.
 
-Each of these affects water delivery, manual firefighting ability, or evacuation warning.
-None of them appear in categories like "cosmetic," "non-essential," or purely administrative upgrades.
+**4. Long Delay:**
+The repairs were not approved until September—about **180 days** after the issues were found.
 
-**3. The Irrefutable Link (March → September):**
+**5. The Contradiction:**
+Publicly: "No big problems."
+Internally: A long list of repairs on critical fire-safety parts.
 
-The minutes clearly state that the repair tender issued in September was: **"following the annual inspection"**.
-
-This establishes a direct sequence:
-* Annual Inspection (March) →
-* Detection of issues →
-* Repair tender issued (September)
-
-It is therefore grounded in the record—not speculation—that the defects listed originated from the March inspection conducted by Victory.
-
-Whether the issues were judged "urgent," "non-urgent," or "maintenance-needed" is not clarified in the documents—but they were identified.
-
-**4. Debunking the "Triviality" Defense:**
-
-Some may argue that **$144,170** is minor for eight residential blocks.
-However, two dimensions of the record make this claim questionable:
-
-**• Qualitative Severity**: The list includes **Fire Inlet Valves** and **Fire Bells**.
-
-In industry practice, these components are part of the building’s **primary response pathway**—water intake, alarm signalling, and manual suppression.
-While defects can range from minor wear to operational impairment, **any inclusion of these items in a post-inspection rectification list signals that they required attention beyond routine monthly checks.**
-
-**• Quantitative Scope**: The $144k package appears to be specifically tied to **rectification work** arising from the Annual Inspection, not part of the regular maintenance fee already paid to the contractor throughout the year.
-
-
-The public can judge for themselves whether this scale aligns with the contractor’s later claim that there were "no big problems."
-
-**5. The 250-Day Safety Gap:**
-
-If issues were identified during the March Annual Inspection, but the repair tender was only approved in late November (as noted in Minute 13), this implies:
-
-**The estate knew of system deficiencies for ~250 days before the fire.**
-
-The records do not specify whether every defect was critical, nor whether any item fully compromised system operation—but they do confirm a long delay between identification and rectification.
-
-This time gap, not speculation, is what raises the safety question.
-
-**Logical Conclusion:**
-
-Victory’s public statement produces a **dual inconsistency** when compared with the estate’s written records:
-
-1. They characterized March findings as "no big problem,"
-   **yet the estate documented a multi-item rectification list involving core safety components.**
-
-2. The internal timeline shows issues identified months before the disaster,
-   **yet these were still pending repair at the time of the fire.**
-
-These contradictions do not accuse intent—they simply present verifiable discrepancies that warrant clarification.
+These are documented discrepancies. The public can judge what they mean.
 
 **📜 Original Record:**
 
