@@ -62,7 +62,7 @@ A catastrophic failure in construction safety management turned the primary esca
 
 **2. The Regulatory Violation:**
 This practice flagrantly violates the **Code of Practice for Fire Safety in Buildings 2011**, Section C9.7, which mandates that staircase openings must be protected by fixed windows with fire resistance ratings equal to the staircase walls.
-*   *Expert Opinion:* Engineer Lau Tak-on called it "completely unacceptable", noting that even temporary openings require fire-resistant sealing (e.g., gypsum board, fire wool), not just "a piece of wood with a hole."
+*   *Expert Opinion:* Engineer Lau Tak-on (劉德安) called it "completely unacceptable", noting that even temporary openings require fire-resistant sealing (e.g., gypsum board, fire wool), not just "a piece of wood with a hole."
 
 **3. The Missing Upgrade:**
 Minutes from Nov 15, 2025 (11 days before the fire) record an additional HK$297,600 spent to upgrade frames to "316 Stainless Steel." Yet, on-site inspection at Wang Tai Court revealed that on floors 5, 10, 15, 20, and 25, **no such frames were visible**—only the deadly wooden boards or gaping holes remained.
@@ -115,7 +115,7 @@ Minutes from Nov 15, 2025 (11 days before the fire) record an additional HK$297,
 **¶ Statutory Basis:**
 
 *   **Requirement:** Protection of Required Staircases (Openings must have Fire Resistance Rating).
-*   **Provision:** Code of Practice for Fire Safety in Buildings 2011, Section C9.7 & Building (Construction) Regulations, Reg 35.
+*   **Provision:** Code of Practice for Fire Safety in Buildings 2011, Section C9.7 & Building (Construction) Regulations, Section 35.
 *   **Ref:** [BD Code 2011](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf) | [eLegislation Cap. 123Q Section 35](https://www.elegislation.gov.hk/hk/cap123Q!en/s35?_lang=en)
 
 **📅 Timeline:**
