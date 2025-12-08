@@ -632,6 +632,69 @@ On December 4, 2025, MC Chairman Tsui Man-kam admitted to the press he was "**un
 
 ---
 
+### 🆔 [E-GOV-2025-12-01-01] The "Sloppy" Admission
+
+**🚨 Significance:**
+
+Security Chief Chris Tang (鄧炳強) contradicted his own safety assessment within 3 days, shifting from "Compliant" to "35% Failure". Crucially, he inadvertently admitted that the initial clean bill of health might have been due to **"sloppy" (草率)** inspection methods—a damaging admission that was subsequently **erased** from the official government press release.
+
+**1. The U-Turn (Safe → Dangerous):**
+*   **Nov 28:** Tang announced that preliminary tests showed the scaffolding nets **"met fire-retardant standards"**, blaming Styrofoam instead.
+*   **Dec 1:** Tang reversed course, revealing that **7 out of 20 samples failed** (35% failure rate).
+
+**2. The Freudian Slip ("Sloppy"):**
+When pressed on the discrepancy, Tang admitted on camera: "If you are **'sloppy' (草率)**, you will only get the passing samples." This implies the initial "All Clear" on Nov 28 was likely based on a lazy, ground-level-only inspection, rather than a rigorous forensic audit.
+
+**3. The Narrative Pivot (Incompetence → Conspiracy):**
+To cover up this "sloppiness," the narrative was shifted to blame "cunning criminals" (處心積慮). Tang argued that contractors deliberately placed legal nets at the bottom (easy to reach) and illegal nets high up (hard to reach) to evade detection.
+*   *Logical Flaw:* It is economically improbable for a contractor to strategically "stripe" a building with different nets just to fool inspectors. It is far more likely they used a mixed batch of cheap/illegal nets throughout, and the government simply didn't bother to check the upper floors initially.
+
+**4. The Sanitization:**
+While media (HK01, InMedia) recorded the "sloppy" quote, the **official government press release (news.gov.hk)** removed the word "草率" entirely. This effectively scrubbed the record of any admission of procedural weakness.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Initial "All Clear"**
+> *Source: news.gov.hk / 2025-11-28*
+>
+> "鄧炳強指... 發現有關物品[棚網]**達到阻燃要求**..."
+>
+> *Translation:*
+> "Tang stated... found that the relevant items [scaffolding nets] **met fire-retardant requirements**..."
+
+> **Evidence [B]: The "Sloppy" Admission (Uncensored)**
+> *Source: HK01 / 2025-12-01*
+>
+> "鄧炳強...解釋...「等你如果『**草率**』嘅話就淨係可以攞到啲合格嘅標本」。"
+>
+> *Translation:*
+> "Tang... explained... 'So if you are **"sloppy"**, you will only be able to retrieve the passing samples.'"
+
+> **Evidence [C]: The Censored Record**
+> *Source: news.gov.hk / 2025-12-01*
+>
+> "鄧炳強補充指... 當局再在...高、中、低樓層...檢取共20個樣本... 其中七個樣本並不合乎阻燃標準。...處於唾手可得位置的樣本合格率較高..."
+> *(Note: The word "草率/Sloppy" is absent from this official record.)*
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Protection of public safety during construction (Fire hazards).
+*   **Context:** While specific regulations for nets exist, the issue here is the **Integrity of Public Information**.
+*   **Ref:** N/A (Focus is on Official Statements).
+
+**📅 Timeline:**
+*   **2025-11-28:** Tang says nets are safe (Ground level check).
+*   **2025-12-01 (Press Con):** Tang admits 35% failure, uses word "Sloppy".
+*   **2025-12-01 (Press Release):** Govt publishes statement, "Sloppy" is deleted.
+
+**🔗 Links:**
+*   [Nov 28 Official Statement (Safe)](https://www.news.gov.hk/chi/2025/11/20251128/20251128_172412_692.html)
+*   [Dec 1 Official Statement (Failed & Sanitized)](https://www.news.gov.hk/chi/2025/12/20251201/20251201_162907_879.html)
+*   [HK01 Report (Contains "Sloppy")](https://www.hk01.com/article/60299421)
+*   [InMedia Report (Contains "Sloppy")](https://www.inmediahk.net/node/1108818/)
+
+---
+
 ### 🆔 [E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam
 
 **🚨 Significance:**
