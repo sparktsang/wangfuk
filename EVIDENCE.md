@@ -104,9 +104,9 @@ Instead of verifying the "out of production" claim (which is their job), Will Po
 *   **2024-10-05:** Owners vote 54.59% to **Reject** the switch and keep Mosaic.
 
 **🔗 Links:**
-*   [Minute 2](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-06-27%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-10-05%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%EF%A7%A4%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Comparison Chart](http://www.wangfuk.org/html/home/doc/2024-09-27%20%E7%B4%99%E7%9A%AE%E7%9F%B3%E8%88%87%E7%A3%9A%E7%93%A6%E6%AF%94%E8%BC%83%20(%E9%B4%BB%E6%AF%85).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/%E5%A4%A7%E7%B6%AD%E4%BF%AE%E7%9B%B8%E9%97%9C%E8%B3%87%E8%A8%8A%204.%202024-09-27%20%E7%B4%99%E7%9A%AE%E7%9F%B3%E8%88%87%E7%A3%9A%E7%93%A6%E6%AF%94%E8%BC%83%20(%E9%B4%BB%E6%AF%85).pdf)
+*   [Minute 2](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-06-27%20第十二屆第二次會議紀錄.pdf)
+*   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-10-05%20第十二屆管理委員會特別業主大會會議紀錄.pdf)
+*   [Comparison Chart](http://www.wangfuk.org/html/home/doc/2024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大維修相關資訊%204.%202024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf)
 
 ---
 
