@@ -566,7 +566,7 @@ The Labour Department (LD) conducted **16 inspections** between July 2024 and No
 
 **1. The "Audit by Paper" Loophole:**
 The LD confirmed their inspection method involved "checking the Product Quality Certificates".
-*   *The Trick:* As exposed by the ICAC [[E-SAFETY-2025-10-31-01]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2025-10-31-01-the-price-of-life-hk593-per-victim--the-5-decoy), the contractors bought a small batch of legitimate nets to obtain valid certificates.
+*   *The Trick:* As exposed by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
 *   *The Failure:* Inspectors accepted these certificates as proof for the *entire* site. They did not conduct on-site combustion tests, allowing 2,300 rolls of fake nets to hide behind a single piece of paper.
 
 **2. Industry Verdict: "Certificates are Waste Paper":**
@@ -608,6 +608,7 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 **🔗 Links:**
 *   [The Witness Report (Official Response)](https://thewitnesshk.com/宏福苑五級火-勞工處證書顯示棚網阻燃符標準-曾巡/)
 *   [The Witness Report (Expert Opinion)](https://thewitnesshk.com/宏福苑五級火-兩部門守則指棚網應具阻燃性-業界指/)
+*   ICAC Statement: [[E-SAFETY-2025-10-31-01]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2025-10-31-01-the-price-of-life-hk593-per-victim--the-5-decoy)
 
 ---
 
