@@ -101,7 +101,7 @@ Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frame
 > "宏泰閣... 在 5 樓 、10樓、15 樓、20 樓、25 樓，亦**未能見到「日」字型的窗框**..."
 >
 > *Translation:*
-> "Wang Tai Court... on floors 5, 10, 15, 20, 25, **the 'Sun' shaped [stainless steel] window frames were not visible**..."
+> "Wang Tai Court... on floors 5, 10, 15, 20, 25, **the box‑grid [stainless steel] window frames were not visible**..."
 > *(Analysis: This contradicts the Nov 15 minutes approving the steel upgrade. Where did the money go?)*
 
 > **Evidence [E]: Death Toll in Wang Tai Court**
