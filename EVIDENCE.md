@@ -360,6 +360,61 @@ Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-sa
 
 ---
 
+### 🆔 [E-SAFETY-2025-10-31-01] The Price of Life: HK$593 per Victim & The 5% Decoy
+
+**🚨 Significance:**
+
+ICAC investigation reveals the "mathematics of murder." The contractors saved a meager **HK$94,300** by substituting compliant safety nets with flammable ones—a sum representing merely **0.028%** of the HK$336 million project value.
+
+**1. The "Decoy" Strategy (5% Compliance):**
+To deceive inspectors, contractors installed compliant nets (HK$100/roll) only at the "feet" of the scaffolding (approx. **4.7%** of the total area). The remaining **95%** was covered with substandard, highly flammable nets (HK$54/roll). This confirms the government's earlier finding that "only samples at the bottom passed."
+
+**2. The Cost of Conscience:**
+*   **Cost to do it right:** HK$230,000 (if all 2,300 rolls were compliant).
+*   **Cost to cheat:** HK$135,700 (2,300 cheap rolls + 115 decoy rolls).
+*   **The Profit:** **HK$94,300**.
+*   **The Human Toll:** 159 deaths.
+*   **The Unit Price of Death:** The contractors effectively valued each human life at **HK$593**.
+
+**3. Premeditation:**
+This was not negligence; it was a calculated cover-up. Following a scaffolding fire in Central in late October, the suspects—fearing inspection—rushed to buy the 115 compliant rolls specifically to create the "safe zone" at ground level, proving they were fully aware of the fire risk but chose to hide it rather than fix it.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Price Tag of Fraud**
+> *Source: ICAC (via news.gov.hk) / 2025-12-01*
+>
+> "證據顯示，涉案人士以每卷**54元**的價錢，購買**2,300卷**...未達阻燃標準。...涉案人士擔心棚架防護網會被抽查檢驗...以每卷**100元**的價錢，購買**115卷**...達阻燃標準...意圖魚目混珠"
+>
+> *Translation:*
+> "Evidence shows suspects purchased **2,300 rolls** of non-compliant nets at **$54/roll**. Fearing inspection... they purchased **115 rolls** of compliant nets at **$100/roll**... intending to pass off fish eyes as pearls (deceive)."
+
+> **Evidence [B]: The Calculation**
+> *Source: Derived from ICAC Data*
+>
+> *   **Hypothetical Full Compliance:** 2,300 rolls × $100 = **HK$230,000**
+> *   **Actual Fraudulent Spend:** (2,300 × $54) + (115 × $100) = **HK$135,700**
+> *   **Difference (Profit):** **HK$94,300**
+> *   **Total Project Value:** **HK$336,616,277**
+> *   **Ratio:** $94,300 / $336M ≈ **0.00028 (0.028%)**
+
+**¶ Statutory Basis:**
+
+*   **Investigation:** ICAC Operation (Corruption & Fraud).
+*   **Ref:** [Prevention of Bribery Ordinance (Cap. 201) Section 9](https://www.elegislation.gov.hk/hk/cap201!en/s9?_lang=en).
+
+
+**📅 Timeline:**
+*   **2025-07-20:** [Typhoon](https://www.hko.gov.hk/tc/wxinfo/pastwx/mws2025/mws202507.htm) damages nets; cheap replacements ($54) bought.
+*   **2025-10-18:** [Central Fire](https://www.hk01.com/突發/60286636) occurs; suspects panic.
+*   **2025-10 (late October):** Decoy nets ($100) bought and installed at bottom.
+*   **2025-11-26:** The Fire (Flammable nets accelerate spread).
+*   **2025-12-01:** ICAC arrests 12 suspects.
+
+**🔗 Link:** [ICAC Statement](https://www.news.gov.hk/chi/2025/12/20251201/20251201_162941_981.html)
+
+---
+
 ### 🆔 [E-SAFETY-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
 
 **🚨 Significance:**
