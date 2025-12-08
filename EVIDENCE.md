@@ -676,12 +676,6 @@ While media (HK01, InMedia) recorded the "sloppy" quote, the **official governme
 > "鄧炳強補充指... 當局再在...高、中、低樓層...檢取共20個樣本... 其中七個樣本並不合乎阻燃標準。...處於唾手可得位置的樣本合格率較高..."
 > *(Note: The word "草率/Sloppy" is absent from this official record.)*
 
-**¶ Statutory Basis:**
-
-*   **Duty:** Protection of public safety during construction (Fire hazards).
-*   **Context:** While specific regulations for nets exist, the issue here is the **Integrity of Public Information**.
-*   **Ref:** N/A (Focus is on Official Statements).
-
 **📅 Timeline:**
 *   **2025-11-28:** Tang says nets are safe (Ground level check).
 *   **2025-12-01 (Press Con):** Tang admits 35% failure, uses word "Sloppy".
