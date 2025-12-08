@@ -120,7 +120,7 @@ Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frame
 
 **📅 Timeline:**
 *   **2024-01-28:** Owners vote for HK$992k Fire Windows.
-*   **2025-11-15:** MC approves extra HK$297k for Steel Upgrade.
+*   **2024-11-15:** MC approves extra HK$297k for Steel Upgrade.
 *   **2025-11-26:** The Fire (Smoke enters via wooden boards).
 
 **🔗 Links:**
