@@ -229,7 +229,7 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 *   [Minutes 6](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC6%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-10-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%85%AD%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
 *   [Minutes 9](http://www.wangfuk.org/html/meeting/12/2025-03-01%20%E7%AC%AC9%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-03-01%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%B9%9D%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
 *   [Minutes 10 (Arrival)](http://www.wangfuk.org/html/meeting/12/2025-05-21%20%E7%AC%AC10%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-05-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Minutes Annual No. 20](http://www.wangfuk.org/html/meeting/03/%E7%AC%AC25%E6%AC%A1%E5%85%A8%E9%AB%94%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83(%E5%91%A8%E5%B9%B4%E5%A4%A7%E6%9C%83)%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-13%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%EF%A7%A4%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%AC%A1%E5%85%A8%E9%AB%94%E6%A5%AD%E4%B8%BB%E5%91%A8%EF%A6%8E%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes Annual No. 20](http://www.wangfuk.org/html/meeting/03/第25次全體業主大會(周年大會)會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-13%20第十二屆管理委員會第二十五次全體業主周年大會會議紀錄.pdf)
 *   [Full Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
 
 ---
@@ -521,9 +521,9 @@ Sing Tao's report, published hours after TVB's, largely regurgitated the same su
 *   **2024-10:** The Trap (Free Upgrade). **[Media Missed]**
 
 **🔗 Links:**
-*   [TVB Report Archive](https://news.tvb.com/tc/taipofire/6927c289e435294129313abc/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%EF%BD%9C%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%913%E5%84%84%E5%85%83%E5%B7%A5%E7%A8%8B%E6%99%82%E9%96%93%E8%BB%B8%E6%9C%AC%E5%8F%B0%E8%B3%87%E6%96%99%E6%90%9C%E9%9B%86%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0)
-*   [Sing Tao Report Archive](https://www.stheadline.com/society/3521856/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E5%A4%9A%E5%9C%96%E7%B6%AD%E4%BF%AE%E5%B7%A5%E7%A8%8B%E9%80%A0%E5%83%B933%E5%84%84-%E4%BD%8F%E6%88%B6%E5%8D%8A%E5%B9%B4%E8%A6%81%E4%BA%A418%E8%90%AC-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%B7%A5%E7%A8%8B%E6%99%82%E9%96%93%E7%B7%9A)
-*   [Minute 2 (The Lie)](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC2%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [TVB Report Archive](https://news.tvb.com/tc/taipofire/6927c289e435294129313abc/宏福苑五級火-一文看清｜大埔宏福苑3億元工程時間軸本台資料搜集持續更新)
+*   [Sing Tao Report Archive](https://www.stheadline.com/society/3521856/大埔宏福苑五級火多圖維修工程造價33億-住戶半年要交18萬-一文看清工程時間線)
+*   [Minute 2 (The Lie)](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf)
 
 ---
 
@@ -575,7 +575,6 @@ On 1 December 2025, Lee Yuen Ching (李宛澄), a volunteer who had been coordin
 
 **🔗 Links:**
 *   [UDN Archive](https://money.udn.com/money/story/5603/9173479)
-*   [TVBS/Yahoo Archive](https://hk.news.yahoo.com/...)
 *   [Facebook Post](https://www.facebook.com/100087149791482/posts/825905236991129/)
 *   [LIHKG Thread Archive](https://lihkg.com/thread/4034232)
 
