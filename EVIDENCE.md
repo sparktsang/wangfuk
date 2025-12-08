@@ -65,7 +65,7 @@ This practice flagrantly violates the **Code of Practice for Fire Safety in Buil
 *   *Expert Opinion:* Engineer Lau Tak-on (劉德安) called it "completely unacceptable", noting that even temporary openings require fire-resistant sealing (e.g., gypsum board, fire wool), not just "a piece of wood with a hole."
 
 **3. The Missing Upgrade:**
-Minutes from Nov 15, 2025 (11 days before the fire) record an additional HK$297,600 spent to upgrade frames to "316 Stainless Steel." Yet, on-site inspection at Wang Tai Court revealed that on floors 5, 10, 15, 20, and 25, **no such frames were visible**—only the deadly wooden boards or gaping holes remained.
+Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frames to "316 Stainless Steel." Yet, on-site inspection at Wang Tai Court revealed that on floors 5, 10, 15, 20, and 25, **no such frames were visible**—only the deadly wooden boards or gaping holes remained.
 
 **📜 Original Record:**
 
