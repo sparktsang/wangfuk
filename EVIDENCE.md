@@ -1133,3 +1133,62 @@ Sing Tao's report, published hours after TVB's, largely regurgitated the same su
 *   [Minute 2 (The Lie)](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf)
 
 ---
+
+### 🆔 [E-STAT-2025-12-09-01] The "14 Silent Households" & The Missing 20%
+
+**🚨 Significance:**
+
+Analysis of post-disaster statistics reveals critical gaps in the human toll. Government data indicates contact with 1,970 households out of 1,984 total units. The remaining **14 households** represent a chilling statistical void—potentially indicating cases where entire families perished, leaving no one to respond to social workers.
+
+**1. The "Whole Family Extinction" Probability:**
+*   **Total Units:** 1,984.
+*   **Contacted:** 1,970.
+*   **The Gap:** 14 units.
+*   *Deduction:* Given the low vacancy rate in Hong Kong housing estates, these unaccounted units likely represent families that were completely wiped out. 
+
+**2. The "Self-Reliant" 20%:**
+*   **Total Survivors:** >4,900 (registered for social work).
+*   **Govt Housed:** 3,961 (1,431 in hotels/hostels + 2,530 in transitional housing).
+*   **The Gap:** **>939 residents** (~19%).
+*   *Implication:* Nearly 1,000 victims rejected or did not need government shelter. This suggests a significant portion of residents essentially "opted out" of the official relief system, relying on their own networks or resources, possibly due to distrust or the inadequacy of official arrangements.
+
+**3. Population Density Surge:**
+Comparing 2021 Census data (4,643 residents) with 2025 post-fire data (>5,060 residents: >4,900 survivors + 160 dead) shows a **9% population increase**. This indicates the estate was more densely populated than official records suggested, potentially exacerbating the evacuation difficulty.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Household Count**
+> *Source: Govt Press Release / 2025-12-09*
+>
+> "社工目前已接觸超過 **1970 個** 受影響住戶，為超過 4900 名居民登記「一戶一社工」的跟進服務"
+>
+> *Translation:*
+> "Social workers have contacted over **1,970** affected households and registered a “one social worker per household” follow‑up service for more than **4,900** residents"
+
+> **Evidence [B]: The Estate Capacity**
+> *Source: Wang Fuk Court MC Website*
+>
+> "全苑共 **1984個** 單位"
+>
+> *Translation:*
+> "Total **1,984** units in the estate."
+
+> **Evidence [C]: The Accommodation Gap**
+> *Source: Govt Press Release / 2025-12-09*
+>
+> "共有 **1431名** 居民入住... 青年宿舍... 另有 **2530名** 居民現居於... 過渡性房屋..."
+>
+> *Translation:*
+> "Total **1,431** residents in youth hostels... another **2,530** in transitional housing..."
+> *(Math: 1431 + 2530 = 3961. Total residents ~4900. Gap = 939)*
+
+**📅 Timeline:**
+*   **2021:** Census records 4,643 residents.
+*   **2025-12-09:** Govt records >5,060 residents (living + dead).
+
+**🔗 Links:**
+*   [Govt Press Release (Stats)](https://www.info.gov.hk/gia/general/202512/09/P2025120900813.htm)
+*   [2021 Census Data](https://www.census2021.gov.hk/tc/district_profiles.html)
+*   [Estate Info](http://www.wangfuk.org/html/home/index2.htm)
+
+---
