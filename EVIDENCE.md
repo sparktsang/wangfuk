@@ -478,6 +478,62 @@ The Government confirmed post-fire that the material was "flammable." Yet, this 
 
 ---
 
+### 🆔 [E-SAFETY-2024-07-19-04] The Blinded Victims: How Styrofoam Stole the "Golden Hour" of Escape
+
+**🚨 Significance:**
+
+Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-159-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
+
+**1. The "One Hour" Delay:**
+Mr. Wong, a survivor, was working from home. He heard no alarm. When a friend called to warn him, he tried to check outside but **"could not see"** because the windows were sealed with Styrofoam.
+*   *The Cost:* He only realized the danger when smoke penetrated his home. By then, it was **one hour** after the fire started (2:51 PM). In a rapidly spreading fire, a 60-minute lag is a death sentence.
+
+**2. The "Dust" Trap:**
+Another survivor noted that due to construction dust, "99% of people kept windows tightly closed." The foam boards left only a "tiny gap", making it impossible to check the situation without physically opening the window.
+*   *The Consequence:* Residents were effectively sealed inside a box, blind to the inferno consuming the neighboring towers until the heat or smoke breached their units.
+
+**3. The Systemic Failure of Warning:**
+The combination of **Silent Alarms** + **Blinded Windows** meant that for many, the "First Warning" was not a bell or a sight, but the sensation of **suffocation**.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The 1-Hour Blindness**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "本想朝外看看，可是，窗戶因工程關係，已被**發泡膠封死**，欲看無從。... 直到聞到濃烈煙味才知道情況有異。那時距最初...起火...已過了**一個多小時**。"
+>
+> *Translation:*
+> "He wanted to look outside, but the windows were **sealed dead with Styrofoam** due to construction... He only realized something was wrong when he smelled strong smoke. By then, **more than an hour** had passed since the fire started."
+
+> **Evidence [B]: The "Tiny Gap" Barrier**
+> *Source: Medical Inspire / 2025-11-27*
+>
+> "全屋嘅窗都包哂發泡膠，**開得好細條隙**，個窗係開唔盡望唔到出面... 唔少人係開窗先知有火係竹棚燒緊..."
+>
+> *Translation:*
+> "Whole house's windows wrapped in Styrofoam, only a **tiny gap** could be opened... couldn't open fully to see out... Many only realized the bamboo scaffolding was on fire when they opened the window."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The sealing was necessary to protect the glass from debris. Residents could still open windows if needed. We cannot be blamed for residents not checking outside. It is standard practice to shield windows during external works."
+
+**The Logical Trap:**
+1.  **Transparency is Safety:** "Protecting glass" does not require "Opaque Foam." Transparent protective films or clear rigid sheets exist. Choosing an **opaque** material specifically blinded the residents.
+2.  **The "Active Check" Fallacy:** Expecting residents to actively open a sealed, dusty window to "check for fire" (when no alarm sounded) contradicts psychology. People rely on *passive* cues (seeing smoke/light) to react.
+3.  **Situational Awareness:** By simultaneously disabling the **auditory warning** (alarms) and the **visual warning** (windows), the contractors created a "Zero-Warning Environment." 
+
+**📅 Timeline:**
+*   **2:51 PM:** Fire starts at Wang Cheong Court.
+*   **2:51 - 3:50 PM:** Mr. Wong works at home, blind and deaf to the fire due to sealed windows and silent alarms.
+*   **~3:50 PM:** Mr. Wong smells smoke (1 hour lost).
+
+**🔗 Links:**
+*   [MP Weekly Report](https://www.mpweekly.com/culture/社會/宏福苑五級火-宏福苑災民-大埔-261264)
+*   [Medical Inspire Report](https://medicalinspire.com/posts/101902/大埔-宏福苑五級大火-親身剖白：警鐘無響、水喉無水……致命「發泡膠封窗」成死亡陷阱？)
+
+---
+
 ### 🆔 [E-SAFETY-2024-11-15-01] The Insurance Boycott
 
 **🚨 Significance:**
@@ -734,6 +790,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 **🔗 Links:** [Official Minutes Directory](http://www.wangfuk.org/html/meeting/index.htm) | [Backup Repo](https://github.com/sparktsang/wangfuk) | [Combined Markdown Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
 
 ---
+
 ### 🆔 [E-SAFETY-2025-11-27-01] The "Open Secret": Fake Certificates
 
 **🚨 Significance:**
