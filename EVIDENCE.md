@@ -355,22 +355,24 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 
 ---
 
-### 🆔 [E-SAFETY-2024-07-19-02] The "Powerless" Lie: How the Watchdog Signed Off on the Fire
+### 🆔 [E-SAFETY-2024-07-19-02] The "Powerless" Lie: How the Watchdog Approved the Kill
 
 **🚨 Significance:**
 
-Post-disaster, a Senior Project Officer from the Consultant (**Will Power/鴻毅**) attempted to rewrite history, claiming they "strongly opposed" (極力反對) the use of Styrofoam but were overruled because they were "not the employer." This defense is contradicted by procedural facts and the physical presence of their leadership.
+Post-disaster, a Senior Project Officer from the Consultant (**Will Power/鴻毅**) attempted to rewrite history, claiming they "strongly opposed" the use of Styrofoam but were overruled because they were "not the employer." This defense is contradicted by procedural facts, expert opinion, and their active role in suppressing resident concerns.
 
 **1. The "Gatekeeper" became the "Doorman":**
-Sources confirm that all material procurement required Will Power's written approval (入紙...由鴻毅簽署確認).
-*   *The Contradiction:* You cannot "strongly oppose" something and then **sign the approval form**. If the Consultant truly opposed it on safety grounds, they had the contractual power—and professional duty—to reject the material submission. Signing it converted their "opposition" into "authorization."
+Sources confirm that all material procurement required Will Power's written approval.
+*   *The Contradiction:* You cannot "strongly oppose" something and then **sign the approval form**. If the Consultant truly opposed it on safety grounds, they had the contractual power—and professional duty—to reject the material submission. 
 
-**2. The Silent Director:**
-On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stage while the Contractor presented the Styrofoam sealing method as a standard procedure to residents.
-*   *The Implication:* If the firm "strongly opposed" this hazard, the Director should have intervened *during the public briefing*. His silence signaled to the residents that the Styrofoam method was professionally endorsed and safe.
+**2. The Power to Stop Work:**
+Independent expert Engineer "Siu" confirms that consultants have full authority to inspect **Material On Site (MOS)**. If materials violate safety standards or deviate from the plan, the consultant has the **absolute right to order a work stoppage**. Claiming powerlessness is a lie.
 
-**3. Blaming the Layman:**
-The Officer's excuse—"I am not the employer"—is a deflection. The "Employer" (the Management Committee) consists of laymen who hired the Consultant specifically to identify and reject technical risks. Blaming the client for a technical safety failure is a fundamental breach of professional ethics.
+**3. From Passive to Active Complicity:**
+Evidence shows Will Power went beyond "passive acceptance." They actively **defended the Styrofoam** to residents ("no problem," "not illegal") and **used financial threats** ("pay compensation") to crush resident opposition. They were not helpless bystanders; they were the enforcers of the hazardous policy.
+
+**4. The Silent Director:**
+On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stage while the Contractor presented the Styrofoam sealing method. His silence signaled professional endorsement.
 
 **📜 Original Record:**
 
@@ -390,7 +392,23 @@ The Officer's excuse—"I am not the employer"—is a deflection. The "Employer"
 > *Translation:*
 > "Source stated... before procuring any materials, Prestige had to submit forms to Will Power, which were **signed and confirmed by Will Power**."
 
-> **Evidence [C]: The Public Endorsement**
+> **Evidence [C]: The Expert Rebuttal (Power to Stop)**
+> *Source: HK Feature / 2025-11-29*
+>
+> "顧問工程師邵研新...表示...三個環節中只要有一項不符合標準，顧問公司**絕對有權要求工程公司停工**。"
+>
+> *Translation:*
+> "Consultant Engineer Siu... stated... if any part does not meet standards, the Consultant has the **absolute right to order the engineering company to stop work**."
+
+> **Evidence [D]: The Active Suppression**
+> *Source: Ming Pao / 2025-12-10*
+>
+> "顧問公司「鴻毅」...以「已買料」為由，**要求居民先賠償**，加上鴻毅稱**發泡膠無問題**..."
+>
+> *Translation:*
+> "Consultant 'Will Power'... citing 'materials bought', **demanded residents pay compensation first**, adding that **Styrofoam was no problem**..."
+
+> **Evidence [E]: The Public Endorsement**
 > *Source: Green Bean Media / 2024-07-19*
 >
 > "工程顧問「鴻毅」董事**黃俠然**...均有出席。...譚雋生...展示了...所用物料正是白色發泡膠。"
@@ -401,22 +419,29 @@ The Officer's excuse—"I am not the employer"—is a deflection. The "Employer"
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**
-"Our role is advisory. We warned the MC about the risks, but the MC/Contractor insisted on the cheaper/safer-for-glass option. We cannot physically stop the work. We prioritized protecting the windows as requested by the client."
+"The 'compensation claim' was a contractual reality we had to inform residents about. We cannot arbitrarily stop work without exposing the MC to legal liability from the Contractor."
 
 **The Logical Trap:**
-1.  **Professional Duty > Client Whim:** A registered architect/engineer has a statutory duty to public safety that overrides client instructions. If a client orders something illegal or life-threatening (like wrapping a building in fuel), the professional must **refuse to certify** and report to the Buildings Department, not just "advise against it."
-2.  **The "Paper Trail" Challenge:** If they "strongly opposed" it, show us the **written warning letters** or **Non-Conformance Reports (NCR)** issued to the Contractor. If the only record is the "Approval Signature," then the "opposition" is a fabrication.
-3.  **The "Safety" Paradox:** Protecting glass windows (property) at the expense of fire safety (life) is a gross misjudgment of priorities. A professional consultant knows that life safety code always trumps property protection.
+1.  **Safety > Contract:** A contract that endangers life is unenforceable in that aspect. Stopping work for *safety reasons* (fire hazard) is a valid exercise of the Consultant's duty. Fearing a lawsuit more than a mass casualty event is professional cowardice.
+2.  **The "Material On Site" Check:** As Engineer Siu noted, the Consultant checks materials upon arrival. If they knew it was Styrofoam and knew it was flammable (which they admitted they did by "strongly opposing" it initially), they had a duty to reject the delivery *before* it was installed.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Professional Conduct of Architects/Engineers.
+*   **Role:** Authorized Person (AP) / Registered Structural Engineer (RSE) responsibilities under Buildings Ordinance.
 
 **📅 Timeline:**
 *   **2024-07-19:** Director silent at briefing.
-*   **2024-Pre-Construction:** Consultant signs off on Styrofoam material form.
-*   **2025-11-30:** Officer claims they "opposed" it.
+*   **2024-Pre-Construction:** Will Power signs off on Styrofoam.
+*   **2024-09:** Will Power demands residents pay compensation if they want to switch materials.
+*   **2025-11-30:** Will Power officer claims they were "powerless."
 
 **🔗 Links:**
 *   [HK01 Report](https://www.hk01.com/article/60299166)
-*   [Green Bean Report](https://greenbean.media/宏福苑五級火｜總承建商涉另外11項私樓工程｜上年/)
 *   [Oriental Daily Report](https://orientaldaily.on.cc/content/news/odn-20251202-1202_00176_021/)
+*   [HK Feature Report](https://www.facebook.com/hkfeature2019/posts/pfbid034mmgD3ZJjkeSBTatbaPnEzmbrfMCGmyQfLnm7ZPS19XSXv4v72dNpjBH85pddN17l)
+*   [Ming Pao Report](https://news.mingpao.com/pns/要聞/article/20251210/s00001/1765304157006)
+*   [Green Bean Report](https://greenbean.media/宏福苑五級火｜總承建商涉另外11項私樓工程｜上年/)
 *   [Presentation by Prestige & Will Power](http://223.197.186.25:8080/wangfuk/工程解說會VDO.mp4)
 
 ---
@@ -531,6 +556,58 @@ The combination of **Silent Alarms** + **Blinded Windows** meant that for many, 
 **🔗 Links:**
 *   [MP Weekly Report](https://www.mpweekly.com/culture/社會/宏福苑五級火-宏福苑災民-大埔-261264)
 *   [Medical Inspire Report](https://medicalinspire.com/posts/101902/大埔-宏福苑五級大火-親身剖白：警鐘無響、水喉無水……致命「發泡膠封窗」成死亡陷阱？)
+
+---
+
+### 🆔 [E-SAFETY-2024-10-02-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"
+
+**🚨 Significance:**
+
+Residents were not ignorant of the danger; they were silenced by financial intimidation. When residents raised concerns about the flammability of the Styrofoam boards in September 2024, the Contractor (**Prestige**) and Consultant (**Will Power**) refused to stop, citing "materials already purchased."
+
+**1. Safety Held Hostage:**
+Instead of prioritizing life safety, the professionals threatened residents with **"Compensation Claims"** if they insisted on changing the materials immediately. This forced a fatal situation: the Contractor insisted on using the lethal Styrofoam to avoid "wasted stock." While some residents believed a "compromise" was reached to switch to safer materials later, post-fire confirmation by the MC Chairman that **"every window was sealed with Styrofoam"** suggests that this promise was either a stalling tactic or the "stock" was conveniently enough to cover the whole estate.
+
+**2. Professional Gaslighting:**
+When challenged, the Consultant (**Will Power**) defended the hazard.
+*   *The Lie:* They told residents "Styrofoam is no problem" and claimed: **"The Government has not stipulated that flammable materials cannot be used."**
+*   *The Betrayal:* This statement abdicates all professional duty. A consultant is hired to ensure safety, not to exploit regulatory loopholes to justify using kindling on a high-rise.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Financial Threat**
+> *Source: Ming Pao / 2025-12-10*
+>
+> "宏業也表明已買物料，倘居民要求即時更換，**要先賠償**。...鴻毅稱以已購入的發泡膠作保護**無問題**... 居民最終「妥協」，改為要求**用完已購買的發泡膠後**，改購...「瓦通膠板」..."
+>
+> *Translation:*
+> "Prestige stated materials were bought; if residents demanded immediate change, they **must pay compensation first**... Will Power claimed using the purchased Styrofoam was **no problem**... Residents eventually 'compromised', allowing the use of **existing Styrofoam stock first** before switching to... 'Corrugated Plastic Boards'..."
+
+> **Evidence [B]: The "Not Illegal" Defense**
+> *Source: HK Feature / 2025-11-29*
+>
+> "居民致電該顧問公司，對方竟表示「**政府無規定不可以使用易燃物料**」。"
+>
+> *Translation:*
+> "Residents called the Consultant, who shockingly replied: '**The Government has not stipulated that flammable materials cannot be used**'."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We respected the contract. Scrapping purchased materials would incur additional costs. We intended to switch materials but logistical constraints or stock levels meant Styrofoam was used. The residents agreed to the arrangement."
+
+**The Logical Trap:**
+1.  **The "Stock" Deception:** If the "compromise" was to use up existing stock, and yet *all* 8 towers were finished with Styrofoam, it implies the contractor had pre-purchased enough lethal material for the entire project from day one. The "compromise" was a lie to silence dissent.
+2.  **Cost vs. Life:** Prioritizing "sunk costs" over "fire risk" is the definition of negligence. A competent professional does not negotiate on lethal hazards.
+
+**📅 Timeline:**
+*   **2024-09:** Residents object to Styrofoam. Consultant threatens compensation claims.
+*   **2024-Late:** Styrofoam installation continues despite "compromise."
+*   **2025-11-26:** Fire reveals all windows were sealed with foam.
+
+**🔗 Links:**
+*   [Ming Pao Report](https://news.mingpao.com/pns/要聞/article/20251210/s00001/1765304157006)
+*   [HK Feature Post](https://www.facebook.com/hkfeature2019/posts/pfbid034mmgD3ZJjkeSBTatbaPnEzmbrfMCGmyQfLnm7ZPS19XSXv4v72dNpjBH85pddN17l)
 
 ---
 
