@@ -141,14 +141,14 @@ A catastrophic failure in construction safety turned the primary escape route in
 **1. The Fatal irony:**
 *   **What was paid for:** 316 Stainless Steel, sealed, fire-rated windows designed to prevent smoke ingress.
 *   **What was installed:** Wooden boards with holes, which are flammable and allow smoke to freely enter the staircase.
-*   **The Consequence:** During the fire, these holes allowed thick smoke to penetrate the staircase—the only escape route—turning it into a chimney. The staircase was reportedly "filled with thick smoke", directly contributing to the high casualty count in **Wang Tai Court** (82 deaths), which was not even the fire's origin.
+*   **The Consequence:** During the fire, these holes allowed thick smoke to penetrate the staircase—the only escape route—turning it into a chimney. The staircase was reportedly "filled with thick smoke", directly contributing to the high casualty count in **Wang Tai House** (82 deaths), which was not even the fire's origin.
 
 **2. The Regulatory Violation:**
 This practice flagrantly violates the **Code of Practice for Fire Safety in Buildings 2011**, Section C9.7, which mandates that staircase openings must be protected by fixed windows with fire resistance ratings equal to the staircase walls.
 *   *Expert Opinion:* Engineer Lau Tak-on (劉德安) called it "completely unacceptable", noting that even temporary openings require fire-resistant sealing (e.g., gypsum board, fire wool), not just "a piece of wood with a hole."
 
 **3. The Missing Upgrade:**
-Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frames to "316 Stainless Steel." Yet, on-site inspection at Wang Tai Court revealed that on floors 5, 10, 15, 20, and 25, **no such frames were visible**—only the deadly wooden boards or gaping holes remained.
+Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frames to "316 Stainless Steel." Yet, on-site inspection at Wang Tai House revealed that on floors 5, 10, 15, 20, and 25, **no such frames were visible**—only the deadly wooden boards or gaping holes remained.
 
 **📜 Original Record:**
 
@@ -176,7 +176,7 @@ Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frame
 > "宏泰閣逃生梯在原來窗口位置，裝了一塊「**開窿、漏罅**」的木板... 李先生形容「後樓梯係求生的唯一通道， 𠵱家係畀人鑿穿咗後欄，任濃煙入到應最遲先入嘅地方...」"
 >
 > *Translation:*
-> "In Wang Tai Court's escape staircase... a '**perforated, leaky**' wooden board was installed... Mr. Lee described: 'The rear staircase is the only survival route, now someone has chiseled through the back door, allowing thick smoke to enter where it should enter last...'"
+> "In Wang Tai House's escape staircase... a '**perforated, leaky**' wooden board was installed... Mr. Lee described: 'The rear staircase is the only survival route, now someone has chiseled through the back door, allowing thick smoke to enter where it should enter last...'"
 
 > **Evidence [D]: The "Missing" Steel Frames**
 > *Source: The Collective HK (集誌社) / 2025-12-05*
@@ -184,16 +184,16 @@ Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frame
 > "宏泰閣... 在 5 樓 、10樓、15 樓、20 樓、25 樓，亦**未能見到「日」字型的窗框**..."
 >
 > *Translation:*
-> "Wang Tai Court... on floors 5, 10, 15, 20, 25, **the box‑grid [stainless steel] window frames were not visible**..."
+> "Wang Tai House... on floors 5, 10, 15, 20, 25, **the box‑grid [stainless steel] window frames were not visible**..."
 > *(Analysis: This contradicts the Nov 15 minutes approving the steel upgrade. Where did the money go?)*
 
-> **Evidence [E]: Death Toll in Wang Tai Court**
+> **Evidence [E]: Death Toll in Wang Tai House**
 > *Source: Multiple*
 >
 > "宏昌閣及宏泰閣，分別有70及82人喪生"
 >
 > *Translation:*
-> "Wang Cheung Court and Wang Tai Court...70 and 82 fatalities respectively"
+> "Wang Cheung Court and Wang Tai House...70 and 82 fatalities respectively"
 
 **¶ Statutory Basis:**
 
@@ -209,7 +209,7 @@ Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frame
 *   [The Collective Report](https://thecollectivehk.com/宏福苑五級火直擊走火樓梯漏洞密封窗疑變開窿)
 *   [Minutes EGM (Fire Rated Windows)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
 *   [Minutes 7 (Steel Frame)](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20第十二屆第七次會議紀錄.pdf)
-*   Deaths in Wang Tai Court: [[1]](https://news.tvb.com/tc/local/69300a52ada134dbdf40370d/港澳-宏福苑五級火｜增至159死-絕大部分來自宏昌宏泰閣) [[2]](https://thecollectivehk.com/宏福苑五級火｜完成七廈搜索159-死-31失聯　宏泰、宏/) [[3]](https://www.hk01.com/突發/60300234/宏福苑大火災-159人死最細1歲-各廈死亡人數一文看清) [[4]](https://zh-yue.wikipedia.org/wiki/宏福苑大火) [[5]](https://www.ettoday.net/news/20251205/3078839.htm) [[6]](https://orientaldaily.on.cc/content/要聞港聞/odn-20251204-1204_00176_023/災廈完成搜索--宏昌宏泰最多人罹難) [[7]](https://hk.news.yahoo.com/share/69333abe-0f92-4c35-9745-938c8ac333a7) [[8]](https://www.stheadline.com/breaking-news/3523579/大埔宏福苑五級火死者分佈一覽-宏昌宏泰閣最嚴重-周一鳴部份單位發現骨頭仍有待檢驗) 
+*   Deaths in Wang Tai House: [[1]](https://news.tvb.com/tc/local/69300a52ada134dbdf40370d/港澳-宏福苑五級火｜增至159死-絕大部分來自宏昌宏泰閣) [[2]](https://thecollectivehk.com/宏福苑五級火｜完成七廈搜索159-死-31失聯　宏泰、宏/) [[3]](https://www.hk01.com/突發/60300234/宏福苑大火災-159人死最細1歲-各廈死亡人數一文看清) [[4]](https://zh-yue.wikipedia.org/wiki/宏福苑大火) [[5]](https://www.ettoday.net/news/20251205/3078839.htm) [[6]](https://orientaldaily.on.cc/content/要聞港聞/odn-20251204-1204_00176_023/災廈完成搜索--宏昌宏泰最多人罹難) [[7]](https://hk.news.yahoo.com/share/69333abe-0f92-4c35-9745-938c8ac333a7) [[8]](https://www.stheadline.com/breaking-news/3523579/大埔宏福苑五級火死者分佈一覽-宏昌宏泰閣最嚴重-周一鳴部份單位發現骨頭仍有待檢驗) 
 
 ---
 
@@ -458,7 +458,7 @@ The combination of **Silent Alarms** + **Blinded Windows** meant that for many, 
 3.  **Situational Awareness:** By simultaneously disabling the **auditory warning** (alarms) and the **visual warning** (windows), the contractors created a "Zero-Warning Environment." 
 
 **📅 Timeline:**
-*   **2:51 PM:** Fire starts at Wang Cheong Court.
+*   **2:51 PM:** Fire starts at Wang Cheong House.
 *   **2:51 - 3:50 PM:** Mr. Wong works at home, blind and deaf to the fire due to sealed windows and silent alarms.
 *   **~3:50 PM:** Mr. Wong smells smoke (1 hour lost).
 
