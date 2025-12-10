@@ -667,6 +667,80 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 ---
 
+### 🆔 [E-SAFETY-2025-03-30-01] The "No Big Problem" Discrepancy & The 180-Day Safety Gap
+
+**🚨 Significance:**
+
+There is a clear gap between what the fire contractor, Victory Fire Engineering (宏泰消防工程有限公司), said in public and what the estate’s own records show.
+
+**1. Public Statement (Dec 4):**
+Victory said the fire system was "working normally" in March and that there were "no big problems."
+
+**2. Internal Records (Sep 29):**
+The estate listed a **$144,170 repair package** for major fire-safety parts, including:
+
+* Fire Inlet Valves
+* Hose Reel Assemblies
+* Fire Bells
+  These are core safety components, not cosmetic items.
+
+**3. Direct Link:**
+The documents say the September repair tender was issued **"after the Annual Inspection."**
+So these problems came from the March inspection done by Victory.
+
+**4. Long Delay:**
+The repairs were not approved until September—about **180 days** after the issues were found.
+
+**5. The Contradiction:**
+Publicly: "No big problems."
+Internally: A long list of repairs on critical fire-safety parts.
+
+These are documented discrepancies. The public can judge what they mean.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Source of Defects (The March Link)**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10.1**
+> "管理處報告於 2025 年 9 月 1 日共向 8 間消防承辦商發出**消防年檢後的設備執修**報價邀請。"
+>
+> *Translation:*
+> "The Management Office reported that on Sept 1, 2025, invitations... were issued for equipment rectification **following the fire annual inspection**."
+> *(Analysis: This establishes the defects as findings stemming from the March Annual Inspection.)*
+
+> **Evidence [B]: The Nature of Defects (Core Safety Components)**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10.2**
+> "...主要包括：**消防入水掣**、喉轆組件(...閘掣...)、**消防警鐘**..."
+>
+> *Translation:*
+> **10.2**
+> "...mainly including: **Fire Inlet Valves**, Hose Reel Assemblies (...Gate Valves...), **Fire Bells**..."
+
+> **Evidence [C]: The Public Statement**
+> *Source: Now News / 2025-12-04*
+>
+> "宏泰...公司代表提到，三月為屋苑進行年檢時，**消防裝置運作正常**... 董事鍾先生：「...在年檢時是沒有問題，**沒有大問題**。」"
+>
+> *Translation:*
+> "Victory... representative stated that during the March annual inspection, **fire installations were functioning normally**... Director Mr. Chung: '...there were **no big problems**.'"
+
+**📅 Timeline:**
+
+* **2025-03:** Victory identifies issues during Annual Inspection.
+* **2025-03 → 2025-09:** Six-month delay before tendering.
+* **2025-09-01:** Tender issued "following annual inspection."
+* **2025-11-26:** Fire occurs.
+* **2025-12-04:** Victory asserts "no big problems" during March inspection.
+
+**🔗 Links:**
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
+
+---
+
 ### 🆔 [E-SAFETY-2025-05-21-01] The 10-Month Ghost Supervisor & The "Closed-Loop" Collusion
 
 **🚨 Significance:**
@@ -735,7 +809,7 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 
 ---
 
-### 🆔 [E-SAFETY-2025-10-31-01] The Price of Life: HK$593 per Victim & The 5% Decoy
+### 🆔 [E-SAFETY-2025-10-18-01] The Price of Life: HK$593 per Victim & The 5% Decoy
 
 **🚨 Significance:**
 
@@ -998,80 +1072,6 @@ Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied 
 *   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
 *   [Info.gov.hk (Press Conference)](https://www.info.gov.hk/gia/general/202512/03/P2025120300826.htm)
 *   [HK Criminal Lawyers](https://hkcriminallawyers.com/虛假陳述/)
-
----
-
-### 🆔 [E-SAFETY-2025-12-04-01] The "No Big Problem" Discrepancy & The 180-Day Safety Gap
-
-**🚨 Significance:**
-
-There is a clear gap between what the fire contractor, Victory Fire Engineering (宏泰消防工程有限公司), said in public and what the estate’s own records show.
-
-**1. Public Statement (Dec 4):**
-Victory said the fire system was "working normally" in March and that there were "no big problems."
-
-**2. Internal Records (Sep 29):**
-The estate listed a **$144,170 repair package** for major fire-safety parts, including:
-
-* Fire Inlet Valves
-* Hose Reel Assemblies
-* Fire Bells
-  These are core safety components, not cosmetic items.
-
-**3. Direct Link:**
-The documents say the September repair tender was issued **"after the Annual Inspection."**
-So these problems came from the March inspection done by Victory.
-
-**4. Long Delay:**
-The repairs were not approved until September—about **180 days** after the issues were found.
-
-**5. The Contradiction:**
-Publicly: "No big problems."
-Internally: A long list of repairs on critical fire-safety parts.
-
-These are documented discrepancies. The public can judge what they mean.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Source of Defects (The March Link)**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10.1**
-> "管理處報告於 2025 年 9 月 1 日共向 8 間消防承辦商發出**消防年檢後的設備執修**報價邀請。"
->
-> *Translation:*
-> "The Management Office reported that on Sept 1, 2025, invitations... were issued for equipment rectification **following the fire annual inspection**."
-> *(Analysis: This establishes the defects as findings stemming from the March Annual Inspection.)*
-
-> **Evidence [B]: The Nature of Defects (Core Safety Components)**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10.2**
-> "...主要包括：**消防入水掣**、喉轆組件(...閘掣...)、**消防警鐘**..."
->
-> *Translation:*
-> **10.2**
-> "...mainly including: **Fire Inlet Valves**, Hose Reel Assemblies (...Gate Valves...), **Fire Bells**..."
-
-> **Evidence [C]: The Public Statement**
-> *Source: Now News / 2025-12-04*
->
-> "宏泰...公司代表提到，三月為屋苑進行年檢時，**消防裝置運作正常**... 董事鍾先生：「...在年檢時是沒有問題，**沒有大問題**。」"
->
-> *Translation:*
-> "Victory... representative stated that during the March annual inspection, **fire installations were functioning normally**... Director Mr. Chung: '...there were **no big problems**.'"
-
-**📅 Timeline:**
-
-* **2025-03:** Victory identifies issues during Annual Inspection.
-* **2025-03 → 2025-09:** Six-month delay before tendering.
-* **2025-09-01:** Tender issued "following annual inspection."
-* **2025-11-26:** Fire occurs.
-* **2025-12-04:** Victory asserts "no big problems" during March inspection.
-
-**🔗 Links:**
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
-*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
 
 ---
 
