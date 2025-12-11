@@ -741,6 +741,73 @@ These are documented discrepancies. The public can judge what they mean.
 
 ---
 
+### 🆔 [E-SAFETY-2025-05-01-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"
+
+**🚨 Significance:**
+
+A whistleblower exposes that the disabling of the fire alarm system was not a technical failure, but a deliberate operational choice by the Property Management Company, **ISS EastPoint**. Despite warnings from their own Security Manager in May 2025, ISS management allegedly ignored the risk to facilitate worker movement, directly contributing to the system's silence during the disaster.
+
+**1. The Whistleblower's Testimony:**
+Mr. Wong, a former Security Manager, revealed that he found the fire alarm system switched off on his first day.
+*   *The Motive:* When he questioned his superiors, he was told it was to "facilitate workers using the rear staircase" without triggering alarms or dirtying the lobby.
+*   *The Complicity:* Only security staff (ISS employees) had access to the control panel. This implies ISS staff actively turned off the life-saving system for convenience.
+
+**2. The Corporate Denial (The "Admin" Defense):**
+Both ISS EastPoint (HK) and its parent company ISS Group (Denmark) issued statements distancing themselves from liability.
+*   *The Defense:* They claimed their role was merely "administrative support" and that they did not "conduct installation/maintenance" of fire equipment.
+*   *The Lie by Omission:* While they didn't *repair* the equipment, they **controlled** it. They failed to address the allegation that their staff *manually disabled* functional equipment.
+
+**3. The Global Fallout:**
+Following a South China Morning Post report naming ISS, the group's shares dropped nearly **8%**. This market reaction suggests investors recognize the potential liability for gross negligence, despite the company's attempt to hide behind contract clauses.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Whistleblower's Account**
+> *Source: HK01 / 2025-11-28*
+>
+> "入職首天已發現屋苑的火警系統被關閉... 上司表示要方便工人從走火樓梯出入... 只有保安可以接觸消防系統面板..."
+>
+> *Translation:*
+> "Found fire alarm system switched off on day one... Superiors said it was to facilitate workers using the rear stairs... Only security guards can access the fire system panel..."
+
+> **Evidence [B]: ISS Corporate Denial**
+> *Source: ISS Group Statement / 2025-12-02*
+>
+> "ISS EPPL did not conduct the installation, maintenance and inspection of fire safety equipment... was not responsible for the oversight of the renovation..."
+
+> **Evidence [C]: The Market Reaction**
+> *Source: Reuters / 2025-12-03*
+>
+> "Its statement... sent the group's shares down about 8%... risk that ISS could be liable for some penalties and/or damages..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense (ISS):**
+"We are not fire safety experts. The system's status is the responsibility of the registered fire contractor (Victory). If the system was off, it was likely due to ongoing maintenance work authorized by the contractor or the MC. Our staff merely followed instructions to facilitate approved works."
+
+**The Logical Trap:**
+1.  **Custodian Responsibility:** As the property manager, ISS is the "custodian" of the building. If a contractor asks to disable a life-safety system for *convenience* (not repair), the manager has a duty to say **NO**. Prioritizing "clean lobbies" over "active alarms" is a fatal dereliction of duty.
+2.  **The "May" Timeline:** The whistleblower resigned in **May 2025**. The fire happened in **Nov 2025**. If the alarm was off in May for "maintenance," and still off (or repeatedly off) in November, ISS allowed the building to be unprotected for **6 months**. No "maintenance" justifies a 6-month blackout of safety systems.
+3.  **The "Panel" Access:** Since only security can touch the panel, the physical act of turning it off was done by ISS hands. You cannot wash your hands of a switch you flipped.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Property Management Services Authority, [General Code of Conduct](https://www.pmsa.org.hk/file/809/1.-Code-of-Conduct_General-Code-of-Conduct-ENG.pdf).
+*   **Liability:** [Gross Negligence Manslaughter](https://www.elegislation.gov.hk/hk/cap212!en/s7?_lang=en) | [Right of Action](https://www.elegislation.gov.hk/hk/cap22!en/s3?_lang=en) | [Negligence liability](https://www.elegislation.gov.hk/hk/cap71!en/s7?_lang=en)
+
+**📅 Timeline:**
+*   **2025-05-01:** Whistleblower Wong starts, finds alarm OFF.
+*   **2025-05-14:** Wong resigns after warnings ignored.
+*   **2025-11-26:** Fire occurs; 7/8 towers have no functional alarm.
+*   **2025-12-02:** ISS issues denial statement.
+
+**🔗 Links:**
+*   [HK01 Report (Whistleblower)](https://www.hk01.com/社會新聞/60298282)
+*   [ISS World Statement](https://www.issworld.com/en/news/2025/12/02/iss-group-provides-update-on-wang-fuk-court-fires-in-hong-kong)
+*   [Reuters Report](https://www.reuters.com/world/china/facility-services-group-iss-says-it-supports-investigation-into-hong-kong-fire-2025-12-02/)
+
+---
+
 ### 🆔 [E-SAFETY-2025-05-21-01] The 10-Month Ghost Supervisor & The "Closed-Loop" Collusion
 
 **🚨 Significance:**
