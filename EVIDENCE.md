@@ -796,85 +796,11 @@ Allowing a contractor to define a schedule as "Until Done" is a failure of the *
 
 ---
 
-### 🆔 [E-SAFETY-2025-03-30-01] The "No Big Problem" Discrepancy & The 180-Day Safety Gap
-
-**🚨 Significance:**
-
-There is a clear gap between what the fire contractor, Victory Fire Engineering (宏泰消防工程有限公司), said in public and what the estate’s own records show.
-
-**1. Public Statement (Dec 4):**
-Victory said the fire system was "working normally" in March and that there were "no big problems."
-
-**2. Internal Records (Sep 29):**
-The estate listed a **$144,170 repair package** for major fire-safety parts, including:
-
-* Fire Inlet Valves
-* Hose Reel Assemblies
-* Fire Bells
-  These are core safety components, not cosmetic items.
-
-**3. Direct Link:**
-The documents say the September repair tender was issued **"after the Annual Inspection."**
-So these problems came from the March inspection done by Victory.
-
-**4. Long Delay:**
-The repairs were not approved until September—about **180 days** after the issues were found.
-
-**5. The Contradiction:**
-Publicly: "No big problems."
-Internally: A long list of repairs on critical fire-safety parts.
-
-These are documented discrepancies. The public can judge what they mean.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Source of Defects (The March Link)**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10.1**
-> "管理處報告於 2025 年 9 月 1 日共向 8 間消防承辦商發出**消防年檢後的設備執修**報價邀請。"
->
-> *Translation:*
-> "The Management Office reported that on Sept 1, 2025, invitations... were issued for equipment rectification **following the fire annual inspection**."
-> *(Analysis: This establishes the defects as findings stemming from the March Annual Inspection.)*
-
-> **Evidence [B]: The Nature of Defects (Core Safety Components)**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10.2**
-> "...主要包括：**消防入水掣**、喉轆組件(...閘掣...)、**消防警鐘**..."
->
-> *Translation:*
-> **10.2**
-> "...mainly including: **Fire Inlet Valves**, Hose Reel Assemblies (...Gate Valves...), **Fire Bells**..."
-
-> **Evidence [C]: The Public Statement**
-> *Source: Now News / 2025-12-04*
->
-> "宏泰...公司代表提到，三月為屋苑進行年檢時，**消防裝置運作正常**... 董事鍾先生：「...在年檢時是沒有問題，**沒有大問題**。」"
->
-> *Translation:*
-> "Victory... representative stated that during the March annual inspection, **fire installations were functioning normally**... Director Mr. Chung: '...there were **no big problems**.'"
-
-**📅 Timeline:**
-
-* **2025-03:** Victory identifies issues during Annual Inspection.
-* **2025-03 → 2025-09:** Six-month delay before tendering.
-* **2025-09-01:** Tender issued "following annual inspection."
-* **2025-11-26:** Fire occurs.
-* **2025-12-04:** Victory asserts "no big problems" during March inspection.
-
-**🔗 Links:**
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
-*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
-
----
-
 ### 🆔 [E-SAFETY-ALARM-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"
 
 **🚨 Significance:**
 
-A whistleblower exposes that the disabling of the fire alarm system was not a technical failure, but a deliberate operational choice by the Property Management Company, **ISS EastPoint**. Despite warnings from their own Security Manager in May 2025, ISS management allegedly ignored the risk to facilitate worker movement, directly contributing to the system's silence during the disaster.
+The fire alarm system failed to sound in 7 out of 8 towers during the disaster. A whistleblower exposes that the disabling of the fire alarm system was not a technical failure, but a deliberate operational choice by the Property Management Company, **ISS EastPoint**. Despite warnings from their own Security Manager in May 2025, ISS management allegedly ignored the risk to facilitate worker movement, directly contributing to the system's silence during the disaster.
 
 **1. The Whistleblower's Testimony:**
 Mr. Wong, a former Security Manager, revealed that he found the fire alarm system switched off on his first day.
@@ -891,7 +817,15 @@ Following a South China Morning Post report naming ISS, the group's shares dropp
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Whistleblower's Account**
+> **Evidence [A]: Silent Alarm**  
+> *Source: Oriental Daily / 2025-12-03*  
+>  
+> "消防處：8幢大廈僅宏新閣警鐘曾響...根據前線救援人員...宏新閣...警鐘在火警發生期間曾經鳴響"  
+>  
+> *Translation:*  
+> "FSD: Of the eight buildings, only the alarm at Wang Sun House sounded... According to frontline rescuers...Wang Sun House’s fire alarm system sounded during the fire"
+
+> **Evidence [B]: The Whistleblower's Account**
 > *Source: HK01 / 2025-11-28*
 >
 > "入職首天已發現屋苑的火警系統被關閉... 上司表示要方便工人從走火樓梯出入... 只有保安可以接觸消防系統面板..."
@@ -899,12 +833,12 @@ Following a South China Morning Post report naming ISS, the group's shares dropp
 > *Translation:*
 > "Found fire alarm system switched off on day one... Superiors said it was to facilitate workers using the rear stairs... Only security guards can access the fire system panel..."
 
-> **Evidence [B]: ISS Corporate Denial**
+> **Evidence [C]: ISS Corporate Denial**
 > *Source: ISS Group Statement / 2025-12-02*
 >
 > "ISS EPPL did not conduct the installation, maintenance and inspection of fire safety equipment... was not responsible for the oversight of the renovation..."
 
-> **Evidence [C]: The Market Reaction**
+> **Evidence [D]: The Market Reaction**
 > *Source: Reuters / 2025-12-03*
 >
 > "Its statement... sent the group's shares down about 8%... risk that ISS could be liable for some penalties and/or damages..."
@@ -931,6 +865,7 @@ Following a South China Morning Post report naming ISS, the group's shares dropp
 *   **2025-12-02:** ISS issues denial statement.
 
 **🔗 Links:**
+*   [Oriental Daily Report](https://hk.on.cc/hk/bkn/cnt/news/20251203/bkn-20251203205704108-1203_00822_001.html)
 *   [HK01 Report (Whistleblower)](https://www.hk01.com/社會新聞/60298282)
 *   [ISS World Statement](https://www.issworld.com/en/news/2025/12/02/iss-group-provides-update-on-wang-fuk-court-fires-in-hong-kong)
 *   [Reuters Report](https://www.reuters.com/world/china/facility-services-group-iss-says-it-supports-investigation-into-hong-kong-fire-2025-12-02/)
@@ -1325,6 +1260,78 @@ Using a "Fall Protection" standard to regulate "Fire Spread" on high-rise facade
 
 ---
 
+### 🆔 [E-GOV-WATER-2025-03-24-01] Official Endorsement of Failure: How FSD Labelled Broken Valves as "Compliant"
+
+**🚨 Significance:**
+
+The Fire Services Department (FSD) officially endorsed the maintenance contractor's claim that the fire safety system was "Compliant" earlier in the year. This statement contradicts the estate's repair records and the catastrophic failure during the fire.
+
+**1. The "Minor Defect" Lie:**
+FSD stated that the March 2025 Annual Inspection (FS 251) showed only "**minor defects**" and the system met requirements.
+*   *The Contradiction:* The repair tender approved in September (based on that same inspection) listed defects in **Fire Inlet Valves** and **Fire Bells**.
+*   *The Logic Trap:* A "Fire Inlet Valve" is the critical connection for fire trucks to pump water into the building. A "Fire Bell" is the primary warning system. Classifying defects in these core life-saving components as "minor" or "compliant" reveals a **fatal laxity in regulatory standards**.
+
+**2. The "April" Knowledge:**
+FSD admitted receiving a "Shut Down Notice" for the hydrant/hose reel system in **April 2025** and claimed to have "formulated a contingency plan."
+*   *The Failure:* Despite FSD's awareness and alleged "plan," residents reported **no water** in the hose reels during the November fire. This proves the FSD's "contingency plan" was either a paper exercise or effectively useless when disaster struck.
+
+**3. The 180-Day Gap:**
+If FSD knew the system had defects (March) and parts were shut down (April), why did they allow the estate to wait until **September** to even *approve* repairs, leaving the building vulnerable for 6 months?
+
+**📜 Original Record:**
+
+> **Evidence [A]: FSD's Endorsement**
+> *Source: Yahoo News (citing FSD) / 2025-12-10*
+>
+> "年度檢查結果顯示，除各座...有**輕微損壞**事項... 八幢大廈內的消防裝置及設備均**符合處方規定**。"
+>
+> *Translation:*
+> "Annual inspection results showed... apart from **minor defects**... fire installations in all 8 towers **met Departmental requirements**."
+
+> **Evidence [B]: The "Minor" Defects (Actually Critical)**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> "主要包括：**消防入水掣**、...**消防警鐘**..." (Cost: $144,170)
+>
+> *Translation:*
+> "Mainly including: **Fire Inlet Valves**... **Fire Bells**..."
+> *(Analysis: FSD calls broken inlet valves "minor.")*
+
+> **Evidence [C]: The Shutdown Admission**
+> *Source: Yahoo News / 2025-12-10*
+>
+> "處方透露，今年4月因接獲...「消防裝置關閉通知書」，曾...制定相應行動應變計劃。"
+>
+> *Translation:*
+> "The Department revealed... in April, upon receiving a 'Fire Service Installation Shut Down Notice'... it formulated a corresponding contingency plan."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The 'Inlet Valves' listed for repair might have been minor leaks or cosmetic issues, not total failure. A system can be functionally compliant even with pending repairs. The shutdown in April was temporary and monitored. The fire damage to the system in November was caused by the fire itself, not pre-existing conditions."
+
+**The Logical Trap:**
+1.  **The "Cosmetic" Fallacy:** You don't spend **HK$144,170** on cosmetic repairs for fire valves. The cost implies functional rectification. If an inlet valve isn't 100% perfect, it risks bursting under high pressure from a fire truck. In fire safety, "functionally compliant" is binary: it works or it doesn't.
+2.  **The Result speaks for itself:** If the system was "compliant" and the contingency plan was "effective," why did **7 out of 8 towers** have [silent alarms](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble) and [dry hoses](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)? The total collapse of the system proves the "Compliance" was a paperwork fiction.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Fire Service (Installations and Equipment) Regulations (Cap. 95B).
+*   **Context:** Regulatory Oversight Failure.
+
+**📅 Timeline:**
+*   **2025-03-24:** Annual Inspection (FSD says "Compliant").
+*   **2025-04:** FSD notified of Hydrant Shutdown.
+*   **2025-09-29:** MC approves repairs for "Inlet Valves/Bells" (derived from March inspection).
+*   **2025-11-26:** Fire. System fails completely.
+*   **2025-12-10:** FSD defends the March inspection.
+
+**🔗 Links:**
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/0760e461-7fdc-4f76-83c7-707e4667281f)
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+
+---
+
 ### 🆔 [E-GOV-NETS-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap
 
 **🚨 Significance:**
@@ -1383,7 +1390,7 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 
 **🚨 Significance:**
 
-A chaotic trail of official statements reveals a critical failure in the fire alarm system, which failed to sound in 7 out of 8 towers during the disaster. The investigation exposes a "Rashomon" effect where the Fire Services Department (FSD) contradicted itself, and experts point to deliberate sabotage.
+A chaotic trail of official statements reveals a critical failure in the fire alarm system. The investigation exposes a "Rashomon" effect where the Fire Services Department (FSD) contradicted itself, and experts point to deliberate sabotage.
 
 **1. The "Rashomon" of the Alarm Status:**
 *   **Nov 29:** FSD claimed alarms were "**not switched off but made no sound**".
