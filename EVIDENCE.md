@@ -355,7 +355,7 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 
 ---
 
-### 🆔 [E-SAFETY-2025-07-19-02] The Mechanics of Hell: Radiant Heat & Molten Fire
+### 🆔 [E-SAFETY-2024-07-19-02] The Mechanics of Hell: Radiant Heat & Molten Fire
 
 **🚨 Significance:**
 
@@ -741,7 +741,7 @@ These are documented discrepancies. The public can judge what they mean.
 
 ---
 
-### 🆔 [E-SAFETY-2025-05-01-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"
+### 🆔 [E-SAFETY-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"
 
 **🚨 Significance:**
 
