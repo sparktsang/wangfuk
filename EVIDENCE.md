@@ -416,7 +416,7 @@ The Government confirmed post-fire that the material was "flammable." Yet, this 
 
 **🚨 Significance:**
 
-Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-159-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
+Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-159-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
 
 **1. The "One Hour" Delay:**
 Mr. Wong, a survivor, was working from home. He heard no alarm. When a friend called to warn him, he tried to check outside but **"could not see"** because the windows were sealed with Styrofoam.
@@ -484,7 +484,7 @@ The packaging claimed to be a German "Eco-Health Board," but listed a fake brand
 *   *The Deception:* Given the residents' successful ignition and the eventual inferno, Prestige's video was likely staged, manipulated, or used a "decoy" sample (similar to the safety nets) to deceive the MC.
 
 **3. The "Good Cop, Bad Cop" Trap:**
-This deception was coordinated with the [Consultant's pressure](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard). While **Prestige** used the video to claim safety (Gaslighting), **Will Power** used the contract to claim "changing it costs money" (Coercion). This pincer movement silenced the residents' valid concerns.
+This deception was coordinated with the [Consultant's pressure](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard). While **Prestige** used the video to claim safety (Gaslighting), **Will Power** used the contract to claim "changing it costs money" (Coercion). This pincer movement silenced the residents' valid concerns.
 
 **📜 Original Record:**
 
@@ -1206,7 +1206,7 @@ The lack of a washing requirement in GB 5725 allows manufacturers to use cheap, 
 *   *The Link:* This explains why "compliant" nets might fail catastrophically in a real fire after exposure to weather.
 
 **3. The Statistical Anomaly Explained:**
-This loophole provides a potential explanation for the massive discrepancy between the ICAC's inventory (95% fake) and the Government's field test (65% pass) [[E-GOV-2025-12-01-02]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle). If the "compliant" nets were merely coated with temporary retardants that washed off, or if the testing criteria for "compliance" were based on the looser GB standard, the results would be heavily skewed.
+This loophole provides a potential explanation for the massive discrepancy between the ICAC's inventory (95% fake) and the Government's field test (65% pass) [[E-GOV-2025-12-01-02]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-police-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle). If the "compliant" nets were merely coated with temporary retardants that washed off, or if the testing criteria for "compliance" were based on the looser GB standard, the results would be heavily skewed.
 
 **4. Misplaced Purpose:**
 Using a "Fall Protection" standard to regulate "Fire Spread" on high-rise facades is a category error. GB 5725 explicitly states its scope is "preventing people/objects from falling," not acting as a fire barrier for skyscrapers.
@@ -1304,7 +1304,7 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 **🔗 Links:**
 *   [The Witness Report (Official Response)](https://thewitnesshk.com/宏福苑五級火-勞工處證書顯示棚網阻燃符標準-曾巡/)
 *   [The Witness Report (Expert Opinion)](https://thewitnesshk.com/宏福苑五級火-兩部門守則指棚網應具阻燃性-業界指/)
-*   ICAC Statement: [[E-SAFETY-2025-10-31-01]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2025-10-31-01-the-price-of-life-hk593-per-victim--the-5-decoy)
+*   ICAC Statement: [[E-SAFETY-NETS-2025-10-18-01]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk593-per-victim--the-5-decoy)
 
 ---
 
@@ -1397,7 +1397,7 @@ Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied 
 On December 3, 2025, the Development Bureau ordered the immediate removal of scaffolding nets from all buildings under repair (~200 private, ~10 public). This drastic "One-Size-Fits-All"  measure is a tacit admission that the **entire existing regulatory framework has collapsed**.
 
 **1. The "Zero Trust" Declaration:**
-By ordering the removal of *all* nets—regardless of whether they had certificates, passed previous inspections ([16 times](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)), or had been sampled—the Government implied that **no existing documentation is trustworthy anymore**.
+By ordering the removal of *all* nets—regardless of whether they had certificates, passed previous inspections ([16 times](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)), or had been sampled—the Government implied that **no existing documentation is trustworthy anymore**.
 *   *The Subtext:* "We cannot distinguish truth from lies using our current system, so we must destroy everything." This renders all previous checks by the Labour Department and Buildings Department irrelevant.
 
 **2. Panic Governance (Anxiety > Logic):**
@@ -1405,7 +1405,7 @@ Secretary Bernadette Linn explicitly stated the move was to "relieve the anxiety
 *   *The Logic Flaw:* The government claimed to have already sampled 300 buildings with "rigorous methods". If these rigorous tests were trustworthy, a blanket demolition order would be scientifically unnecessary. The fact that they ordered it anyway suggests they do not trust their own "rigorous" sampling, or they prioritized political optics over scientific procedure.
 
 **3. "Special Treatment" Overrides Rule of Law:**
-The sudden shift to a new protocol—"Test on-site before installation"—acknowledges that the previous "Certificate-based" system (as criticized by [Ho Ping-tak](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)) was fundamentally broken. The system had to be "Reset" in real-time because the established bureaucracy failed to stop the fakes.
+The sudden shift to a new protocol—"Test on-site before installation"—acknowledges that the previous "Certificate-based" system (as criticized by [Ho Ping-tak](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)) was fundamentally broken. The system had to be "Reset" in real-time because the established bureaucracy failed to stop the fakes.
 
 **📜 Original Record:**
 
