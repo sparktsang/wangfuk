@@ -993,88 +993,6 @@ In **Fortress Garden** (Fortress Hill) and **Yee Lok Garden** (Tuen Mun)—proje
 
 ---
 
-### 🆔 [E-SAFETY-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 159 Lives
-
-**🚨 Significance:**
-
-A chaotic trail of official statements reveals a critical failure in the fire alarm system, which failed to sound in 7 out of 8 towers during the disaster. The investigation exposes a "Rashomon" effect where the Fire Services Department (FSD) contradicted itself, and experts point to deliberate sabotage.
-
-**1. The "Rashomon" of the Alarm Status:**
-*   **Nov 29:** FSD claimed alarms were "**not switched off but made no sound**".
-*   **Dec 3:** Police arrested 6 contractors for **"False Statements"**, alleging they lied to FSD that the system would *not* be switched off during works—implying the system *was* indeed switched off or tampered with.
-
-**2. Deliberate Sabotage:**
-Fire Safety Consultant Leung Kam-tak (梁錦得) stated it is statistically impossible for 7 towers to fail simultaneously by chance. He concluded it was "**clearly man-made**" , noting that "**unplugging a wire would suffice**" to silence the system.
-
-**3. The Legal Impotence:**
-While the contractors face charges for "False Statements" (Cap 200 s36), the maximum penalty is only **imprisonment for 2 years** and a fine. Recent cases show sentences as light as **2 months imprisonment** or **3 months suspended sentence**.
-*   *The Absurdity:* Lying about a critical safety system that contributed to 159 deaths carries a lighter maximum sentence than many minor theft offenses.
-
-**4. The Defense:**
-Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied involvement, stating the arrested individuals were not their staff. This points suspicion towards the sub-contractors under the General Contractor (**Prestige/宏業**).
-
-**📜 Original Record:**
-
-> **Evidence [A]: FSD's Contradiction**
-> *Source: Ming Pao / 2025-11-29*
->
-> "消防處...檢測發現宏福苑8幢大廈火警鐘「**無熄但無聲響**」..."
->
-> *Translation:*
-> "FSD... inspection found alarms in 8 towers were '**not switched off but made no sound**'..."
-
-> **Evidence [B]: The Expert Opinion (Sabotage)**
-> *Source: HK01 / 2025-12-04*
->
-> "梁錦得直言：「唔會咁啱一齊唔響，**明顯係人為**」、「令到佢（警鐘）唔響，**拔咗條線就得**」..."
->
-> *Translation:*
-> "Leung Kam-tak stated bluntly: 'It wouldn't coincidentally fail together. **Clearly it's man-made**', 'to make it silent, **unplugging a wire would suffice**'..."
-
-> **Evidence [C]: The Arrest**
-> *Source: The Collective HK / 2025-12-03*
->
-> "警方今日再拘捕六名...消防裝置承辦商，他們涉向消防部門作虛假陳述，訛稱維修工程期間不會熄滅消防火警鐘。"
->
-> *Translation:*
-> "Police arrested 6... fire installation contractors today. They are suspected of making **false statements** to FSD, falsely claiming the fire alarm would not be switched off during maintenance."
-
-> **Evidence [D]: The Defence**
-> *Source: Now News / 2025-12-04*
->
-> "記者：「被捕人與你們公司沒有關係？」鍾先生：「完全無關係。」"
->
-> *Translation:*
-> "Reporter: 'Do the arrested persons have no connection to your company?' Mr Chung [Director, Victory Fire Engineering]: 'Completely unrelated.'"
-
-> **Evidence [E]: The Penalty**
-> *Source: eLegislation Cap 200 s36*
->
-> "...liable on conviction upon indictment to **imprisonment for 2 years and to a fine**."
-
-> **Evidence [F]: Sentencing Precedents (2025)**
-> *Source: HK Criminal Lawyers*
->
-> "案例 2... 判該公司負責人 **2 個月監禁**..."
->
-> *Translation:*
-> "Case 2... sentenced the company responsible person to **2 months imprisonment**..."
-
-**¶ Statutory Basis:**
-
-*   **Offence:** False statutory declarations and other false statements without oath.
-*   **Provision:** Crimes Ordinance, [Cap 200, Section 36](https://www.elegislation.gov.hk/hk/cap200!en/s36?_lang=en).
-
-**🔗 Links:**
-*   [Ming Pao Report](https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20251129/s00001/1764354153841)
-*   [HK01 Report](https://www.hk01.com/article/60300482)
-*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火年檢揭有消防裝置輕微損壞/)
-*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
-*   [Info.gov.hk (Press Conference)](https://www.info.gov.hk/gia/general/202512/03/P2025120300826.htm)
-*   [HK Criminal Lawyers](https://hkcriminallawyers.com/虛假陳述/)
-
----
-
 ### 🆔 [E-GOV-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building
 
 **🚨 Significance:**
@@ -1194,7 +1112,89 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 
 ---
 
-### 🆔 [E-GOV-2025-12-03-01] The "Total Demolition" Order: An Admission of Systemic Collapse
+### 🆔 [E-GOV-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 159 Lives
+
+**🚨 Significance:**
+
+A chaotic trail of official statements reveals a critical failure in the fire alarm system, which failed to sound in 7 out of 8 towers during the disaster. The investigation exposes a "Rashomon" effect where the Fire Services Department (FSD) contradicted itself, and experts point to deliberate sabotage.
+
+**1. The "Rashomon" of the Alarm Status:**
+*   **Nov 29:** FSD claimed alarms were "**not switched off but made no sound**".
+*   **Dec 3:** Police arrested 6 contractors for **"False Statements"**, alleging they lied to FSD that the system would *not* be switched off during works—implying the system *was* indeed switched off or tampered with.
+
+**2. Deliberate Sabotage:**
+Fire Safety Consultant Leung Kam-tak (梁錦得) stated it is statistically impossible for 7 towers to fail simultaneously by chance. He concluded it was "**clearly man-made**" , noting that "**unplugging a wire would suffice**" to silence the system.
+
+**3. The Legal Impotence:**
+While the contractors face charges for "False Statements" (Cap 200 s36), the maximum penalty is only **imprisonment for 2 years** and a fine. Recent cases show sentences as light as **2 months imprisonment** or **3 months suspended sentence**.
+*   *The Absurdity:* Lying about a critical safety system that contributed to 159 deaths carries a lighter maximum sentence than many minor theft offenses.
+
+**4. The Defense:**
+Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied involvement, stating the arrested individuals were not their staff. This points suspicion towards the sub-contractors under the General Contractor (**Prestige/宏業**).
+
+**📜 Original Record:**
+
+> **Evidence [A]: FSD's Contradiction**
+> *Source: Ming Pao / 2025-11-29*
+>
+> "消防處...檢測發現宏福苑8幢大廈火警鐘「**無熄但無聲響**」..."
+>
+> *Translation:*
+> "FSD... inspection found alarms in 8 towers were '**not switched off but made no sound**'..."
+
+> **Evidence [B]: The Expert Opinion (Sabotage)**
+> *Source: HK01 / 2025-12-04*
+>
+> "梁錦得直言：「唔會咁啱一齊唔響，**明顯係人為**」、「令到佢（警鐘）唔響，**拔咗條線就得**」..."
+>
+> *Translation:*
+> "Leung Kam-tak stated bluntly: 'It wouldn't coincidentally fail together. **Clearly it's man-made**', 'to make it silent, **unplugging a wire would suffice**'..."
+
+> **Evidence [C]: The Arrest**
+> *Source: The Collective HK / 2025-12-03*
+>
+> "警方今日再拘捕六名...消防裝置承辦商，他們涉向消防部門作虛假陳述，訛稱維修工程期間不會熄滅消防火警鐘。"
+>
+> *Translation:*
+> "Police arrested 6... fire installation contractors today. They are suspected of making **false statements** to FSD, falsely claiming the fire alarm would not be switched off during maintenance."
+
+> **Evidence [D]: The Defence**
+> *Source: Now News / 2025-12-04*
+>
+> "記者：「被捕人與你們公司沒有關係？」鍾先生：「完全無關係。」"
+>
+> *Translation:*
+> "Reporter: 'Do the arrested persons have no connection to your company?' Mr Chung [Director, Victory Fire Engineering]: 'Completely unrelated.'"
+
+> **Evidence [E]: The Penalty**
+> *Source: eLegislation Cap 200 s36*
+>
+> "...liable on conviction upon indictment to **imprisonment for 2 years and to a fine**."
+
+> **Evidence [F]: Sentencing Precedents (2025)**
+> *Source: HK Criminal Lawyers*
+>
+> "案例 2... 判該公司負責人 **2 個月監禁**..."
+>
+> *Translation:*
+> "Case 2... sentenced the company responsible person to **2 months imprisonment**..."
+
+**¶ Statutory Basis:**
+
+*   **Offence:** False statutory declarations and other false statements without oath.
+*   **Provision:** Crimes Ordinance, [Cap 200, Section 36](https://www.elegislation.gov.hk/hk/cap200!en/s36?_lang=en).
+
+**🔗 Links:**
+*   [Ming Pao Report](https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20251129/s00001/1764354153841)
+*   [HK01 Report](https://www.hk01.com/article/60300482)
+*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火年檢揭有消防裝置輕微損壞/)
+*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
+*   [Info.gov.hk (Press Conference)](https://www.info.gov.hk/gia/general/202512/03/P2025120300826.htm)
+*   [HK Criminal Lawyers](https://hkcriminallawyers.com/虛假陳述/)
+
+---
+
+### 🆔 [E-GOV-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse
 
 **🚨 Significance:**
 
