@@ -1206,7 +1206,7 @@ The lack of a washing requirement in GB 5725 allows manufacturers to use cheap, 
 *   *The Link:* This explains why "compliant" nets might fail catastrophically in a real fire after exposure to weather.
 
 **3. The Statistical Anomaly Explained:**
-This loophole provides a potential explanation for the massive discrepancy between the ICAC's inventory (95% fake) and the Government's field test (65% pass) [[E-GOV-2025-12-01-02]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-police-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle). If the "compliant" nets were merely coated with temporary retardants that washed off, or if the testing criteria for "compliance" were based on the looser GB standard, the results would be heavily skewed.
+This loophole provides a potential explanation for the [massive discrepancy](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-police-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle) between the ICAC's inventory (95% fake) and the Government's field test (65% pass). If the "compliant" nets were merely coated with temporary retardants that washed off, or if the testing criteria for "compliance" were based on the looser GB standard, the results would be heavily skewed.
 
 **4. Misplaced Purpose:**
 Using a "Fall Protection" standard to regulate "Fire Spread" on high-rise facades is a category error. GB 5725 explicitly states its scope is "preventing people/objects from falling," not acting as a fire barrier for skyscrapers.
