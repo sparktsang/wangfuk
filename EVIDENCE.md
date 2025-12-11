@@ -76,7 +76,7 @@ On December 4, 2025, MC Chairman Tsui Man-kam admitted to the press he was "**un
 **📅 Date:** 2025-12-04
 
 **🔗 Links:**
-*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
+*   [Now News Report](https://news.now.com/home/local/player?newsId=628390)
 *   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
 
 ---
@@ -127,7 +127,7 @@ The data exposes a clear strategy: Win the maintenance contract with an absurdly
 *   **2025-11-28:** Post-fire revelation of system-wide failure.
 
 **🔗 Links:**
-*   [Sing Tao Archive](https://www.singtaousa.com/index.php/2025-11-28/大埔宏福苑五級火｜8廈警鐘失靈-消防承辦商宏泰奪/5389260)
+*   [Sing Tao Report](https://www.singtaousa.com/index.php/2025-11-28/大埔宏福苑五級火｜8廈警鐘失靈-消防承辦商宏泰奪/5389260)
 *   [MC Minutes (Source)](http://www.wangfuk.org/html/meeting/index.htm)
 
 ---
@@ -1462,7 +1462,7 @@ Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied 
 *   [Ming Pao Report](https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20251129/s00001/1764354153841)
 *   [HK01 Report](https://www.hk01.com/article/60300482)
 *   [The Collective Report](https://thecollectivehk.com/宏福苑五級火年檢揭有消防裝置輕微損壞/)
-*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
+*   [Now News Report](https://news.now.com/home/local/player?newsId=628390)
 *   [Info.gov.hk (Press Conference)](https://www.info.gov.hk/gia/general/202512/03/P2025120300826.htm)
 *   [HK Criminal Lawyers](https://hkcriminallawyers.com/虛假陳述/)
 
@@ -1809,8 +1809,8 @@ Sing Tao's report, published hours after TVB's, largely regurgitated the same su
 *   **2024-10:** The Trap (Free Upgrade). **[Media Missed]**
 
 **🔗 Links:**
-*   [TVB Report Archive](https://news.tvb.com/tc/taipofire/6927c289e435294129313abc/宏福苑五級火-一文看清｜大埔宏福苑3億元工程時間軸本台資料搜集持續更新)
-*   [Sing Tao Report Archive](https://www.stheadline.com/society/3521856/大埔宏福苑五級火多圖維修工程造價33億-住戶半年要交18萬-一文看清工程時間線)
+*   [TVB Report](https://news.tvb.com/tc/taipofire/6927c289e435294129313abc/宏福苑五級火-一文看清｜大埔宏福苑3億元工程時間軸本台資料搜集持續更新)
+*   [Sing Tao Report](https://www.stheadline.com/society/3521856/大埔宏福苑五級火多圖維修工程造價33億-住戶半年要交18萬-一文看清工程時間線)
 *   [Minute 2 (The Lie)](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf)
 
 ---
