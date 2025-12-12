@@ -1066,6 +1066,80 @@ This was not negligence; it was a calculated cover-up. Following a scaffolding f
 
 ---
 
+### 🆔 [E-SAFETY-2025-10-19-01] The Prophecy of Doom: How Wang Fuk Court Ticked Every Box on the "Death Checklist"
+
+**🚨 Significance:**
+
+Following the Central fire on Oct 18, 2025, the Construction Industry Council (CIC) issued a specific "Safety Message" (No. 24/2025) warning against six specific hazards. In a tragic display of systemic negligence, the Wang Fuk Court project managed to **violate every key warning** listed in this document just one month later.
+
+**1. The "Checklist of Death":**
+The CIC warning explicitly flagged:
+*   **Risk 1:** [Non-flame-retardant nets](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk593-per-victim--the-5-decoy).
+*   **Risk 2 & 4:** Sparks from hot works / Smoking workers. (The Prime Suspects for ignition).
+*   **Risk 3:** Improper storage of [flammable materials](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam).
+*   **Risk 6:** Faulty/Incomplete [fire service systems](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble).
+*   *The Verdict:* The Wang Fuk Court fire was not an "unforeseeable accident"; it was a **predicted outcome** of ignoring a widely distributed industry warning.
+
+**2. The Ignition Mystery (Sparks vs. Cigarettes):**
+While the exact ignition source remains under investigation, the CIC warning covers *both*.
+*   *If Sparks:* It violates the "Hot Work Permit" requirement (Key Measure 2).
+*   *If Smoking:* It violates the "Smoking Ban" requirement (Key Measure 3).
+*   *Conclusion:* Regardless of the spark's origin, the **management failure** to control the ignition source is absolute.
+
+**3. The "Fuel" Violation:**
+The warning demanded "proper storage of flammables." Sticking Styrofoam boards over every window of an occupied building is the exact opposite of "proper storage"—it is **weaponizing** flammables.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Warning on Nets & Materials**
+> *Source: CIC Safety Message No. 24/25 / Oct 2025*
+>
+> "1. 裝設於外牆的保護網...未具備適當的阻燃效能。... 3. **易燃或助燃物料沒有妥善儲存**。"
+>
+> *Translation:*
+> "1. Protective nets on external walls... lack appropriate flame-retardant performance... 3. **Flammable or combustion-aiding materials not properly stored**."
+
+> **Evidence [B]: The Warning on Fire Systems**
+> *Source: CIC Safety Message No. 24/25*
+>
+> "6. **消防裝置...保養不妥善**，以致消防系統不能發揮作用。"
+>
+> *Translation:*
+> "6. **Fire service installations... improperly maintained**, causing the system to fail to function."
+
+> **Evidence [C]: The Warning on Ignition Sources**
+> *Source: CIC Safety Message No. 24/25*
+>
+> "2. 進行熱工序時產生的火花... 4. 工人隨處留下未熄滅的**煙蒂**。"
+>
+> *Translation:*
+> "2. Sparks generated during hot works... 4. Workers leaving unextinguished **cigarette butts** anywhere."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense (Contractor/Consultant):**
+"We received the circular and reminded workers to be careful. However, we cannot control every individual worker's behavior (e.g., secret smoking). The fire spread was due to the nets, which we believed were compliant based on supplier certificates."
+
+**The Logical Trap:**
+1.  **Notification = Liability:** The existence of this circular proves the **knowledge of risk**. Once warned, the "Standard of Care" increases. A simple verbal reminder is insufficient; **active enforcement** (patrols, searches) is required.
+2.  **The "Swiss Cheese" Failure:** Accidents happen when multiple layers of defense fail. Even if a worker smoked (Layer 1 fails), the fire shouldn't spread if the nets were compliant (Layer 2) and Styrofoam wasn't present (Layer 3). And if it did spread, people shouldn't die if the alarm rang (Layer 4). The CIC warning highlighted *all* these layers. Failing *one* is negligence; failing *all* is **recklessness**.
+3.  **Systemic Non-Compliance:** You cannot blame a "rogue smoker" for the **Styrofoam SOP** or the **Disabled Alarm**. Those were management decisions, not worker errors.
+
+**¶ Statutory Basis:**
+
+*   **Guidance:** CIC Safety Alerts (Proper Industry Practice).
+*   **Duty:** General Duties of Proprietors (Safe System of Work).
+
+**📅 Timeline:**
+*   **2025-10-18:** Central Fire.
+*   **Est 2025-10-19:** CIC issues Safety Message (The Warning).
+*   **2025-11-26:** Wang Fuk Court Fire (The Realization).
+
+**🔗 Links:**
+*   [CIC Safety Message PDF](https://www.cic.hk/files/page/52/防火安全：加強建築工地的防火安全%20-%20安全訊息%20第02425號（2025年10月）.pdf)
+
+---
+
 ### 🆔 [E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
 
 **🚨 Significance:**
