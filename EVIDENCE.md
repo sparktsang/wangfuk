@@ -1461,6 +1461,79 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 
 ---
 
+### 🆔 [E-GOV-NETS-2025-11-24-01] The Deaf Ear: How 1823 Complaints and "Surprise Inspections" Failed to Stop the Fire
+
+**🚨 Significance:**
+
+Residents acted as the city's "nerve endings," screaming about the danger for months via the 1823 hotline, but the government refused to react effectively. The timeline proves that the disaster was not a surprise; it was a predicted event that authorities failed to prevent despite specific, actionable intelligence.
+
+**1. The "Two-Color" Smoking Gun:**
+In October, residents reported that the nets had **two different colors** (Deep Green vs. Light Green) and were fragile.
+*   *The Link:* This visual discrepancy  matches the later [ICAC finding](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk593-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
+*   *The Failure:* ICU and LD inspectors visited the site but ignored this glaring visual cue. A "surprise inspection" that misses a two-tone color difference indicating mixed batches is not an inspection; it is "industrial tourism."
+
+**2. The "Central Fire" Warning:**
+After the Chinachem fire (Oct 18), residents explicitly linked the risk to **scaffolding fire safety**. The government cannot claim "lack of awareness" regarding the specific risk of vertical fire spread via nets.
+
+**3. The "2 Days Before" Tragedy:**
+On **Nov 24**, just **48 hours** before the inferno, the Labour Department claimed to have conducted a "surprise inspection" and issued a written warning.
+*   *The Verdict:* If they saw enough to issue a warning, why didn't they **Stop Work**? Issuing a paper warning while leaving the flammable nets in place (especially after the Central fire precedent) proves that the regulatory goal was "file completion," not "hazard removal."
+
+**4. The Post-Mortem Silence:**
+When asked *what* they actually checked during that surprise inspection, the Labour Department refused to answer ("inappropriate to disclose"). This silence suggests they know their inspection was dangerously superficial.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Visual Warning (Mixed Batches)**
+> *Source: Yahoo News / 2025-12-10*
+>
+> "居民...從肉眼便可辨認出顏色跟舊棚網有異。「**舊棚網是深綠色，新棚網是淺綠色**。」...於是有居民於10月初致電1823求助... 一併上載了顏色不同的...相片"
+>
+> *Translation:*
+> "Residents... identified color differences with naked eyes. '**Old nets were deep green, new ones light green**.'... Residents called 1823 in early Oct... uploading photos of the different colored nets."
+
+> **Evidence [B]: The "Surprise" Inspection (48 Hours Prior)**
+> *Source: Yahoo News / 2025-12-10*
+>
+> "在大火發生前兩日，居民獲得勞工處回覆，指有派員到宏福苑**突擊巡查**，並已向負責人發出**書面警告**..."
+>
+> *Translation:*
+> "Two days before the fire, residents received LD's reply... stating they conducted a **surprise inspection**... and issued a **written warning**..."
+
+> **Evidence [C]: The Refusal to Disclose**
+> *Source: Yahoo News / 2025-12-10*
+>
+> "勞工處回覆指... 現**不宜透露**與事故有關的行動詳情。"
+>
+> *Translation:*
+> "LD replied... it is **inappropriate to disclose** details of the operation related to the accident."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We acted on every complaint. Inspections were conducted, and warnings were issued for identified irregularities. We rely on the professional certification of the Authorized Person and Registered Contractor. Government inspectors cannot physically test every inch of material on every site."
+
+**The Logical Trap:**
+1.  **Warning vs. Action:** A "Written Warning" stops nothing. If a car is speeding towards a cliff, you don't write it a ticket; you pull the handbrake. Faced with a known fire risk (post-Central fire) and visible material irregularities, the only responsible action was a **Stop Work Order (SWO)**.
+2.  **The "Expert" Blindness:** Residents (laymen) saw the "Two-Color" issue. Inspectors (experts) missed it. If the public is more observant than the regulator, the regulator is obsolete.
+3.  **The "Paper Shield" Collapses:** Continuing to cite "[reliance on certification](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)" after residents specifically complained about the *physical quality* of the nets (tearing easily) is a dereliction of duty. A physical complaint demands a physical test, not a paper check.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Inspection and Enforcement (Buildings Ordinance / FIUO).
+
+**📅 Timeline:**
+*   **2025-09-24:** [Typhoon](https://www.hko.gov.hk/tc/天氣隨筆/109859/樺加沙帶來的十號風球) exposes net fragility.
+*   **2025-10-Early:** Residents complain to 1823 (Photos of mixed colors).
+*   **2025-10-18:** [Central Fire](https://www.hk01.com/突發/60286636). Residents chase departments again.
+*   **2025-11-24:** LD mentions Surprise Inspection & Warning issued.
+*   **2025-11-26:** Fire destroys the estate.
+
+**🔗 Links:**
+*   [Yahoo News Investigation](https://hk.news.yahoo.com/share/5129e357-9eea-496c-b667-751015a22651)
+
+---
+
 ### 🆔 [E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 159 Lives
 
 **🚨 Significance:**
