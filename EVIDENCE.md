@@ -1,3 +1,91 @@
+### 🆔 [E-ADMIN-2024-01-28-02] The "Basket" Rigging: How 38% Support Became a $5.6 Million Mandate
+
+**🚨 Significance:**
+
+Official records reveal a sophisticated mechanism of "Pseudo-Democracy" used to upsell HK$5.6 million worth of optional works. The Consultant (**鴻毅/Will Power**) and the MC orchestrated a "Bundling Strategy" that allowed unpopular items to pass by redefining the concept of "Majority" and utilizing block voting.
+
+**1. The "Minority Rule" Trick:**
+The Consultant defined "Majority Consent" not as >50%, but as simply having more "Agree" votes than "Disagree."
+*   *The Smoking Gun:* The "Performance Bond" item received only **38.5%** support (31.3% opposed, 30.2% invalid). In any normal democratic process, this fails. Here, it was declared "agreed" and added to the bundle.
+*   *The Result:* A minority of respondents (representing only ~10% of all households) effectively dictated the spending for the entire estate.
+
+**2. The "All-or-Nothing" Bundle:**
+Instead of voting on items individually, the MC combined them into a single "Basket".
+*   *The Coercion:* Owners were forced to vote YES for the whole package (including the 38.5% item) or NO to everything. This eliminates scrutiny of specific "pork barrel" items.
+
+**3. The Proxy Rollercoaster:**
+While the questionnaire showed lukewarm interest (only 529 responses from 1,984 households), the Final Vote at the EGM showed a staggering **89.86% approval**.
+*   *The Inference:* This massive jump indicates the deployment of **Proxy Votes (Authorization Tickets)**. The "Organized Vote" crushed the "Independent Vote," approving a $5.6 million upsell that serves the contractor's profit margin.
+
+**4. The Upsell Ratio:**
+The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's own fee ($308k). By facilitating this upsell, the Consultant enriched the Contractor significantly.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Minority" Majority**
+> *Source: 11th MC Meeting Minutes (No. 21) / 2023-11-23*
+>
+> "履約保証金 | 同意 **38.5%** | 反對 31.3% | 無效 30.2%"
+>
+> *Translation:*
+> "Performance Bond | Agree **38.5%** | Disagree 31.3% | Invalid 30.2%"
+
+> **Evidence [B]: The Bundling Strategy**
+> *Source: 11th MC EGM Minutes / 2024-01-28*
+>
+> "決定將問卷中獲得大多數業主表達同意的工程項目於業主大會以**一籃子方式**供業主作出表決。有關獲大多數業主同意的項目包括：...履約保証金..."
+>
+> *Translation:*
+> "Decided to bundle the items... for owners to vote on in a **'one basket' manner**...including...Performance Bond..."
+
+> **Evidence [C]: The Landslide Vote**
+> *Source: 11th MC EGM Minutes / 2024-01-28*
+>
+> "贊 成 **89.86%**"
+>
+> *Translation:*
+> "In Favor **89.86%**"
+
+> **Evidence [D]: The Cost of the Bundle**
+> *Source: EGM Attachment / 2024-01-28*
+>
+> *   Total with Bundle (S1+S2): $304,380,410
+> *   Total without Bundle (S1): $298,737,410
+> *   **Difference: HK$5,643,000**
+
+> **Evidence [E]: Consultant fee of Will Power**  
+> *Source: Yahoo News / 2025-12-11*  
+>  
+> "屋苑斥資3.3億元進行大維修，僅另花費30.8萬元聘用鴻毅作為監督修葺的工程顧問"  
+>  
+> *Translation:*  
+> "the estate spent HK$330 million on major repairs, yet spent only an additional HK$308,000 to hire Will Power as the consultant..."  
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We streamlined the process to save time. Voting on 30 items individually would take days. The 'Basket' represented the collective will expressed in the survey. The Performance Bond protects owners, so including it was prudent management. The high EGM vote confirms owners wanted these upgrades."
+
+**The Logical Trap:**
+1.  **Efficiency vs. Democracy:** "Saving time" is not a justification for bypassing consent. Digital voting or separate ballot papers could easily handle multiple items. Bundling is a known tactic to hide toxic assets inside attractive packages (like subprime mortgages).
+2.  **The "Protection" Tax:** A Performance Bond should be a standard requirement in the main tender, costed competitively. Making it an "Optional Item" implies the Contractor charged an *extra premium* for it. Why should owners pay extra to insure the Contractor's own performance?
+3.  **The 38% Mandate:** You cannot claim a "collective will" when 61.5% of respondents *did not* agree to an item. Including a failed item in a mandatory bundle is manipulation, not representation.
+
+**¶ Statutory Basis:**
+*   **Context:** Building Management Ordinance (Cap. 344) - Procurement & Voting Procedures.
+
+**📅 Timeline:**
+*   **2023-11-03:** Questionnaire issued.
+*   **2023-11-23:** Low support (38.5%) items classified as "Agreed."
+*   **2024-01-28:** EGM passes the "Basket" with 90% vote (proxies).
+
+**🔗 Links:**
+*   [Minutes 21 (Questionnaire Results)](http://www.wangfuk.org/html/meeting/05/第21次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2023-11-23%20第十一屆第二十一次會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [EGM Minutes (The Vote)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Yahoo News Report (The Consultant Fee)](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
+
+---
+
 ### 🆔 [E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling
 
 **🚨 Significance:**
