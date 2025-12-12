@@ -1326,7 +1326,7 @@ The LD justified the "Low Risk" assessment by claiming "no hot works" (welding) 
 *   **2024-09-06:** Resident emails LD about fire risk.
 *   **2024-10-04:** LD replies "No standard exists, risk is low."
 *   **2024-10-05:** Jason Poon exposes the lie using APP-70.
-*   **2024-12-04:** LD sends "clarification" claiming they did check certificates.
+*   **2024-12-04:** LD sends "clarification" claiming they did [check certificates](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap).
 
 **🔗 Links:**
 *   [Jason Poon FB Post](https://www.facebook.com/100052697821056/posts/1375933047506610)
