@@ -1114,9 +1114,7 @@ This was not negligence; it was a calculated cover-up. Following a scaffolding f
 
 **¶ Statutory Basis:**
 
-*   **Investigation:** ICAC Operation (Corruption & Fraud).
-*   **Ref:** [Prevention of Bribery Ordinance (Cap. 201) Section 9](https://www.elegislation.gov.hk/hk/cap201!en/s9?_lang=en).
-
+*   Corrupt Transactions, [Cap 201 Section 9](https://www.elegislation.gov.hk/hk/cap201!en/s9?_lang=en)
 
 **📅 Timeline:**
 *   **2025-07-20:** [Typhoon](https://www.hko.gov.hk/tc/wxinfo/pastwx/mws2025/mws202507.htm) damages nets; cheap replacements ($54) bought.
@@ -1269,7 +1267,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 **¶ Statutory Basis:**
 
 *   **Duty:** Owner must keep fire service installation in efficient working order at all times.
-*   **Provision:** Fire Service (Installations and Equipment) Regulations, [Cap. 95A, Section 8](https://www.elegislation.gov.hk/hk/cap95A!en/s8?_lang=en)
+*   **Provision:** Fire Service (Installations and Equipment) Regulations, [Cap 95A, Section 8](https://www.elegislation.gov.hk/hk/cap95A!en/s8?_lang=en)
 
 **📅 Dates:** 
 *   **COW Appointment:** 2025-05-21
@@ -1318,8 +1316,7 @@ In **Fortress Garden** (Fortress Hill) and **Yee Lok Garden** (Tuen Mun)—proje
 
 **¶ Statutory Basis:**
 
-*   **Offence:** Using a false instrument.
-*   **Provision:** [Crimes Ordinance (Cap. 200), Section 73](https://www.elegislation.gov.hk/hk/cap200!en/s73?_lang=en).
+*   Using A False Instrument, [Cap 200 Section 73](https://www.elegislation.gov.hk/hk/cap200!en/s73?_lang=en)
 
 **📅 Timeline:**
 *   **2025-11-27:** Contractors post fake reports to "reassure" residents.
@@ -1583,7 +1580,7 @@ If FSD knew the system had defects (March) and parts were shut down (April), why
 
 **¶ Statutory Basis:**
 
-*   **Duty:** Fire Service (Installations and Equipment) Regulations (Cap. 95B).
+*   **Duty:** Fire Service (Installations and Equipment) Regulations (Cap 95B).
 *   **Context:** Regulatory Oversight Failure.
 
 **📅 Timeline:**
@@ -1638,8 +1635,7 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 
 **¶ Statutory Basis:**
 
-*   **Duty:** General duties of proprietors (ensure safety at work).
-*   **Provision:** [Factories and Industrial Undertakings Ordinance (Cap. 59), Section 6A](https://www.elegislation.gov.hk/hk/cap59!en/s6A?_lang=en).
+*   General duties of proprietors, [Cap 59 Section 6A](https://www.elegislation.gov.hk/hk/cap59!en/s6A?_lang=en)
 
 **📅 Timeline:**
 *   **2024-07 to 2025-11:** 16 LD Inspections conducted.
@@ -1926,7 +1922,7 @@ HD's refusal to answer whether they *received complaints* or *inspected* the win
 
 **¶ Statutory Basis:**
 
-*   **Authority:** Buildings Ordinance (Cap. 121).
+*   **Authority:** Buildings Ordinance (Cap 121).
 *   **Role:** Independent Checking Unit (ICU) Mandate.
 
 **📅 Timeline:**
@@ -2083,8 +2079,7 @@ The authorities possesses the power of search and seizure, yet they were outpace
 
 **¶ Statutory Basis:**
 
-*   **Duty:** Prevention and detection of crime.
-*   **Provision:** [Police Force Ordinance (Cap. 232), Section 10](https://www.elegislation.gov.hk/hk/cap232!en/s10?_lang=en).
+*   Prevention and detection of crime, Police Force Ordinance, [Cap 232 Section 10](https://www.elegislation.gov.hk/hk/cap232!en/s10?_lang=en).
 
 **📅 Timeline:**
 *   **Nov 26:** The Fire.
