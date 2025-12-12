@@ -132,6 +132,69 @@ The data exposes a clear strategy: Win the maintenance contract with an absurdly
 
 ---
 
+### 🆔 [E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55
+
+**🚨 Significance:**
+
+Investigative reporting exposes that the "Safety Certificates" relied upon by regulators are mass-produced fakes sold openly on Taobao. The fraud is sophisticated: vendors provide not just the report, but also **fake verification websites** to fool inspectors.
+
+**1. "No Sample Needed":**
+Reporters proved that for as little as **50 RMB** (HK$55), one can buy a test report without ever providing a product. For **HK$1,300**, one gets a "premium" fake with a verifiable QR code.
+*   *The Experiment:* Reporters successfully bought a "Fire Retardant" certificate for a hypothetical product by simply filling in a form. They even successfully requested adding "Safety Net Standards" to a "Fire Blanket" report—a technical absurdity that the forgery service happily obliged.
+
+**2. The Fake "Official" Ecosystem:**
+The fraud includes cloning official websites. When a report number is checked against the URL provided in the fake report, it shows "Valid."
+*   *The Systemic Breach:* This renders the standard "Document Check" by HK authorities useless. Unless inspectors independently verify the *URL domain* against known government lists or conduct physical tests, the system is designed to pass fakes.
+
+**3. The Known Rot:**
+State media (**People's Daily**) exposed this exact "No Sample" industry back in **2021**. The persistence of this market in 2025 proves that fake testing is a structural feature of the mainland supply chain, one that Hong Kong importers knowingly or negligently tap into.
+
+**📜 Original Record:**
+
+> **Evidence [A]: Paid "inspection reports" available on Taobao**  
+> *Source: The Collective / 2025-12-06*  
+>  
+> "淘寶，可找到大量出售「質檢報告」網店，部分...標價 50 元人民幣";
+> "記者...繳付約港幣 1300 元...不足兩小時便獲發產品「阻燃檢測合格」報告... **無需送樣**... 更能在檢測機構「官網」按編號搜尋到...";
+> "記者向對方要求，希望在「檢測標準」一欄加上，與「滅火毯」無關的「墜落防護安全網」標準，對方亦照辦"  
+>  
+> *Translation:*  
+> "On Taobao, many shops sell 'quality inspection reports', some at a price of RMB 50";
+> "Reporter paid ~HK$1300... within 2 hours received 'Fire Retardant Qualified' report... **No sample needed**... report could be found on the testing agency's 'Official Website'...";
+> "When reporters asked a seller to add, in the 'testing standards' field, the standard for 'fall‑protection safety nets'—which is unrelated to 'fire blankets'—the seller complied."
+
+> **Evidence [B]: The 2021 Warning**
+> *Source: People's Daily / 2021-07-07*
+>
+> "無需寄送樣品，只需在電商平台上一鍵下單... 隱患多，危害大。"
+>
+> *Translation:*
+> "No need to send samples, just one click on e-commerce platforms... High risks, great harm."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We verified the certificates against the provided websites. We were victims of a sophisticated high-tech fraud that created fake databases."
+
+**The Logical Trap:**
+1.  **Domain Literacy:** A professional consultant or government regulator should know the official domain of the "State Administration for Market Regulation." Checking a report against a suspicious URL (e.g., `zhongfu-test.com` instead of a government domain) is incompetence, not victimhood.
+2.  **Physical Reality:** A piece of paper cannot change physics. If the net feels flimsy or looks different (Two-Color issue), the paper should be ignored. Relying solely on a QR code while ignoring physical evidence is **"Audit Laziness."**
+
+**¶ Statutory Basis:**
+
+*   Forgery, [Cap 200 Section 71](https://www.elegislation.gov.hk/hk/cap200!en/s71?_lang=en)
+*   Conspiracy to Defraud, [Cap 200 Section 159A](https://www.elegislation.gov.hk/hk/cap200!en/s159A?_lang=en).
+
+**📅 Timeline:**
+*   **2021-07-07:** People's Daily exposes the fake report industry.
+*   **2025-12-05:** Reporter buys fake report in 2 hours.
+
+**🔗 Links:**
+*   [The Collective Report](https://thecollectivehk.com/內地檢測放蛇無需送樣付千元兩小時獲合格報告/)
+*   [People's Daily 2021 Report](http://finance.people.com.cn/BIG5/n1/2021/0707/c1004-32151237.html)
+
+---
+
 ### 🆔 [E-SAFETY-WINDOWS-2024-01-28-01] The "Fireproof" Paradox: Paying for Safety, Getting a Death Trap
 
 **🚨 Significance:**
@@ -525,7 +588,7 @@ This deception was coordinated with the [Consultant's pressure](https://github.c
 **¶ Statutory Basis:**
 
 *   [Code of Practice for Fire Safety in Buildings 2011 (2024 Edition)](https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/fs_code2011.pdf)
-*   Applying False Trade Description ([Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en)).
+*   False Trade Description ([Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en)).
 
 **📅 Timeline:**
 *   **2024-09-13:** Residents expose flammability.
@@ -1266,6 +1329,61 @@ In **Fortress Garden** (Fortress Hill) and **Yee Lok Garden** (Tuen Mun)—proje
 **🔗 Links:**
 *   [HK01 Investigation (Beijing Fake)](https://www.hk01.com/01偵查/60299456)
 *   [HK01 Investigation (Binzhou Ghost)](https://www.hk01.com/社會新聞/60298792)
+
+---
+
+### 🆔 [E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"
+
+**🚨 Significance:**
+
+Hong Kong suppliers and contractors act as "Risk Launderers." By uncritically accepting certificates from Mainland manufacturers—despite the known prevalence of fraud—they convert dangerous illegal goods into "certified" construction materials for use in Hong Kong.
+
+**1. The "Wilful Blindness" Defense:**
+A net supplier admitted to the media: **"They gave us the certificate, so we believed them."**.
+*   *The Implication:* This is an admission of professional negligence. In a high-risk industry like fire safety, "trust" is not a strategy; "verification" is. Given the 2021 state media exposes, claiming ignorance of potential fraud is no longer a valid defense for a professional importer.
+
+**2. The Regulatory Gap:**
+The report highlights that the **State Administration for Market Regulation (SAMR)** website's query function was "undergoing upgrades" (suspended) since October 2025.
+*   *The Void:* During the critical period before the fire, there was effectively **no official way** to verify report numbers online. Contractors and officials likely used this "maintenance period" as an excuse to skip verification, or simply accepted the fake "mirror sites" provided by the fraudsters.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Supplier's Confession**  
+> *Source: Yahoo News / 2025-12-05*  
+>  
+> "棚網銷售商...麥偉強接受...訪問...他的公司過去從內地廠商進口阻燃棚網，「有證書話合規格，咁我哋就信佢啦」"  
+>  
+> *Translation:*  
+> "Net supplier Mak Wai‑keung stated they imported scaffolding nets from Mainland whose certificates said compliant... '**So we just believed them**'."  
+
+> **Evidence [B]: The Official System Down**
+> *Source: The Collective HK / 2025-12-06*
+>
+> "市監總局網站...大概由十月起，因「功能升級改造」而**無法使用該查詢功能**。"
+>
+> *Translation:*
+> "SAMR website... query function **unavailable** since around October due to 'system upgrade'."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We are traders, not chemists. We rely on the manufacturer's documents. We cannot afford to re-test every batch in Hong Kong labs."
+
+**The Logical Trap:**
+1.  **Duty of Importer:** Under the *Consumer Goods Safety Ordinance* or *Trade Descriptions Ordinance*, the importer bears liability for the authenticity of the goods. "It's too expensive to test" is an admission that they prioritize profit over safety compliance.
+2.  **The "One Batch" Test:** They don't need to test *every* roll. Testing *one* random sample locally would have revealed the fraud (as residents did with a lighter). Not doing even a basic spot check implies they **did not want to know the answer**.
+
+**¶ Statutory Basis:**
+*   False Trade Description, [Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en).
+
+**📅 Timeline:**
+*   **2025-10:** Mainland Official verification system goes offline.
+*   **Late October:** Contractors import fake nets with fake certs.
+*   **2025-12-05:** Media: Supplier admits they just "trusted" the paperwork.
+
+**🔗 Links:**
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/095a331e-2013-49d2-b65a-b511fdf0770e)
+*   [The Collective Report](https://thecollectivehk.com/內地檢測放蛇無需送樣付千元兩小時獲合格報告/)
 
 ---
 
