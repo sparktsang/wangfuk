@@ -1682,7 +1682,7 @@ The tragedy of Jack's family (4 dead: Father, Grandmother, Infant, Helper) provi
 
 **🔗 Links:**
 *   [The Collective HK Report](https://thecollectivehk.com/宏福苑五級火｜家屬痛憶七小時求救通話　好爸爸/)
-*   [Jacky Lee FB Comment](https://www.facebook.com/share/p/1BEPRZuWUp/)
+*   [Jacky Lee FB Comment](https://www.facebook.com/share/r/1ELUm8Sund/)
 
 ---
 
