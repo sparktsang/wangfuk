@@ -1622,6 +1622,70 @@ The report highlights that the **State Administration for Market Regulation (SAM
 
 ---
 
+### 🆔 [E-VICTIM-2025-11-26-01] The Seven Hours of Hell: A Real-Time Chronicle of Systemic Murder
+
+**🚨 Significance:**
+
+The tragedy of Jack's family (4 dead: Father, Grandmother, Infant, Helper) provides a harrowing, second-by-second testimony of how the systemic failures—sealed windows, silent alarms, and flammable cladding—converged to kill a family that did everything right.
+
+**1. The "Shelter in Place" Trap:**
+*   **The Protocol:** The father followed standard advice: stayed put, sealed doors with wet towels, and waited for rescue.
+*   **The Reality:** Because of the **Styrofoam Cladding** and **Heat Radiation**, the "safe place" became an oven. The strategy that was supposed to save them, killed them.
+
+**2. The "Unreachable" 14th Floor:**
+*   **Jack's Testimony:** He overheard the Fire Commander say: *"It's no good, we can't attack Wang Tai... 14th floor is unreachable, completely burned."*
+*   **The Implication:** This confirms that the fire spread was so rapid and intense (due to the **Flammable Nets** and **Styrofoam**) that it overwhelmed firefighters within hours. The "fire safety provisions" were rendered useless by the sheer fuel load added by the renovation.
+
+**3. The Agony of the Final Hours:**
+*   **3 Hours In:** Only one phone left. The father is holding everyone together.
+*   **6 Hours In (9:30 PM):** The father's last words: *"My nose is full of blood... I can't hold on... You really must find someone to save my daughter."*
+*   **The Cause:** The description of "nose full of blood" and eventual silence points to **smoke inhalation/asphyxiation**, consistent with the **"Chimney Effect"**. They didn't burn to death; they were suffocated by the system.
+
+**📜 Original Record (Narrative Excerpts):**
+
+> **Evidence [A]: The Compliance & The Failure**
+> *Source: The Collective HK / 2025-12-12*
+>
+> "他跟從消防呼籲，盡量留在安全地方，用濕毛巾塞住窗門，等待救援。... 家裏的窗口被發泡膠板擋着... 濃煙從縫隙攻入..."
+>
+> *Translation:*
+> "He followed Fire Services advice... stayed in a safe place, sealed doors with wet towels... But windows were blocked by Styrofoam... smoke attacked from the gaps..."
+
+> **Evidence [B]: The Firefighter's Defeat**
+> *Source: The Collective HK / 2025-12-12*
+>
+> "Commander... 講，『唔掂呀，宏泰真係攻唔到上去，14 樓攻唔掂，完全係火燒哂...』"
+>
+> *Translation:*
+> "Commander said: 'It's no good, we can't attack Wang Tai... 14th floor is unreachable, completely burned...'"
+
+> **Evidence [C]: The Final Plea**
+> *Source: The Collective HK / 2025-12-12*
+>
+> "我淨返一次出去嘅機會，因為我成個鼻都係血... 你真係要搵人救我個女呀..."
+>
+> *Translation:*
+> "I have one chance left to go out... my nose is full of blood... You really must find someone to save my daughter..."
+
+**🛡️ Pre-emptive Response:**
+
+*   To those who say "Residents should have run earlier": The father had an infant and an elderly mother. Running into a smoke-filled staircase (which was compromised by wooden boards) would likely have killed them sooner. Staying put was the *logical* choice based on provided info, but the *building condition* made logic fatal.
+*   To those who say "Firefighters did their best": They did. But they were fighting a fire fueled by **16 months of negligence**. No amount of bravery can overcome a building wrapped in solid petrol.
+
+**📅 Timeline of the End:**
+*   **14:51:** Fire starts.
+*   **Afternoon:** Father smells smoke, seals door (Compliance).
+*   **Every 15 mins:** Calls Jack to report safety (Hope).
+*   **Evening (3 hours in):** Supplies cut, moved to bedroom (Siege).
+*   **21:30 (6 hours in):** Final call. "Nose full of blood." (Collapse).
+*   **22:00:** Phone disconnects (Death).
+
+**🔗 Links:**
+*   [The Collective HK Report](https://thecollectivehk.com/宏福苑五級火｜家屬痛憶七小時求救通話　好爸爸/)
+*   [Jacky Lee FB Comment](https://www.facebook.com/share/p/1BEPRZuWUp/)
+
+---
+
 ### 🆔 [E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building
 
 **🚨 Significance:**
