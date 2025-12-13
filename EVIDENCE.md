@@ -1103,7 +1103,7 @@ Following a South China Morning Post report naming ISS, the group's shares dropp
 Official records expose a shocking **10-month supervision vacuum** during the most critical initial phases of the renovation, coupled with a hiring structure that creates a fundamental conflict of interest.
 
 **1. The 10-Month Danger Gap:**
-The General Contractor (**Prestige/宏業**) commenced work (Worship Ceremony) on **July 16, 2024**. However, the Clerk of Works (COW/工程監督) only assumed duty on **May 21, 2025**.
+The General Contractor (**Prestige/宏業**) commenced work on **July 16, 2024**. However, the Clerk of Works (COW/工程監督) only assumed duty on **May 21, 2025**.
 *   **The Reality:** For around 300 days, major works including scaffolding erection, external wall hacking, and material delivery proceeded without independent on-site supervision.
 *   **The Irony:** The MC claimed in the AGM that the COW "improved engineering quality," ignoring that the foundations of the project were laid while the post was vacant.
 
@@ -1116,7 +1116,15 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Project Start Date**
+> **Evidence [A]: The Project Start Date (1)**  
+> *Source: Maintence Budget Table R3.2 / 2024-06-11*  
+>  
+> "總施工期...開始時間...2024年7月16日"
+>  
+> *Translation:*  
+> "Total construction period...start date...16 July 2024"
+
+> **Evidence [B]: The Project Start Date (2)**
 > *Source: 12th MC Meeting Minutes (No. 2) / 2024-06-27*
 >
 > **4.13**
@@ -1125,13 +1133,13 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 > *Translation:*
 > "'Prestige' will conduct the worship ceremony (Project Commencement) on **July 16**."
 
-> **Evidence [B]: The 10-Month Hiring Failure**
+> **Evidence [C]: The 10-Month Hiring Failure**
 > *Source: 12th MC Meeting Minutes (No. 6 & No. 9)*
 >
 > *[2024-10-21]* "惟現時該應徵者已另覓工作，故不會出席面試..." (The applicant found another job...)
 > *[2025-03-01]* "暫時收到 6 名... 委員一致表示由工程顧問公司招聘及提供工程監督的服務..." (Received 6 applications... Members agreed to have the Consultant recruit and provide the service...)
 
-> **Evidence [C]: The Late Arrival & Payment Structure**
+> **Evidence [D]: The Late Arrival & Payment Structure**
 > *Source: 12th MC Meeting Minutes (No. 10) / 2025-05-21*
 >
 > **5.7**
@@ -1140,7 +1148,7 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 > *Translation:*
 > "Resident Clerk of Works Mr. **Wong Chin Hang** has now officially assumed duty [in May 2025]... monthly salary and **admin fee** of **$39,718**..."
 
-> **Evidence [D]: The "Improvement"**
+> **Evidence [E]: The "Improvement"**
 > *Source: 12th MC Meeting Minutes (Annual No. 20) / 2025-09-13*
 >
 > **1.4**
@@ -1155,6 +1163,7 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 *   **2025-05-21:** COW arrives (10 months late).
 
 **🔗 Links:**
+*   [Maintence Budget Table (Start Date)](http://www.wangfuk.org/html/home/doc/2024-06-11%20宏福苑工程預算總表R3.2.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%202%202024-06-11%20宏福苑工程預算總表R3.2.pdf)
 *   [Minutes 2 (Start Date)](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC2%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-06-27%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
 *   [Minutes 6](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC6%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-10-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%85%AD%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
 *   [Minutes 9](http://www.wangfuk.org/html/meeting/12/2025-03-01%20%E7%AC%AC9%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-03-01%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%B9%9D%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
