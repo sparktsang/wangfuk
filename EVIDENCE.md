@@ -369,7 +369,7 @@ A catastrophic failure in construction safety turned the primary escape route in
 
 **2. The Regulatory Violation:**
 This practice flagrantly violates the **Code of Practice for Fire Safety in Buildings 2011**, Section C9.7, which mandates that staircase openings must be protected by fixed windows with fire resistance ratings equal to the staircase walls.
-*   *Expert Opinion:* Engineer Lau Tak-on (劉德安) called it "completely unacceptable", noting that even temporary openings require fire-resistant sealing (e.g., gypsum board, fire wool), not just "a piece of wood with a hole."
+*   *Expert Opinion:* "Completely unacceptable". Even temporary openings require fire-resistant sealing, not just "a piece of wood with a hole."
 
 **3. The Missing Upgrade:**
 Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frames to "316 Stainless Steel." Yet, on-site inspection at Wang Tai House revealed that on floors 5, 10, 15, 20, and 25, **no such frames were visible**—only the deadly wooden boards or gaping holes remained.
@@ -402,7 +402,15 @@ Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frame
 > *Translation:*
 > "In Wang Tai House's escape staircase... a '**perforated, leaky**' wooden board was installed... Mr. Lee described: 'The rear staircase is the only survival route, now someone has chiseled through the back door, allowing thick smoke to enter where it should enter last...'"
 
-> **Evidence [D]: The "Missing" Steel Frames**
+> **Evidence [D]: Fire Safety**  
+> *Source: The Collective HK / 2025-12-05*  
+>  
+> "工程師劉德安指，有關做法「完全唔得」，就算因施工需設臨時「生口」，亦要以補救措施如加防水板或防火棉等，做到走火通道最基本防火防煙的要求，否則逃生人士或「焗暈焗死」"  
+>  
+> *Translation:*  
+> "Engineer Andrew Lau called it 'completely unacceptable'. Even if temporary openings are needed for construction, remedial measures such as adding waterproof boards or fire‑resistant insulation must be used to meet the basic fire‑ and smoke‑protection requirements; otherwise evacuees could be suffocated"
+
+> **Evidence [E]: The "Missing" Steel Frames**
 > *Source: The Collective HK (集誌社) / 2025-12-05*
 >
 > "宏泰閣... 在 5 樓 、10樓、15 樓、20 樓、25 樓，亦**未能見到「日」字型的窗框**..."
@@ -411,7 +419,7 @@ Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frame
 > "Wang Tai House... on floors 5, 10, 15, 20, 25, **the box‑grid [stainless steel] window frames were not visible**..."
 > *(Analysis: This contradicts the Nov 15 minutes approving the steel upgrade. Where did the money go?)*
 
-> **Evidence [E]: Death Toll in Wang Tai House**
+> **Evidence [F]: Death Toll in Wang Tai House**
 > *Source: Multiple*
 >
 > "宏昌閣及宏泰閣，分別有70及82人喪生"
