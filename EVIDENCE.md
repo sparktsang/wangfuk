@@ -1298,10 +1298,6 @@ Residents were forced to live in sealed, air-conditioner-less units (due to remo
 2.  **The "Quality" Excuse:** Extending a project by 6 months (50% increase) cannot be explained solely by "quality." The correlation with the payment schedule is too precise to be coincidental. It demonstrates that the contractor treated the scaffolding not as a tool for work, but as a tool for **debt collection**.
 3.  **The Fatal Consequence:** Whether motivated by malice or business prudence, the decision to extend the schedule had a lethal outcome. The contractor bet the residents' safety against the payment schedule, and the residents lost.
 
-**¶ Statutory Basis:**
-
-*   **Principle:** Timely Performance of Contract.
-
 **📅 Timeline:**
 *   **2024-09-06:** New MC extends payment to Jan 2026.
 *   **2025-01-18:** Prestige plans to finish by Nov 2025.
@@ -1310,7 +1306,8 @@ Residents were forced to live in sealed, air-conditioner-less units (due to remo
 *   **2025-11-26:** Fire occurs.
 
 **🔗 Links:**
-*   [Residents' FB Post](https://www.facebook.com/share/p/1AggjWpq1M/)
+*   [Residents' FB Post: Prestige's On-Site Schedules](https://www.facebook.com/share/p/1AggjWpq1M/)
+*   Backup: [2025-01-18 Schedule](https://github.com/sparktsang/wangfuk/blob/main/宏福苑工程預算總表第二期%202025-01-18.jpg) | [2025-07-17 Schedule](https://github.com/sparktsang/wangfuk/blob/main/宏業%20工程步驟%202025-07-17.jpg)
 *   [EGM Minutes (Payment)](http://www.wangfuk.org/html/meeting/03/2024年9月6日特別業主大會會議記錄.pdf)
 
 ---
