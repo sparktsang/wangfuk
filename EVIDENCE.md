@@ -242,6 +242,107 @@ On December 4, 2025, MC Chairman Tsui Moon-kam admitted to the press he was "**u
 
 ---
 
+### 🆔 [E-CARTEL-2023-08-31-01] The "Perfect Score" Scam: How a Safety Violator was Rated "Clean"
+
+**🚨 Significance:**
+
+A forensic audit of the tender evaluation reveals blatant manipulation by the Consultant (**Will Power/鴻毅**). Despite Contractor **Prestige (宏業)** having a thick record of safety convictions and litigation, they were awarded **full marks** for "No Litigation Record" and "Safety Performance." This falsification of scores was the key mechanism that allowed Prestige to win the contract.
+
+**1. The "Zero Litigation" Lie:**
+*   **The Rule:** "Past 8 years litigation record: Yes = 0 marks; No = 3 marks."
+*   **The Fact:** Labour Department records show Prestige was convicted **over 20 times** between 2016 and 2022 for serious safety offenses (e.g., failing to prevent falls, unsafe electrical works).
+*   **The Rigging:** Will Power awarded Prestige **3 Marks (Full Score)** for having "No Litigation." This is a factual impossibility. By ignoring public conviction records, the Consultant artificially boosted Prestige's score to #1.
+
+**2. The "Clean Record" Lie:**
+*   **The Interview Claim:** Prestige claimed "No records of prosecution by Labour Department" and "No litigation with Owners/Corporations."
+*   **The Fact:**
+    *   **Prosecutions:** LD convicted them repeatedly (e.g., $60,000 fine in 2017).
+    *   **Civil Litigation:** Court case *LDBM189/2012* (Tsang Wing Lam vs. Prestige) proves prior litigation with an owner regarding building works.
+*   *The Conclusion:* Prestige lied in the interview, and Will Power accepted the lie without verification.
+
+**3. The "Disclaimer" Loophole:**
+Will Power inserted a clause stating: *"Report is based on data submitted by tenderers... we bear no responsibility for the accuracy of the data."*
+*   *The Absurdity:* A Consultant is paid millions specifically to **vet and verify** tenderers. Claiming "we just copy-pasted what they said" is an admission of professional negligence and renders the entire tender evaluation process a sham.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Perfect Score**
+> *Source: Renovation Booklet p.28 / 2023-07*
+>
+> "宏業建築... 過往8年訴訟記錄資料: **3 (Full Marks)**"
+>
+> *Translation:*
+> "Prestige Construction... Past 8 years litigation record: **3**"
+
+> **Evidence [B]: The Conviction Reality**
+> *Source: Labour Dept Conviction Records*
+>
+>| **被告** | **案發地點** | **違例日期** | **簡述罪行及法例** | **判決日期** | **罰款** |
+>|---|---|---:|---|---|---|
+>| 宏業建築工程有限公司 | 山道7-9號 | 06/09/2016 | 電接頭或電接線沒有適當的構造及設計；工廠及工業經營條例(第59章)制訂的工廠及工業經營(電力)規例第9、31(1)及31(2)條 | 03/03/2017 | $3,500 |
+>| 宏業建築工程有限公司 | 荃灣德士古道184-186號 | 01/11/2016 | 沒有採取足夠的步驟防止有人墮下；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38B(1)、68(1)(a)及68(2)(g)條 | 22/06/2017 | $60,000 |
+>| 宏業建築工程有限公司 | 旺角窩打老道86號萬基大廈 | 10/01/2017 | 沒有採取足夠的步驟防止有人墮下；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38B(1)、68(1)(a)及68(2)(g)條 | 28/08/2017 | $17,000 |
+>| 宏業建築工程有限公司 | 北角書局街28號國寶大廈 | 06/04/2017 | 沒有採取足夠的步驟防止有人墮下；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38B(1)、68(1)(a)及68(2)(g)條 | 03/11/2017 | $12,000 |
+>| 宏業建築工程有限公司 | 北角書局街28號國寶大廈 | 06/04/2017 | 沒有採取足夠的步驟防止有人墮下；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38B(1)、68(1)(a)及68(2)(g)條 | 03/11/2017 | $12,000 |
+>| 宏業建築工程有限公司 | 荃灣德士古道184-186號 | 24/02/2017 | 沒有採取足夠的步驟防止有人墮下；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38B(1)、68(1)(a)及68(2)(g)條 | 23/11/2017 | $60,000 |
+>| 宏業建築工程有限公司 | 荃灣德士古道184-186號 | 24/02/2017 | 沒有確保在工作地方提供及/或維修安全進出口；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38A(2)、68(1)(a)及68(2)(g)條 | 23/11/2017 | $60,000 |
+>| 宏業建築工程有限公司 | 般咸道78號寧養台 | 29/05/2017 | 沒有提供及確保有使用作支持用的安全設施；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38C、68(1)(a)及68(2)(g)條 | 05/03/2018 | $8,000 |
+>| 宏業建築工程有限公司 | 般咸道78號寧養台 | 29/05/2017 | 沒有確保在工作地方提供及/或維修安全進出口；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38A(2)、68(1)(a)及68(2)(g)條 | 05/03/2018 | $8,000 |
+>| 宏業建築工程有限公司 | 般咸道78號寧養台 | 29/05/2017 | 沒有確保工人配戴適當的安全頭盔；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第48(1)(b)、68(1)(a)及68(2)(b)條 | 05/03/2018 | $8,000 |
+>| 宏業建築工程有限公司 | 新蒲崗六合街25-27號嘉時工廠大廈樓宇維修工程 | 19/01/2018 | 沒有確保在工作地方提供及/或維修安全進出口；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38A(2)、68(1)(a)及68(2)(g)條 | 03/12/2019 | $12,000 |
+>| 宏業建築工程有限公司 | 新蒲崗六合街25-27號嘉時工廠大廈樓宇維修工程 | 19/01/2018 | 沒有採取足夠的步驟防止有人墮下；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38B(1)、68(1)(a)及68(2)(g)條 | 03/12/2019 | $17,000 |
+>| 宏業建築工程有限公司 | 新蒲崗六合街25-27號嘉時工廠大廈樓宇維修工程 | 19/01/2018 | 沒有確保棚架、梯子或其他作支持用的設施只在獲符合的情況下使用；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38D(a)、68(1)(a)及68(2)(g)條 | 03/12/2019 | $10,000 |
+>| 宏業建築工程有限公司 | 新蒲崗六合街25-27號嘉時工廠大廈 | 19/01/2018 | 沒有提供所需的資料、指導、訓練及監督以確保在工業經營中僱用的人工作安全；工廠及工業經營條例(第59章)第6A(1)、6A(2)(c)、6A(3)及13(1)條 | 03/12/2019 | $12,000 |
+>| 宏業建設工程有限公司 | 大角咀嘉善街8-30號住宅發展項目 | 26/08/2019 | 沒有採取足夠的步驟防止任何人墮下；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38B(1A)、68(1)(a)及68(2)(g)條 | 15/06/2020 | $8,000 |
+>| 宏業建設工程有限公司 | 大角咀嘉善街8-30號住宅發展項目 | 26/08/2019 | 沒有確保工人配戴適當的安全頭盔；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第48(1A)(b)、68(1)(a)及68(2)(b)條 | 15/06/2020 | $4,000 |
+>| 宏業建築工程有限公司 | 般咸道78號寧養台 | 27/06/2019 | 沒有確保工人配戴適當的安全頭盔；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第48(1)(b)、68(1)(a)及68(2)(b)條 | 27/10/2020 | $9,500 |
+>| 宏業建設工程有限公司 | 北角馬寶道3號 | 16/07/2020 | 沒有採取足夠的步驟防止任何人墮下；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38B(1A)、68(1)(a)及68(2)(g)條 | 09/04/2021 | $10,000 |
+>| 宏業建設工程有限公司 | 北角馬寶道3號 | 16/07/2020 | 沒有採取足夠的步驟防止任何人墮下；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38B(1A)、68(1)(a)及68(2)(g)條 | 09/04/2021 | $10,000 |
+>| 宏業建設工程有限公司 | 北角馬寶道3號 | 16/07/2020 | 沒有確保有適當的眼罩或有效護屏提供，以保護工人，及工人使用防護眼罩或護屏；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第43、68(1)(a)及68(2)(b)條 | 09/04/2021 | $4,000 |
+>| 宏業建築工程有限公司 | 般咸道78號寧養台 | 07/06/2022 | 沒有確保在工作地方提供及/或維修安全進出口；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38A(2)、68(1)(a)及68(2)(g)條 | 08/11/2023 | $4,000 |
+>| 宏業建築工程有限公司 | 般咸道78號寧養台 | 07/06/2022 | 沒有確保工人在監督下進行架設、更改或拆卸棚架工作；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38E(1)(b)、68(1)(a)及68(2)(a)條 | 08/11/2023 | $3,000 |
+>
+> *Note:*
+> Dozens of convictions within the 8-year window of 2015-2023.
+
+> **Evidence [C]: The "No Responsibility" Disclaimer**
+> *Source: Renovation Booklet p.73*
+>
+> "本公司無需就投標者遞交之資料真偽或準確性承擔任何責任。"
+>
+> *Translation:*
+> "Our company bears **no responsibility** for the authenticity or accuracy of the data submitted by tenderers."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The scoring criteria for 'Litigation' referred specifically to civil litigation related to building management disputes or winding-up petitions, not standard OSH convictions. We relied on the lawyer's letter provided by the tenderer."
+
+**The Logical Trap:**
+1.  **The "Safety" Gap:** If OSH convictions (safety crimes) don't count as "Litigation" and don't deduct marks, then the scoring system is **designed to ignore safety risks**. A contractor with a history of letting workers fall from heights should score *lower*, not perfect.
+2.  **The *LDBM189/2012* Case:** Even if limited to civil disputes, the LDBM189/2012 case involved an owner suing Prestige over renovation works. This directly contradicts the claim of "No litigation with owners."
+3.  **Due Diligence:** A simple Google search or legal database check by the Consultant would have revealed these records. "We relied on their lawyer" is not a defense; it's a confession of not doing their own homework.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Prevention of Bribery Ordinance (Conduct of Tenders).
+*   **Ref:** Competition Ordinance (Bid-rigging).
+
+**📅 Timeline:**
+*   **2017-2023:** Prestige accumulates safety convictions.
+*   **2023-07-04:** Tender closes. 
+*   **2023-07-05 to 2023-8-31:** Will Power evaluates.
+*   **2023-08-31:** Will Power gives Prestige 3/3 marks for "No Litigation in 8 years".
+*   **2023-10-16:** Will Power states Prestige has "No Past Litigation" at the interview report.
+*   **2024-01-28:** Prestige wins contract based on high score.
+
+**🔗 Links:**
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+*   LD Conviction Records: [Oct 2016 - Sep 2018](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_Q4_2016_to_Q3_2018_tc.pdf) | [Jul 2019 - Jun 2021](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_tc.pdf) | [Oct 2023 - Sep 2025](https://www.labour.gov.hk/common/osh/pdf/Conviction_record_tc.pdf)
+*   [*LDBM189/2012*](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=88034&QS=%24%28%E5%AE%8F%E6%A5%AD%E5%BB%BA%E7%AF%89%E5%B7%A5%E7%A8%8B%29&TP=JU)
+
+---
+
 ### 🆔 [E-SAFETY-2016-01-01-01] The "Mathematical Impossibility" & The Parasitic Business Model
 
 **🚨 Significance:**
