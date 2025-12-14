@@ -311,7 +311,7 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 *   **2024-01-28:** Prestige wins.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 
 ---
 
@@ -418,12 +418,90 @@ Will Power inserted a clause stating: *"Report is based on data submitted by ten
 *   **2024-01-28:** Prestige wins contract based on high score.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   LD Conviction Records:
     *   [Oct 2016 - Sep 2018](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_Q4_2016_to_Q3_2018_tc.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Oct%202016%20-%20Sep%202018.pdf)
     *   [Jul 2019 - Jun 2021](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_tc.pdf) [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Jul%202019%20-%20Jun%202021.pdf)
     *   [Oct 2023 - Sep 2025](https://www.labour.gov.hk/common/osh/pdf/Conviction_record_tc.pdf) [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Oct%202023%20-%20Sep%202025.pdf)
 *   [*LDBM189/2012*](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=88034&QS=%24%28%E5%AE%8F%E6%A5%AD%E5%BB%BA%E7%AF%89%E5%B7%A5%E7%A8%8B%29&TP=JU)
+
+---
+
+### 🆔 [E-CARTEL-2023-08-31-02] The "Trust Me" Evaluation: Unverifiable Documents & The Missing ISO
+
+**🚨 Significance:**
+
+A forensic audit of the tender scoring suggests that the high marks awarded to **Prestige (宏業)** were likely based on unverified or potentially fabricated documents. Since the Consultant (**Will Power**) already falsified the *publicly verifiable* [litigation score](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean), the integrity of the *private* documentation (Finance, MPF, ISO) is effectively null.
+
+**1. The "Black Box" of Private Documents:**
+Prestige scored full marks (3 points) for "Auditor's Financial Reports" and "Lawyer's No-Litigation Letters," and high marks for "MPF Records."
+*   *The Vulnerability:* Unlike court convictions, these documents are private. Only the Consultant sees them.
+*   *The Logical Inference:* If Prestige lied about public convictions and the Consultant accepted it, it is virtually certain that the private documents were similarly accepted without due diligence.
+
+**2. The Phantom ISO Certificate:**
+Prestige claimed to possess ISO 14001 (Environmental Management) and ISO 45001 (Occupational Health & Safety), earning crucial points.
+*   *The Anomaly:* A search of the Environmental Protection Department's (EPD) directory of ISO 14001 certified companies **does not list Prestige**.
+*   *The Connection:* Given the rampant industry practice of buying [fake certificates](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-11-27-01-the-open-secret-fake-certificates), the absence of an official record raises a high probability that these ISO qualifications were either expired, unrecognized, or forged.
+
+**3. The "Zero Responsibility" Clause:**
+Will Power inserted a disclaimer stating they "**bear no responsibility for the authenticity or accuracy**" of the data.
+*   *The Malice:* This clause completely negates the purpose of hiring a consultant. If a consultant refuses to verify if a "Lawyer's Letter" is real or if an "ISO Certificate" is valid, they are facilitating fraud, not managing a tender.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Zero Responsibility" Disclaimer**
+> *Source: Renovation Booklet p.73*
+>
+> "報告內容乃跟據投標者遞交之資料及過往記錄而編寫，本公司**無需就投標者遞交之資料真偽或準確性承擔任何責任**。... 如...不同意上述條款，建議不應作出參考及引用。"
+>
+> *Translation:*
+> "The report content is compiled based on data and past records submitted by tenderers; our company **bears no responsibility for the authenticity or accuracy of the data submitted by tenderers**... If... [you] do not agree with the above terms, it is suggested not to refer to or cite [this report]."
+
+> **Evidence [B]: The High Score based on "Private" Docs**
+> *Source: Renovation Booklet p.28*
+>
+> "宏業建築... ISO 14001: **1** | ISO 45001: **1** | 公司背景: **3** | 財務證明: **3** | 無法律訴訟: **3**"
+>
+> *Translation:*
+> "Prestige Construction... ISO 14001: **1** | ISO 45001: **1** | Company Structure [includes no. of MPF staff]: **3** | Financial Proof: **3** | No Litigation (Lawyer Letter): **3**"
+
+> **Evidence [C]: The Scoring Criteria**
+> *Source: Renovation Booklet p.27*
+>
+> "7. 過往3年由核數師簽署的財政報告... 有 = 3分... 8. 近2年由執業律師發出的無法律訴訟證明文件 有 = 3分"
+>
+> *Translation:*
+> "7. Financial reports signed by auditors for the past 3 years... Yes = 3 points... 8. No-litigation proof issued by practicing lawyer in past 2 years... Yes = 3 points"
+
+> **Evidence [D]: The Missing ISO Record**
+> *Source: EPD Directory of ISO 14001 Certified Companies (2023)*
+>
+> *Search Result:* "Prestige Construction" / "宏業建築" **not found** in the list of 978 certified companies.
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We are not investigators. We rely on the face value of documents submitted by registered companies. Verifying every single document with third parties (banks, auditors, ISO bodies) is outside the scope of our service fee. The Disclaimer is standard industry practice to limit liability."
+
+**The Logical Trap:**
+1.  **Standard vs. Duty:** While verifying *everything* is hard, verifying *nothing* is negligence. Checking the validity of an ISO certificate takes 5 minutes on an official website. Checking the Law Society list for a lawyer takes 2 minutes. Failing to do basic spot-checks on a HK$330M contract is indefensible.
+2.  **The "Face Value" Fallacy:** If a document contradicts public knowledge (e.g., a "No Litigation" letter vs. public conviction records), "Face Value" is no longer an excuse. It becomes **Willful Blindness**.
+3.  **The ISO Gap:** If Prestige had a valid ISO certificate, why wasn't it in the government directory? If it was a "Mainland Certificate" (like the fake safety net reports), did the Consultant verify its cross-border validity? The silence suggests they simply ticked the box.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Using a False Instrument (Crimes Ordinance Cap 200).
+*   **Context:** Tender Fraud / Conspiracy to Defraud.
+
+**📅 Timeline:**
+*   **2023-07-04:** Tender submission deadline. Prestige submits docs.
+*   **2023-07-05 to 08-31:** Will Power evaluates docs, awards full marks without verifying.
+*   **2023-12:** Latest Official EPD Directory published (Prestige absent).
+*   **2024-01-28:** Contract awarded based on unverified scores.
+
+**🔗 Links:**
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資(料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   EPD ISO Directory: [[1]](https://www.epd.gov.hk/epd/sites/default/files/epd/iso14k.pdf) [[2]](https://www.epd.gov.hk/epd/sites/default/files/epd/iso14k_others.pdf) [[3]](https://www.epd.gov.hk/epd/sites/default/files/epd/english/how_help/tools_ems/files/2023_iso14k_t.pdf)
 
 ---
 
