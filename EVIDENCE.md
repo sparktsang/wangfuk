@@ -242,6 +242,79 @@ On December 4, 2025, MC Chairman Tsui Moon-kam admitted to the press he was "**u
 
 ---
 
+### 🆔 [E-CARTEL-2023-03-24-01] Headcount over Brains: How 16 Clerks Outranked a Structural Engineer
+
+**🚨 Significance:**
+
+A forensic analysis of the tender scoring criteria reveals a rigged weighting system designed to favour quantity over quality. The Consultant (**Will Power**) assigned **3 points** for having 16+ employees with MPF (government-mandated pension) records, but only **1 point** for having a Registered Structural Engineer (RSE) or Authorized Person (AP).
+
+**1. The "Anti-Professional" Weighting:**
+*   **The Absurdity:** In high-risk construction, professional oversight is paramount. Yet, the scoring system valued a headcount of 16 staff (who could be admin clerks or laborers) **three times higher** than the presence of a qualified Structural Engineer or Architect.
+*   **The Effect:** This effectively neutralized the advantage of highly qualified competitors. A firm with top-tier professionals but a lean core team would lose to a firm with zero professionals but a bloated payroll.
+
+**2. Prestige's "Empty" High Score:**
+**Prestige (宏業)** scored **4 points** in "Company Background"—the highest score among 57 bidders (shared with only 2 others).
+*   *The Math:* Interview records confirm Prestige had 25 MPF staff (= 3 points). This leaves only **1 point** for all other technical qualifications.
+*   *The Revelation:* This implies Prestige held **ONLY ONE** of the following: AP, RSE, Registered Construction Manager, or Public Contract. They lacked almost all key technical credentials, yet were rated "Top Tier" in background because of the MPF padding.
+
+**3. The "Tailor-Made" Suit:**
+This specific weighting (High MPF points / Low Professional points) appears custom-designed for a company like Prestige: a medium-sized firm lacking high-level professional accreditations. If RSE/AP were weighted normally (e.g., 3 points), Prestige would have likely failed.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Skewed Criteria**
+> *Source: Renovation Booklet p.27 (6) / 2023-09-12*
+>
+> "提供16位或以上僱員MPF記錄 = **3分**"
+> "提供註冊結構工程師證書 = **1分**"
+> "提供認可人士證書 = **1分**"
+> "提供公營機構...認可名單/定期合約 = **1分**"
+> "註冊安全主任 = 1分"
+>
+> *Translation*: 
+> "Provide MPF records for 16 or more employees = 3 points"
+> "Provide Registered Structural Engineer certificate = 1 point"
+> "Provide certificate of an Accredited Person = 1 point"
+> "Provide public‑sector...approved list / standing contract = 1 point"
+> "Registered Construction Manager = 1 point"
+
+> **Evidence [B]: Prestige's Qualifications**  
+> *Source: Renovation Booklet p.52*  
+>  
+> "公司有25人，可提供MPF記錄"  
+>
+> *Translation:*  
+> "The company has 25 staff and can provide MPF records."  
+> *(Analysis: This secures the 3 points. The remaining 1 point likely comes from the Safety Officer mentioned as 'AS' or similar, implying a lack of AP/RSE/Public Contracts.)*  
+
+> **Evidence [C]: Prestige's Score (Top Tier)**
+> *Source: Renovation Booklet p.28*
+>
+> "22. 宏業建築... 公司背景部份得分: **4**"  
+>  
+> *Translation:*  
+> "22. Prestige... Company background section score: **4**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Directly employing staff (MPF) indicates financial stability and reduces the risk of subcontracting. We value a contractor's own workforce. Professional support can be outsourced, but a core team is essential for management."
+
+**The Logical Trap:**
+1.  **Headcount ≠ Capability:** Having 25 staff on MPF proves nothing about *construction* capability. They could be 20 relatives and 5 drivers. In contrast, an RSE or AP proves *statutory competence*. Prioritizing the former over the latter is professional negligence.
+2.  **The "Subcontracting" Lie:** Ironically, the disaster revealed that Prestige relied heavily on subcontractors (for scaffolding, cladding, etc.). The 25 MPF staff clearly didn't prevent the chaotic, unsupervised subcontracting that led to the fire.
+3.  **Benchmarking:** In public works (Housing Authority/ArchSD), the presence of AP/RSE/RCM is a *mandatory* or highly weighted requirement. Relegating it to a 1-point tokenism contradicts industry best practices.
+
+**📅 Timeline:**
+*   **2023-03-24:** Will Power decides the skewed scoring criteria.
+*   **2023-08-31:** Prestige is evaluated and scores 4 (highest) despite lacking key professionals.
+*   **2024-01-28:** Prestige wins.
+
+**🔗 Links:**
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+
+---
+
 ### 🆔 [E-CARTEL-2023-08-31-01] The "Perfect Score" Scam: How a Safety Violator was Rated "Clean"
 
 **🚨 Significance:**
