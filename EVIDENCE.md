@@ -431,7 +431,7 @@ Will Power inserted a clause stating: *"Report is based on data submitted by ten
 
 **🚨 Significance:**
 
-A forensic audit of the tender scoring suggests that the high marks awarded to **Prestige (宏業)** were likely based on unverified or potentially fabricated documents. Since the Consultant (**Will Power**) already falsified the *publicly verifiable* [litigation score](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean), the integrity of the *private* documentation (Finance, MPF, ISO) is effectively null.
+A forensic audit of the tender scoring suggests that the high marks (and the best overall grade among 57 tenderers) in the company background evaluation section awarded to **Prestige (宏業)** were likely based on unverified or potentially fabricated documents. Since the Consultant (**Will Power**) already falsified the *publicly verifiable* [litigation score](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean), the integrity of the *private* documentation (Finance, MPF, ISO) is effectively null.
 
 **1. The "Black Box" of Private Documents:**
 Prestige scored full marks (3 points) for "Auditor's Financial Reports" and "Lawyer's No-Litigation Letters," and high marks for "MPF Records."
@@ -477,6 +477,24 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 > *Source: EPD Directory of ISO 14001 Certified Companies (2023)*
 >
 > *Search Result:* "Prestige Construction" / "宏業建築" **not found** in the list of 978 certified companies.
+
+> **Evidence [E]: Final Score for Company Section**  
+> *Source: Renovation Booklet p.30-32 / 2023-10*  
+>  
+>| **投標者名稱** | **總得分** | **評級** | **評估結果** |
+>|---|---:|---|---|
+>| 22. 宏業建築工程有限公司 | 20 | B | 次選考慮 |
+>
+> "公司背景分析總結  
+> A級別: 未有投標者背景達致評級A級別 B級別: 有 1 投標者背景獲得評級B級別，代表...整體上仍符合本項目的最基本要求。"  
+>  
+> *Translation:*  
+>| **Tenderer** | **Total Score** | **Grade** | **Evaluation Result** |
+>|---|---:|---|---|
+>| 22. Prestige Construction & Engineering Co., Ltd. | 20 | B | Secondary choice |
+>
+> "Company background analysis summary  
+> Grade A: No tenderer’s background achieved Grade A. Grade B: One tenderer’s background received Grade B, indicating...overall it meets the basic requirements of this criterion."
 
 **🛡️ Pre-emptive Rebuttal:**
 
