@@ -707,6 +707,94 @@ The "Final Recommendation List" of 5 contractors aligns **perfectly** with Will 
 
 ---
 
+### 🆔 [E-CARTEL-2023-10-30-01] The HK$150 Million Upsell: How "10-Year Warranty" was Used to Double the Bill
+
+**🚨 Significance:**
+
+Documents reveal how the Consultant (**Will Power**) successfully upsold the estate from a standard HK$150 Million mandatory repair to a HK$300 million deluxe package. By manipulating the "Choice Architecture" and leveraging the fear of water leakage, they convinced owners to approve **Option 3** (Total Hacking), doubling the cost per household to ~HK$150,000.
+
+**1. The "No Warranty" Scare Tactic:**
+In comparison charts, Will Power labeled Option 1 (Standard Repair) and Option 2 as having **"No Leakage Guarantee"**.
+*   *The Psychological Trap:* This phrasing misled owners into believing that the cheaper options were ineffective or risky. In reality, Option 1 meets all statutory requirements of the Mandatory Building Inspection Scheme (MBIS).
+
+**2. The "10-Year" Golden Carrot:**
+Option 3 was marketed with a **"10-Year Leakage Guarantee"**. This single promise was used to justify an extra **HK$150 million** in spending.
+*   *The Expert Rebuttal:* Engineer Jason Poon (潘焯鴻) debunks this, stating that Option 1 ("Hammer Tap" repair) is sufficient to fix leakage sources. Ironically, Option 3 (Total Hacking) creates excessive vibration that can *cause* new cracks around windows, potentially worsening leakage—a risk the Consultant never disclosed.
+
+**3. The Consultant as Salesman:**
+Instead of acting as a neutral advisor to minimize costs, Will Power actively promoted the most expensive option. They framed Option 3 not as a luxury upgrade, but as the only "guaranteed" solution, effectively acting as a sales agent for the Contractor's profit margin.
+
+**4. The Voting Blindspot:**
+During the vote (Jan 28, 2024), the ballot did not clearly distinguish that Option 1 was the "Mandatory Requirement" while Option 3 was an "Optional Upgrade." This lack of context, combined with the "Warranty" marketing, skewed the vote (80.5% for Option 3).
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "No Guarantee" Threat**
+> *Source: Newsletter No. 32 Attachment / 2023-10-30*
+>
+> "防水效能: 方案一 **無任何防漏保證** | 方案三 **10年防漏保證**"
+>
+> *Translation:*
+> "Waterproofing Performance: Option 1 **No Leakage Guarantee** | Option 3 **10-Year Leakage Guarantee**"
+
+> **Evidence [B]: The Cost Difference**
+> *Source: Newsletter No. 32 Attachment*
+>
+> "方案一: 以**1億5仟萬**為例 ($75,604/戶) | 方案三: 以**3億**為例 ($151,209/戶)"
+>
+> *Translation:*
+> "Option 1: **$150 Million** | Option 3: **$300 Million**"
+
+> **Evidence [C]: First Mention**  
+> *Source: 11th MC EGM / 2023-03-04*  
+>  
+> "1.3 顧問公司解述三個外牆維修方案..."
+> "1.4 ...就有關工程保固期，方案 1 及 2 均為一年，方案 3... 徹底打鑿外牆飾面，故有十年期的防漏保證。如日後選擇方案 3，...冷氣機必須拆除"  
+>  
+> *Translation:*  
+> "1.3 The Consultant explains the three exterior wall repair options..." 
+> "1.4 ...Regarding the warranty period, Options 1 and 2 each carry a one‑year warranty. Option 3... involves total hacking, carries a ten‑year leakage guarantee. If Option 3 is chosen, the air‑conditioning units... must be removed."
+
+> **Evidence [D]: The Voting Result**
+> *Source: 11th MC EGM Minutes / 2024-01-28*
+>
+> "方案三 **5971 (80.5%)**"
+>
+> *Translation:*
+> "Option 3 **80.5%**"
+
+> **Evidence [E]: The Expert Rebuttal**
+> *Source: Jason Poon FB / 2024-09-01*
+>
+> "方案一... 一樣可以治理外牆滲漏水的源頭。至於方案三，因為剝皮... 更加容易引起滲漏水問題。"
+>
+> *Translation:*
+> "Option 1... can equally cure sources of leakage. Option 3... due to hacking... is more likely to cause new leakage problems."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We offered options based on long-term value. Our low consultancy fee demonstrates our commitment to saving money for the residents. We hold no financial interest in the Contractor's earnings. Option 3 was chosen by owners for its superior durability."
+
+**The Logical Trap:**
+1.  **The "Loss Leader" Red Flag:** Charging HK$308k to supervise a HK$330M project is economically impossible for a legitimate firm (standard fees are 3-5%, i.e., ~$10M). Working for "almost free" proves the Consultant's revenue stream comes from elsewhere—likely **kickbacks** from the inflated contract sum.
+2.  **Absolute Power, Zero Checks:** By controlling every step from "Diagnosis" to "Prescription" to "Pharmacy Selection," the Consultant eliminated all checks and balances. Pushing the $300M option over the $150M option directly doubled the "pot" available for the cartel to share.
+3.  **The "Warranty" Loophole:** Selling Option 3 as necessary for "leakage prevention" (when Option 1 works) is a lie. As Poon noted, warranties often exclude "existing conditions" or specific interfaces. Residents paid HK$150M extra for a piece of paper that protects the Cartel's profits, not their homes.
+
+**📅 Timeline:**
+*   **2023-03-04:** Will Power introduces "3 Options," highlighting warranty difference.
+*   **2023-10-30:** Newsletter reinforces "No Warranty" vs "10-Year Warranty."
+*   **2024-01-28:** Owners vote for the most expensive Option 3.
+*   **2024-09-01:** Jason Poon exposes the technical fallacy of Option 3.
+
+**🔗 Links:**
+*   [Newsletter Attachment](http://www.wangfuk.org/html/comm/02/第32期宏福通訊%20-附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/宏福通訊%20第11屆管理委員會-第32期附件.pdf)
+*   [EGM Minutes 2023-03-04](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
+*   [EGM Minutes 2024-01-28](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
+*   [Jason Poon FB Analysis](https://www.facebook.com/share/v/1BadVNs6xp/)
+
+---
+
 ### 🆔 [E-CARTEL-2024-01-28-01] The Phantom Voters: How a "Mystery Mouse" Swung the HK$330M Contract
 
 **🚨 Significance:**
@@ -775,7 +863,7 @@ Analysis suggests that while ~95% of *physically present* owners appeared to opp
 
 **🔗 Links:**
 *   [Yu Ho's Account](https://www.facebook.com/share/p/1CgRcgyGrw/)
-*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
 
 ---
 
