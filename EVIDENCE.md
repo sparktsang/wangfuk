@@ -774,12 +774,12 @@ During the vote (Jan 28, 2024), the ballot did not clearly distinguish that Opti
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**
-"We offered options based on long-term value. Our low consultancy fee demonstrates our commitment to saving money for the residents. We hold no financial interest in the Contractor's earnings. Option 3 was chosen by owners for its superior durability."
+"We offered options based on long-term value. Option 3 provides a complete overhaul, extending the building's life and aesthetics ('like new'), which justifies the cost. The 'No Warranty' label for Option 1 is factually correct because spot repairs cannot guarantee the integrity of the *entire* wall, whereas full replacement can. Owners made an informed choice for quality."
 
 **The Logical Trap:**
-1.  **The "Loss Leader" Red Flag:** Charging HK$308k to supervise a HK$330M project is economically impossible for a legitimate firm (standard fees are 3-5%, i.e., ~$10M). Working for "almost free" proves the Consultant's revenue stream comes from elsewhere—likely **kickbacks** from the inflated contract sum.
-2.  **Absolute Power, Zero Checks:** By controlling every step from "Diagnosis" to "Prescription" to "Pharmacy Selection," the Consultant eliminated all checks and balances. Pushing the $300M option over the $150M option directly doubled the "pot" available for the cartel to share.
-3.  **The "Warranty" Loophole:** Selling Option 3 as necessary for "leakage prevention" (when Option 1 works) is a lie. As Poon noted, warranties often exclude "existing conditions" or specific interfaces. Residents paid HK$150M extra for a piece of paper that protects the Cartel's profits, not their homes.
+1.  **Value vs. Waste:** Spending $150M extra for "aesthetics" on a public housing estate is questionable stewardship. But the key issue is **Misrepresentation**. Selling Option 3 as necessary for "leakage prevention" (when Option 1 works) is a lie.
+2.  **The "Warranty" Loophole:** As Poon noted, warranties often exclude "existing conditions" or specific interfaces (like windows). Residents paid $150M for a piece of paper that likely has more holes than the new safety nets.
+3.  **The "Loss Leader" Red Flag:** Charging HK$308k to supervise a HK$330M project is economically impossible for a legitimate firm. Working for "almost free" proves the Consultant's revenue stream comes from elsewhere—likely **kickbacks** from the inflated contract sum, resulting in Conflict of Interest. 
 
 **📅 Timeline:**
 *   **2023-03-04:** Will Power introduces "3 Options," highlighting warranty difference.
