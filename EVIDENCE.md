@@ -170,6 +170,69 @@ On December 4, 2025, MC Chairman Tsui Moon-kam admitted to the press he was "**u
 
 ---
 
+### 🆔 [E-CARTEL-2010-12-31-01] The 17% Bribe: The Hidden "Tax" Behind the HK$330 Million Bill
+
+**🚨 Significance:**
+
+A landmark court case and subsequent academic analysis reveal the "Business Model" of Hong Kong's bid-rigging cartels. The conviction of **Yau Sui-tin** (Garden Vista case) proved that bribes to key figures (MC Chairman, Management Company) constituted **17%** of the total contract value.
+
+**1. The "17%" Benchmark:**
+*   **The Garden Vista Formula:** 10% to MC Chairman + 6% to Management Co. Executive + 1% to Property Manager = **17% Kickback**.
+*   **Applying to Wang Fuk:** On a HK$330 million contract, a similar 17% kickback structure would amount to **HK$56.1 million**. This explains the desperate drive to [inflate the contract sum](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill): the larger the total, the larger the bribe.
+
+**2. The Invisible "Consultant's Cut":**
+The academic paper notes that this 17% is *"on top of the likely inflated prices charged by the consultant and engineering firms."*
+*   *The Connection:* This explains the anomaly of **Will Power's** absurdly low HK$308k consultancy fee. They don't need to make money on the "fee"; their real income likely comes from a hidden share of the inflated construction costs (the cartel profit pool).
+
+**3. The "Dinner Table" Syndicate:**
+Yau's testimony described a dinner where the **MC Chairman**, **Management Company Director**, **Consultant**, and **Contractor** all sat together to fix the bid.
+*   *The System:* This proves that bid-rigging is not a rogue act by one party, but a coordinated operation by a "Syndicate": the alignment of the **MC (Voting)**, **Consultant (Scoring)**, **Contractor (Pricing)**, and **Management Co. (Alarm Silence)**.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The 17% Breakdown**
+> *Source: The Singapore Economic Review: Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)*
+>
+> "During the dinner... reached an agreement to give Fan, Hui and Lai **6%, 1% and 10%**, respectively, of the total costs... The bribe involved in this case already takes up **17% of the contract price**."
+
+> **Evidence [B]: The "Dummy Firm" Tactic**
+> *Source: The Singapore Economic Review: Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)*
+>
+> "...Wong [Consultant], Yeung [Contractor]... would be responsible for arranging **'dummy firms'** to submit bids."
+> *(Analysis: This mirrors the Wang Fuk tender where 57 firms bid, but Prestige was the "Sole First Choice".)*
+
+> **Evidence [C]: The Pre-MBIS Existence**
+> *Source: The Singapore Economic Review: Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)*
+>
+> "...bid-rigging existed before the MBIS... the amount of money involved... is getting even larger."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"You cannot use a 10-year-old case (Garden Vista) to accuse us. The industry has reformed. We used the URA's 'Smart Tender' system, which prevents this kind of collusion. There is no evidence of money changing hands in Wang Fuk Court. This is guilt by association."
+
+**The Logical Trap:**
+1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-01-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
+2.  **The "Same Script" pattern:** The pattern at Wang Fuk (inflated price, rigged voting, suppressed dissent) is functionally identical to Garden Vista. The only difference is the scale (Wang Fuk is even bigger).
+3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$593 per victim](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk593-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
+
+**¶ Statutory Basis:**
+
+*   **Case Law:** HKSAR v Yau Sui Tin ([DCCC 552/2015](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)).
+*   **Offence:** Conspiracy to offer advantages to agents (POBO), [Cap 201 Section 9](https://www.elegislation.gov.hk/hk/cap201!en/s9?_lang=en).
+
+**📅 Timeline:**
+*   **Late 2010:** Garden Vista bid-rigging (17% bribe).
+*   **2016-09-29:** Yau Sui-tin convicted; exposes the "Syndicate Model."
+*   **2022-05-05:** Academic paper confirms bid-rigging increased *after* regulations.
+*   **2024-01-28:** Wang Fuk tender exhibits identical statistical anomalies.
+
+**🔗 Links:**
+*   [InMediaHK Report on Yau Sui Tin](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
+
+---
+
 ### 🆔 [E-CARTEL-2022-05-05-01] The Mathematical Fingerprint: Academic Proof of Prestige's Bid-Rigging
 
 **🚨 Significance:**
