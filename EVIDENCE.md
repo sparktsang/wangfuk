@@ -136,7 +136,7 @@ Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-sa
 
 **🚨 Significance:**
 
-On December 4, 2025, MC Chairman Tsui Moon-kam admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
+On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
 
 **📜 Original Record:**
 
@@ -174,7 +174,7 @@ On December 4, 2025, MC Chairman Tsui Moon-kam admitted to the press he was "**u
 
 **🚨 Significance:**
 
-A landmark court case and subsequent academic analysis reveal the "Business Model" of Hong Kong's bid-rigging cartels. The conviction of **Yau Sui-tin** (Garden Vista case) proved that bribes to key figures (MC Chairman, Management Company) constituted **17%** of the total contract value.
+A landmark court case and subsequent academic analysis reveal the "Business Model" of Hong Kong's bid-rigging cartels. The conviction of **Yau Sui-tin** (丘瑞田) in the Garden Vista case proved that bribes to key figures (MC Chairman, Management Company) constituted **17%** of the total contract value.
 
 **1. The "17%" Benchmark:**
 *   **The Garden Vista Formula:** 10% to MC Chairman + 6% to Management Co. Executive + 1% to Property Manager = **17% Kickback**.
@@ -214,7 +214,7 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 **The Logical Trap:**
 1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-01-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
 2.  **The "Same Script" pattern:** The pattern at Wang Fuk (inflated price, rigged voting, suppressed dissent) is functionally identical to Garden Vista. The only difference is the scale (Wang Fuk is even bigger).
-3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$593 per victim](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk593-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
+3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$589 per victim](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
 
 **¶ Statutory Basis:**
 
@@ -230,6 +230,77 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 **🔗 Links:**
 *   [InMediaHK Report on Yau Sui Tin](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
 *   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
+
+---
+
+### 🆔 [E-CARTEL-2018-06-30-01] The "Whistleblower Trap": Why Only the Snitch Went to Jail
+
+**🚨 Significance:**
+
+The landmark "Garden Vista" bid-rigging case, often cited as a victory against corruption, was in reality a **judicial failure** that emboldened future cartels. While the middleman turned whistleblower (**Yau Sui-tin/丘瑞田**) was jailed for 35 months, the masterminds he implicated—including the MC Chairman, Management Company Executive, Consultant, and Contractor—walked free due to "insufficient evidence."
+
+**1. The "Kill the Messenger" Outcome:**
+Yau provided detailed testimony of a dinner meeting where a **17% bribe** was agreed upon. However, only the confessed Yau was convicted. The Department of Justice (DOJ) dropped investigations against all other named conspirators in mid-2018.
+*   *The Message:* The legal system punished the one person who exposed the truth, while letting the architects of the HK$262 million fraud keep their profits. This created a **"Perverse Incentive"**: silence pays, and confession is suicide.
+
+**2. The Blueprint for Impunity:**
+The failure to prosecute the masterminds taught cartels a valuable lesson: **"Don't leave a paper trail, and don't let the middleman talk."**
+*   *Application to Wang Fuk:* This explains why the Wang Fuk cartel operated with such brazen confidence (fake scores, fake nets). They knew that without an insider confessing, the ICAC's threshold for "sufficient evidence" is impossibly high, effectively granting them immunity.
+
+**3. The ICAC's Limitations:**
+The termination of the Garden Vista investigation, despite "knowing the facts" (as per MC notice), proves that the ICAC is toothless against sophisticated collusion unless someone defects.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Whistleblower's Sentence**
+> *Source: DCCC 552/2015 Judgment / 2016-09-29*
+>
+> "本席頒令... 總認罪刑期最後為合共 **35個月監禁**..."
+>
+> *Translation:*
+> "I order... total sentence after guilty plea is **35 months imprisonment**..."
+
+> **Evidence [B]: The Masterminds Named (But Not Charged)**
+> *Source: DCCC 552/2015 Judgment / 2016-09-29*
+>
+> "被告人... 串連管理公司新昌的樊和許、業主立案法團的主席黎... 串謀包括向樊、許和黎提供... 利益。"
+>
+> *Translation:*
+> "The Defendant... connected Synergis executives Fan and Hui, and MC Chairman Lai... conspiracy included offering benefits to Fan, Hui, and Lai."
+
+> **Evidence [C]: The Investigation Terminated**
+> *Source: FactWire / 2019-04-14*
+>
+> "廉政公署先後拘捕約20人...不過廉署去年中已終止調查。"
+> "律政司經考慮調查結果後認為**證據不足**，不會向涉案人士作出檢控。...基於至今已知的事實，**無須繼續調查**。"
+>
+> *Translation:*
+> "The ICAC subsequently arrested about 20 people...; however, the ICAC terminated the investigation in mid‑last year."
+> "DOJ considered the results and found **insufficient evidence** to prosecute... Based on known facts, **no need to continue investigation**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Prosecution requires proof beyond reasonable doubt. The testimony of an accomplice (Yau) without corroborating material evidence (money trail) is often insufficient for conviction. We must uphold the rule of law and cannot prosecute based on suspicion alone."
+
+**The Logical Trap:**
+1.  **The "Corroboration" Failure:** In a project worth HK$262M, with a 17% bribe, the money had to go somewhere. Failing to find a money trail in years of investigation suggests either **forensic incompetence** or that the legal framework for "Money Laundering" is too weak to catch construction cartels.
+2.  **The Structural Flaw:** If the law requires "proof beyond reasonable doubt" for *secret agreements* made at private dinners, then bid-rigging is effectively **legal** as long as participants don't record it. This legal standard is incompatible with the reality of organized crime.
+3.  **The Resulting Carnage:** The "Rule of Law" excuse rings hollow when the result of *not* prosecuting is the proliferation of cartels that eventually leads to the **Wang Fuk Court fire (160 dead)**. The failure to stop the Garden Vista gang directly enabled the ecosystem that killed people in 2025.
+
+**¶ Statutory Basis:**
+
+*   **Case:** HKSAR v Yau Shui Tin ([DCCC 552/2015](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)).
+*   **Outcome:** Selective Prosecution.
+
+**📅 Timeline:**
+*   **Nov 2013:** Garden Vista bid-rigging exposed.
+*   **2016-09-29:** Yau Shui-tin jailed (35 months).
+*   **Mid 2018:** ICAC/DOJ drops case against masterminds.
+*   **2021-2024:** Wang Fuk cartel operates with impunity.
+
+**🔗 Links:**
+*   [FactWire Report](https://www.factwire.org/investigation/文件揭錯誤數據推高工程價-翠湖圍標調查-廉署終止/)
 
 ---
 
@@ -987,7 +1058,7 @@ Analysis suggests that while ~95% of *physically present* owners appeared to opp
 **The Logical Trap:**
 1.  **The "Late Arrival" Physics:** Registering 271 households in 25 minutes requires processing **10 households per minute**. Unless there were 10 registration counters working non-stop with zero friction, this physical throughput is highly suspicious. It suggests a "bulk processing" of pre-collected forms, not individual arrivals.
 2.  **The "Unusual" Pattern:** Why would 45 owners entrust their vote to a single "Mystery Mouse" who arrives *late*? This pattern—concentration of power in unknown hands + strategic timing—is the hallmark of **Vote Warehousing**, not organic participation.
-3.  **The Resulting Tragedy:** Whether "legal" or not, this voting mechanism produced a contractor (Prestige) who used fake materials, fake certificates, and ignored safety laws, leading to 159 deaths. The "Legality" of the vote does not absolve the **Immorality** of the outcome.
+3.  **The Resulting Tragedy:** Whether "legal" or not, this voting mechanism produced a contractor (Prestige) who used fake materials, fake certificates, and ignored safety laws, leading to 160 deaths. The "Legality" of the vote does not absolve the **Immorality** of the outcome.
 
 **¶ Statutory Basis:**
 
@@ -1411,7 +1482,7 @@ The Government confirmed post-fire that the material was "flammable." Yet, this 
 
 **🚨 Significance:**
 
-Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-159-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
+Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-160-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
 
 **1. The "One Hour" Delay:**
 Mr. Wong, a survivor, was working from home. He heard no alarm. When a friend called to warn him, he tried to check outside but **"could not see"** because the windows were sealed with Styrofoam.
@@ -2083,7 +2154,7 @@ Residents were forced to live in sealed, air-conditioner-less units (due to remo
 
 ---
 
-### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$593 per Victim & The 5% Decoy
+### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$589 per Victim & The 5% Decoy
 
 **🚨 Significance:**
 
@@ -2096,8 +2167,8 @@ To deceive inspectors, contractors installed compliant nets (HK$100/roll) only a
 *   **Cost to do it right:** HK$230,000 (if all 2,300 rolls were compliant).
 *   **Cost to cheat:** HK$135,700 (2,300 cheap rolls + 115 decoy rolls).
 *   **The Profit:** **HK$94,300**.
-*   **The Human Toll:** 159 deaths.
-*   **The Unit Price of Death:** The contractors effectively valued each human life at **HK$593**.
+*   **The Human Toll:** 160 deaths.
+*   **The Unit Price of Death:** The contractors effectively valued each human life at **HK$589**.
 
 **3. Premeditation:**
 This was not negligence; it was a calculated cover-up. Following a scaffolding fire in Central in late October, the suspects—fearing inspection—rushed to buy the 115 compliant rolls specifically to create the "safe zone" at ground level, proving they were fully aware of the fire risk but chose to hide it rather than fix it.
@@ -2144,7 +2215,7 @@ Following the Central fire on Oct 18, 2025, the Construction Industry Council (C
 
 **1. The "Checklist of Death":**
 The CIC warning explicitly flagged:
-*   **Risk 1:** [Non-flame-retardant nets](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk593-per-victim--the-5-decoy).
+*   **Risk 1:** [Non-flame-retardant nets](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy).
 *   **Risk 2 & 4:** Sparks from hot works / Smoking workers. (The Prime Suspects for ignition).
 *   **Risk 3:** Improper storage of [flammable materials](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam).
 *   **Risk 6:** Faulty/Incomplete [fire service systems](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble).
@@ -2743,7 +2814,7 @@ The Labour Department (LD) conducted **16 inspections** between July 2024 and No
 
 **1. The "Audit by Paper" Loophole:**
 The LD confirmed their inspection method involved "checking the Product Quality Certificates".
-*   *The Trick:* As [exposed](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk593-per-victim--the-5-decoy) by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
+*   *The Trick:* As [exposed](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
 *   *The Failure:* Inspectors accepted these certificates as proof for the *entire* site. They did not conduct on-site combustion tests, allowing 2,300 rolls of fake nets to hide behind a single piece of paper.
 
 **2. Industry Verdict: "Certificates are Waste Paper":**
@@ -2795,7 +2866,7 @@ Residents acted as the city's "nerve endings," screaming about the danger for mo
 
 **1. The "Two-Color" Smoking Gun:**
 In October, residents reported that the nets had **two different colors** (Deep Green vs. Light Green) and were fragile.
-*   *The Link:* This visual discrepancy  matches the later [ICAC finding](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk593-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
+*   *The Link:* This visual discrepancy  matches the later [ICAC finding](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
 *   *The Failure:* ICU and LD inspectors visited the site but ignored this glaring visual cue. A "surprise inspection" that misses a two-tone color difference indicating mixed batches is not an inspection; it is "industrial tourism."
 
 **2. The "Central Fire" Warning:**
@@ -2860,7 +2931,7 @@ When asked *what* they actually checked during that surprise inspection, the Lab
 
 ---
 
-### 🆔 [E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 159 Lives
+### 🆔 [E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 160 Lives
 
 **🚨 Significance:**
 
@@ -2875,7 +2946,7 @@ Fire Safety Consultant Leung Kam-tak (梁錦得) stated it is statistically impo
 
 **3. The Legal Impotence:**
 While the contractors face charges for False Declarations, the maximum penalty is only **imprisonment for 2 years** and a fine. Recent cases show sentences as light as **2 months imprisonment** or **3 months suspended sentence**.
-*   *The Absurdity:* Lying about a critical safety system that contributed to 159 deaths carries a lighter maximum sentence than many minor theft offenses.
+*   *The Absurdity:* Lying about a critical safety system that contributed to 160 deaths carries a lighter maximum sentence than many minor theft offenses.
 
 **4. The Defense:**
 Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied involvement, stating the arrested individuals were not their staff. This points suspicion towards the sub-contractors under the General Contractor (**Prestige/宏業**).
