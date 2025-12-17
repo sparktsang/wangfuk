@@ -537,7 +537,6 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 **The Logical Trap:**
 (*Note: Silence due to fear of "inciting hatred against the government"*)
 
-
 **📅 Timeline:**
 *   **2015-2019:** FactWire & Alliance active; Bid-rigging exposed.
 *   **2020-2022:** Crackdown. Media closed, Activists jailed.
@@ -545,6 +544,7 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 *   **2025-11-26:** Wang Fuk Fire (160 Dead).
 
 **🔗 Links:**
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
 *   [FactWire Closure Statement](https://www.factwire.org/傳真社停止運作聲明/)
 *   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571)
 *   [The Collective HK Interview](https://thecollectivehk.com/採訪手記宏福苑圍標之禍給妹妹的信/)
