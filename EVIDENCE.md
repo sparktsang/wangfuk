@@ -417,7 +417,7 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 **3. The Escalation of Collusion:**
 *   **Pre-MBIS:** Prestige (Firm 1) had *no* significant correlation with other firms.
 *   **Post-MBIS:** Prestige's bids showed **statistically significant correlation (at 5% level)** with two other major competitors.
-*   *The Verdict:* The mandatory inspection policy was weaponized by Prestige and its peers to form a cartel, driving prices up by 40%.
+*   *The Verdict:* The mandatory inspection policy was weaponized by Prestige and its peers to form a cartel, driving prices up by [50%+](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2012-06-30-01-the-mbis-premium-how-government-policy-inflated-prices-by-50).
 
 **📜 Original Record:**
 
@@ -447,11 +447,6 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 >
 > *Translation:*
 > "Leung Tin-cheuk confirmed that 'Firm 1' in the chart is **Prestige Construction & Engineering Co., Ltd.**"
-
-> **Evidence [C]: The Market Impact**
-> *Source: The Singapore Economic Review: Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)*
->
-> "...homeowners... paid **40% more** in bid price compared with those who did it voluntarily."
 
 **🛡️ Pre-emptive Rebuttal:**
 
@@ -637,8 +632,9 @@ A statistical analysis of the tender prices reveals highly suspicious alignment 
 *   **Difference:** **-1.6%**
 *   *The Implication:* In a blind tender with 57 bidders, hitting the consultant's estimate with <2% variance is statistically improbable without insider information ("Leakage"). This precision allowed Prestige to secure the top "A" rating for price, validating their bid as "reasonable."
 
-**2. The Market Distortion (The +40% Premium):**
-Academic research (Leung, Tsang, Tsui 2022) indicates that mandatory building repairs in Hong Kong are systematically overpriced by **40%** due to collusion.
+**2. The Market Distortion (The +50% Premium):**
+Academic research (Leung, Tsang, Tsui 2022) indicates that mandatory building repairs in Hong Kong are systematically overpriced by 
+[**50%+**](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2012-06-30-01-the-mbis-premium-how-government-policy-inflated-prices-by-50) due to collusion.
 *   *The Trap:* By using "Market Rate" as the benchmark for "Reasonableness," the Consultant validates the rigged price. If the market is rigged (as famously confessed by bid-rigging convict Yau Shui-tin: "All of HK is rigged post-97"), then matching the "Consultant's Estimate" simply means matching the cartel's target price, not a fair price.
 
 **3. Bypassing the "Lowest Bidder" Safeguard:**
@@ -687,14 +683,7 @@ Out of 57 bidders, Prestige was the **only one** rated as "First Choice". This o
 > "If tender assessment interviews are arranged, the interview list **must include** the **first five tenderers with the lowest submitted bids** from the list of valid tenderers."
 > *(Analysis: Will Power steered the MC towards their "First Choice" (Prestige) rather than focusing on the lowest bidders.)*
 
-> **Evidence [D]: The Academic Proof of Collusion**
-> *Source: The Singapore Economic Review (See Citation below)*
->
-> "We find that homeowners who received statutory notices to repair their building **paid 40% more** in bid price... Finally, the major contractors’ bids became more correlated... suggesting that the scheme may have helped promote **bid-rigging and corruption**."
->
-> Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022). Collusion in private procurement: How does mandatory building repair increase renovation prices? *The Singapore Economic Review* 67(5). doi:10.1142/S0217590822430020
-
-> **Evidence [E]: "All of HK is rigged post-97" Confession**  
+> **Evidence [D]: "All of HK is rigged post-97" Confession**  
 > *Source: InMedia / 2015-07-03*  
 >  
 > "被告丘瑞田離開裁判法院時...表示於1997年後全香港都有圍標，更叫市民「小心你地啲物業」。他...稱自己2007年曾去信廉政公署告密...指...圍標問題...非常難破"  
