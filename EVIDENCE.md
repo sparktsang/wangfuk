@@ -1916,8 +1916,9 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 **📜 Original Record:**
 
-宏福苑業主立案法團第十二屆管理委員會第七次全體委員會議記錄
-
+> **Evidence [A]: The Quotes**
+> *Source: 12th MC Meeting Minutes (No. 7) / 2024-11-15*
+>
 > **9) 商討及議決 2025-2026 年度屋苑各項保險事宜**
 > *   **9.1** 承上次會議的跟進，管理處再於 10 月 23 日逐一向未有回覆的保險公司查詢不回覆報價的原因。詳情如下： (全體知悉)
 > 
@@ -1958,9 +1959,9 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 >
 >9.3 After discussion, members noted that underwriting risk increases during major repair works, which may affect insurers’ willingness to underwrite. Members unanimously decided to proceed with tendering and to follow up at the next meeting.
 
-**📅 Date:** 2024-11-15 | **Source:** 12th MC Meeting Minutes (No. 7)
+**📅 Date:** 2024-11-15
 
-**🔗 Links:** [Official PDF](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC7%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%B8%83%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+**🔗 Links:** [Minutes 7](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20第十二屆第七次會議紀錄.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
 
 ---
 
