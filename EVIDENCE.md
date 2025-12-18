@@ -1614,7 +1614,7 @@ The new MC reported the case to the police as "Using False Instruments." Over 80
 
 ---
 
-### 🆔 [E-ADMIN-2024-07-19-01] The Questionnaire Trap: "Admit Liability or Withdraw"
+### 🆔 [E-ADMIN-2024-07-22-01] The Questionnaire Trap: "Admit Liability or Withdraw"
 
 **🚨 Significance:**
 
@@ -1672,10 +1672,95 @@ The threat that *"names and unit details will be publicly displayed"* exploits t
 
 **📅 Timeline:**
 *   **2024-07-05:** >5% Owners submit petition for EGM.
-*   **2024-07-19 (Deadline):** Chairman issues "Intimidation Survey."
+*   **2024-07-22:** Chairman issues "Intimidation Survey."
 
 **🔗 Links:**
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39dGZQq6rQEvA)
+
+---
+
+### 🆔 [E-ADMIN-2024-07-31-01] The Illegal Delay: How the Chairman Ignored Statutory Deadlines to Crush Dissent
+
+**🚨 Significance:**
+
+Official records prove that MC Chairman **Tang Kwok-kuen** systematically violated the Building Management Ordinance (BMO) to obstruct a legitimate owners' petition. Upon receiving a 5% petition on July 5, 2024, the law required him to issue a notice of meeting by **July 19** (14 days) and hold the meeting by **Aug 19** (45 days). He missed both deadlines willfully.
+
+**1. The "Decoy" Survey (July 19):**
+On the deadline to convene the meeting, the Chairman instead issued a "General Opinion Survey" to all residents.
+*   *The Tactic:* This survey produced a "76% opposition" figure (based on a low 24% response rate). The Chairman used this manufactured "Majority Opinion" to delegitimize the statutory right of the 5% minority, treating a legal obligation as a popularity contest.
+
+**2. The Late "Intimidation" (July 22):**
+The targeted "Verification Letter" (threatening legal liability) was sent to signatories on **July 22**—**3 days after the statutory deadline**.
+*   *The Violation:* By delaying the verification until *after* the convening deadline passed, the Chairman acted ultra vires (beyond his powers). Even after this intimidation caused some to withdraw, **130 owners** (approx. 6.5%) stood firm—still satisfying the 5% threshold.
+
+**3. The 45-Day Breach:**
+The meeting was finally scheduled for **Sept 6**—**63 days** after the petition.
+*   *The Illegality:* This blatantly violated the 45-day statutory limit (Aug 19). The delay allowed the MC to consolidate power, sign contracts, and let the "anti-dissent" sentiment fester.
+
+**4. Management as Enforcer:**
+When residents attempted to organize on July 23, Security guards (managed by **ISS**) called the police. This confirms that the Management Company actively collaborated with the MC to suppress residents' rights.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Statutory Breach (Dates)**
+> *Source: 12th MC Meeting Minutes (No. 3) / 2024-08-05*
+>
+> "鄧主席報告在 2024 年 **7 月 5 日**收到... 5%... 簽名文件... 鄧主席於 **7 月 22 日**向... 簽名人士發出確認信件。"
+>
+> *Translation:*
+> "Chairman Tang received the 5% petition on **July 5**. Chairman sent confirmation letters on **July 22**."
+> *(Analysis: 14-day deadline expired on July 19. Action was late.)*
+
+> **Evidence [B]: The "Decoy" Survey Result**
+> *Source: 12th MC Meeting Minutes (No. 3)*
+>
+> "法團於 7 月 19 日向全苑發出問卷調查... **76% 反對** 5%以上業主要求罷免管委會..."
+>
+> *Translation:*
+> "MC issued survey on July 19... **76% opposed** the request to recall the MC..."
+
+> **Evidence [C]: The Threshold Met Despite Tactics**
+> *Source: 12th MC Meeting Minutes (No. 3)*
+>
+> "截至 7 月 31 日... 當中 **130 個業主**表示要求召開大會..."
+>
+> *Translation:*
+> "As of July 31... **130 owners** confirmed the request for the meeting..."
+> *(Note: 130 > 5% of 1984. The tactic failed to drop numbers below legal threshold.)*
+
+> **Evidence [D]: Police Called on Residents**
+> *Source: Yahoo News / 2024-07-24*
+>
+> "逾 200 名居民周二晚（23 日）開會後... 將有關通告放入住戶信箱，但隨即有**保安報警**..."
+>
+> *Translation:*
+> "Over 200 residents met on Tuesday (23rd)... put notices in mailboxes, but **security immediately called the police**..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We needed time to verify signatures to ensure the petition was valid (some *were* withdrawn). Finding a suitable venue for a large-scale meeting is difficult; the Community Hall was full. We acted in good faith to facilitate the meeting as soon as a venue (school) was available. Calling police was standard protocol for 'unauthorized distribution' or 'gathering' to maintain order."
+
+**The Logical Trap:**
+1.  **Verification is not an Excuse for Delay:** The BMO does not grant a "time-out" for verification. If the Chairman suspected fraud, he should have convened the meeting and challenged the validity *at* the meeting. Delaying the *notice* beyond 14 days is illegal, regardless of the excuse.
+2.  **Venue Availability:** If the Community Hall was full, why wait until Sept 6? Schools and private venues are available in July/August. The 18-day delay beyond the 45-day limit (Aug 19 to Sept 6) is excessive and unexplained, suggesting deliberate stalling.
+3.  **Policing vs. Managing:** Residents putting notices in *their own* neighbors' mailboxes is a basic right of communication within a private estate. Treating this as a "police matter" reveals a **hostile management style** aimed at silencing opposition, not maintaining order.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Building Management Ordinance (Cap. 344), Schedule 3, Para 1 (14-day & 45-day rule).
+
+**📅 Timeline:**
+*   **2024-07-05:** Petition submitted (Day 0).
+*   **2024-07-19:** 14-Day Deadline passed. MC issues "Decoy Survey."
+*   **2024-07-22:** MC issues "Intimidation Letter" (Late).
+*   **2024-07-23:** Residents organize; Security calls Police.
+*   **2024-08-19:** 45-Day Deadline passed. No meeting held.
+*   **2024-09-06:** Meeting finally held (Day 63).
+
+**🔗 Links:**
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39d6ff3)
+*   [Minute 3](http://www.wangfuk.org/html/meeting/12/第3次全體委員會議紀錄v1.pdf)
 
 ---
 
