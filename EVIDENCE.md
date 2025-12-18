@@ -80,7 +80,7 @@ The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's ow
 *   **2024-01-28:** EGM passes the "Basket" with 90% vote (proxies).
 
 **🔗 Links:**
-*   [Minutes 21 (Questionnaire Results)](http://www.wangfuk.org/html/meeting/05/第21次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2023-11-23%20第十一屆第二十一次會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minutes 21 (Questionnaire Results)](http://www.wangfuk.org/html/meeting/05/第21次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2023-11-23%20第十一屆第二十一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [EGM Minutes (The Vote)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Yahoo News Report (The Consultant Fee)](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
 *   [Herman Yiu's Post (A primary source of the Consultant Fee)](https://www.facebook.com/share/p/1ASPMmAqdt/)
@@ -178,7 +178,7 @@ A landmark court case and subsequent academic analysis reveal the "Business Mode
 
 **1. The "17%" Benchmark:**
 *   **The Garden Vista Formula:** 10% to MC Chairman + 6% to Management Co. Executive + 1% to Property Manager = **17% Kickback**.
-*   **Applying to Wang Fuk:** On a HK$330 million contract, a similar 17% kickback structure would amount to **HK$56.1 million**. This explains the desperate drive to [inflate the contract sum](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill): the larger the total, the larger the bribe.
+*   **Applying to Wang Fuk:** On a HK$330 million contract, a similar 17% kickback structure would amount to **HK$56.1 million**. This explains the desperate drive to [inflate the contract sum](#-e-cartel-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill): the larger the total, the larger the bribe.
 
 **2. The Invisible "Consultant's Cut":**
 The academic paper notes that this 17% is *"on top of the likely inflated prices charged by the consultant and engineering firms."*
@@ -212,9 +212,9 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 "You cannot use a 10-year-old case (Garden Vista) to accuse us. The industry has reformed. We used the URA's 'Smart Tender' system, which prevents this kind of collusion. There is no evidence of money changing hands in Wang Fuk Court. This is guilt by association."
 
 **The Logical Trap:**
-1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
+1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
 2.  **The "Same Script" pattern:** The pattern at Wang Fuk (inflated price, rigged voting, suppressed dissent) is functionally identical to Garden Vista. The only difference is the scale (Wang Fuk is even bigger).
-3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$589 per victim](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
+3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$589 per victim](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
 
 **¶ Statutory Basis:**
 
@@ -417,7 +417,7 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 **3. The Escalation of Collusion:**
 *   **Pre-MBIS:** Prestige (Firm 1) had *no* significant correlation with other firms.
 *   **Post-MBIS:** Prestige's bids showed **statistically significant correlation (at 5% level)** with two other major competitors.
-*   *The Verdict:* The mandatory inspection policy was weaponized by Prestige and its peers to form a cartel, driving prices up by [50%+](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2012-06-30-01-the-mbis-premium-how-government-policy-inflated-prices-by-50).
+*   *The Verdict:* The mandatory inspection policy was weaponized by Prestige and its peers to form a cartel, driving prices up by [50%+](#-e-cartel-2012-06-30-01-the-mbis-premium-how-government-policy-inflated-prices-by-50).
 
 **📜 Original Record:**
 
@@ -456,7 +456,7 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 **The Logical Trap:**
 1.  **The "Residuals" Argument:** The study didn't just compare raw prices; it analyzed **"Bid Residuals"**. The authors *already controlled* for observable costs (building type, time trend, inflation). The correlation found was in the *unexplained* portion of the price. If the "unexplained" parts move together, it means hidden coordination is happening.
 2.  **The "Pre/Post" Contrast:** If it was just "market structure," the correlation should have existed *before* MBIS too. But Table 8 shows Prestige (Firm 1) had **zero** significant correlations before MBIS. The correlation only appeared *after* the government created a guaranteed market (Mandatory Inspection), which is the classic trigger for cartel formation.
-3.  **The "1.6%" Confirmation:** This academic proof explains the [1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target). That "magic accuracy" is the practical application of the statistical correlation found in this paper.
+3.  **The "1.6%" Confirmation:** This academic proof explains the [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target). That "magic accuracy" is the practical application of the statistical correlation found in this paper.
 
 **📅 Timeline:**
 *   **2012-06-30:** MBIS launched; Cartel behavior spikes.
@@ -474,7 +474,7 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 
 **🚨 Significance:**
 
-The 2022 academic paper that statistically proved [Prestige's bid-rigging](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2022-05-05-01-the-mathematical-fingerprint-academic-proof-of-prestiges-bid-rigging) relied entirely on a database constructed by **FactWire** and the **Property Owners' Anti-Bid Rigging Alliance**. With the forced closure of independent media and the imprisonment of alliance leaders, the ecosystem capable of exposing such crimes has been dismantled.
+The 2022 academic paper that statistically proved [Prestige's bid-rigging](#-e-cartel-2022-05-05-01-the-mathematical-fingerprint-academic-proof-of-prestiges-bid-rigging) relied entirely on a database constructed by **FactWire** and the **Property Owners' Anti-Bid Rigging Alliance**. With the forced closure of independent media and the imprisonment of alliance leaders, the ecosystem capable of exposing such crimes has been dismantled.
 
 **1. The "Lost" Infrastructure of Truth:**
 The academic study explicitly cites FactWire as its data source for 141 projects. FactWire, in turn, sourced data from the Anti-Bid Rigging Alliance.
@@ -563,7 +563,7 @@ The solitary conviction in 2018 (Tsang Hin-kit) was a remnant of the 2013 Garden
 *   *The Reality:* The system only catches the minnows (who take 0.07%), while the sharks (who take the 17% cut) swim free.
 
 **3. The Correlation with Chaos:**
-The period of "Zero Convictions" (2019-2022) coincides with the dismantling of [civil society monitoring groups](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2022-06-10-01-the-death-of-data-why-the-evidence-that-convicted-the-cartel-can-never-be-gathered-again). Without external pressure, the enforcement machinery ground to a halt, paving the way for the brazen operations seen at Wang Fuk Court in 2024.
+The period of "Zero Convictions" (2019-2022) coincides with the dismantling of [civil society monitoring groups](#-e-cartel-2022-06-10-01-the-death-of-data-why-the-evidence-that-convicted-the-cartel-can-never-be-gathered-again). Without external pressure, the enforcement machinery ground to a halt, paving the way for the brazen operations seen at Wang Fuk Court in 2024.
 
 **📜 Original Record:**
 
@@ -774,7 +774,7 @@ A statistical analysis of the tender prices reveals highly suspicious alignment 
 
 **2. The Market Distortion (The +50% Premium):**
 Academic research (Leung, Tsang, Tsui 2022) indicates that mandatory building repairs in Hong Kong are systematically overpriced by 
-[**50%+**](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2012-06-30-01-the-mbis-premium-how-government-policy-inflated-prices-by-50) due to collusion.
+[**50%+**](#-e-cartel-2012-06-30-01-the-mbis-premium-how-government-policy-inflated-prices-by-50) due to collusion.
 *   *The Trap:* By using "Market Rate" as the benchmark for "Reasonableness," the Consultant validates the rigged price. If the market is rigged (as famously confessed by bid-rigging convict Yau Shui-tin: "All of HK is rigged post-97"), then matching the "Consultant's Estimate" simply means matching the cartel's target price, not a fair price.
 
 **3. Bypassing the "Lowest Bidder" Safeguard:**
@@ -976,7 +976,7 @@ Will Power inserted a clause stating: *"Report is based on data submitted by ten
 
 **🚨 Significance:**
 
-A forensic audit of the tender scoring suggests that the high marks (and the best overall grade among 57 tenderers) in the company background evaluation section awarded to **Prestige (宏業)** were likely based on unverified or potentially fabricated documents. Since the Consultant (**Will Power**) already falsified the *publicly verifiable* [litigation score](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean), the integrity of the *private* documentation (Finance, MPF, ISO) is effectively null.
+A forensic audit of the tender scoring suggests that the high marks (and the best overall grade among 57 tenderers) in the company background evaluation section awarded to **Prestige (宏業)** were likely based on unverified or potentially fabricated documents. Since the Consultant (**Will Power**) already falsified the *publicly verifiable* [litigation score](#-e-cartel-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean), the integrity of the *private* documentation (Finance, MPF, ISO) is effectively null.
 
 **1. The "Black Box" of Private Documents:**
 Prestige scored full marks (3 points) for "Auditor's Financial Reports" and "Lawyer's No-Litigation Letters," and high marks for "MPF Records."
@@ -986,7 +986,7 @@ Prestige scored full marks (3 points) for "Auditor's Financial Reports" and "Law
 **2. The Phantom ISO Certificate:**
 Prestige claimed to possess ISO 14001 (Environmental Management) and ISO 45001 (Occupational Health & Safety), earning crucial points.
 *   *The Anomaly:* A search of the Environmental Protection Department's (EPD) directory of ISO 14001 certified companies **does not list Prestige**.
-*   *The Connection:* Given the rampant industry practice of buying [fake certificates](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-11-27-01-the-open-secret-fake-certificates), the absence of an official record raises a high probability that these ISO qualifications were either expired, unrecognized, or forged.
+*   *The Connection:* Given the rampant industry practice of buying [fake certificates](#-e-safety-nets-2025-11-27-01-the-open-secret-fake-certificates), the absence of an official record raises a high probability that these ISO qualifications were either expired, unrecognized, or forged.
 
 **3. The "Zero Responsibility" Clause:**
 Will Power inserted a disclaimer stating they "**bear no responsibility for the authenticity or accuracy**" of the data.
@@ -1204,7 +1204,7 @@ The "Final Recommendation List" of 5 contractors aligns **perfectly** with Will 
 "The Consultant's scoring reflects professional technical assessment, which naturally differentiates sharply between capable and incapable contractors. The MC members, being laymen, tend to give 'safe', average scores. Our 90 points for Prestige reflected their superior interview performance and technical answers, which justifies the difference."
 
 **The Logical Trap:**
-1.  **"Superior" Performance vs. Reality:** What "technical superiority" did Prestige show to deserve 90 marks? Was it the [**fake litigation record**](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean)? Or the [**lack of AP/RSE**](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-03-24-01-headcount-over-brains-how-16-clerks-outranked-a-structural-engineer)? Awarding 90 marks to a company with a documented history of safety convictions is not "professional differentiation"; it is **professional misconduct**.
+1.  **"Superior" Performance vs. Reality:** What "technical superiority" did Prestige show to deserve 90 marks? Was it the [**fake litigation record**](#-e-cartel-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean)? Or the [**lack of AP/RSE**](#-e-cartel-2023-03-24-01-headcount-over-brains-how-16-clerks-outranked-a-structural-engineer)? Awarding 90 marks to a company with a documented history of safety convictions is not "professional differentiation"; it is **professional misconduct**.
 2.  **The Pattern of Elimination:** It is statistically improbable that *every single one* of the MC's preferred candidates (Sea-Tech, Man Ka, Man Sing) was technically "disastrous" enough to warrant 30-range scores from the Consultant. This systematic suppression suggests an intent to purge non-cartel candidates.
 3.  **The Outcome Test:** If Prestige was truly a "90-point" contractor, why did they use fake nets, fake foam, and ignore safety laws? The 90 points were proven false by the fire itself.
 
@@ -1435,6 +1435,83 @@ The involvement of a DAB Councilor in securing votes for a specific contractor (
 
 **🔗 Links:**
 *   [The Collective HK Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
+
+---
+
+### 🆔 [E-CARTEL-2024-04-30-01] Pandora's Box Opened: Dead Owners Voting & 114% Turnout
+
+**🚨 Significance:**
+
+A rare, successful resident revolt at **Neptune Terrace (樂翠臺)** provides forensic proof of how bid-rigging cartels manufacture consent. After residents physically seized and guarded the ballot boxes that the former MC Chairman tried to hide, a public counting revealed mass forgery on an industrial scale. This case serves as a "Rosetta Stone," explaining the ["Mystery Mouse"](#-e-cartel-2024-01-28-01-the-phantom-voters-how-a-mystery-mouse-swung-the-hk330m-contract) phenomenon at Wang Fuk Court.
+
+**1. The Mathematical Impossibility:**
+*   **Total Units:** 1,190.
+*   **Proxy Votes Found:** 1,362.
+*   **The Anomaly:** The number of proxy votes exceeded the number of households by **172**. This "114% Turnout" is physical proof of ballot stuffing.
+
+**2. The "Zombie" Voters:**
+New MC members discovered numerous proxy forms signed by owners who had been **dead for decades**.
+*   **Case 1:** Owner died in 1995 (29 years ago), yet "signed" a proxy in 2024.
+*   **Case 2:** Family member deceased for over 10 years, yet "authorized" the Chairman.
+*   *The Mechanism:* The cartel likely used outdated land registry records or internal management databases to identify inactive units (deceased/elderly) and forged their signatures, assuming no one would check.
+
+**3. The Chairman's Flight:**
+When residents demanded a public count, the former Chairman tried to remove the boxes, leading to a physical confrontation. He then declared all proxies "invalid" rather than let them be counted.
+*   *The Verdict:* This desperate act confirms **guilty knowledge**. The "Mystery Mouse" at Wang Fuk likely succeeded where this Chairman failed—successfully dumping the fake votes before anyone could seize the box.
+
+**4. The Police Case:**
+The new MC reported the case to the police as "Using False Instruments." Over 800 proxies (~60% of total) are suspected forgeries.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Impossible Numbers**
+> *Source: i-Cable News / 2024-06-11*
+>
+> "樂翠臺的單位數目是 **1,190**，但授權票... 總數竟然是 **1,362張**，比本身單位的數目還要多。"
+>
+> *Translation:*
+> "Neptune Terrace has **1,190** units, but proxy votes... totaled **1,362**, more than the number of units itself."
+
+> **Evidence [B]: The Dead Signatories**
+> *Source: i-Cable News / 2024-06-11*
+>
+> "我爸爸是 **1995年離世**，差不多29年... 為何冒認我們先人的名呢？"
+>
+> *Translation:*
+> "My father died in **1995**, almost 29 years ago... Why impersonate names of the deceased?"
+
+> **Evidence [C]: The "Zombie List" Origin**
+> *Source: i-Cable News (citing Committee Member Ip)*
+>
+> "可能是法團業主名冊，多年沒有更新過資料，可能很多都是第一代業主的名字。"
+>
+> *Translation:*
+> "Likely the MC's owner register hasn't been updated for years; many are names of first-generation owners."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"These were likely administrative errors or confusion by family members filling out forms for deceased relatives without updating the title. The Chairman declared them invalid to ensure a fair election, proving his commitment to integrity. This is an isolated incident specific to Neptune Terrace and cannot be extrapolated to other estates like Wang Fuk."
+
+**The Logical Trap:**
+1.  **Error vs. Fraud:** An "error" is one or two forms. **800 suspected forgeries** (Evidence A) and a turnout of 114% is a systematic criminal operation. Relatives don't accidentally sign the name of a person dead for 29 years; forgery requires intent.
+2.  **The "Invalidation" Ruse:** The Chairman only invalidated the proxies *after* residents physically prevented him from taking the boxes into a private room. This wasn't integrity; it was **evidence destruction**.
+3.  **The Wang Fuk Parallel:** The pattern is identical: High-pressure upsell, expensive fee, and a sudden influx of proxies. At Wang Fuk, the "Mystery Mouse" successfully dumped bulk votes in one go. Neptune Terrace proves that these votes are chemically toxic—likely forged from a similar "Zombie List."
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Using a false instrument (Crimes Ordinance Cap 200).
+*   **Context:** Electoral Fraud in Building Management.
+
+**📅 Timeline:**
+*   **Jun 2023:** Neptune Terrace MC pushes HK$100M renovation.
+*   **2024-03-10:** Residents seize ballot boxes; Chairman tries to hide them.
+*   **April 2024:** New MC takes office and opens the boxes.
+*   **2024-06-11:** "Dead Voters" scandal exposed.
+
+**🔗 Links:**
+*   [i-Cable News Report](https://www.i-cable.com/新聞資訊/237120/一線搜查-柴灣樂翠臺再掀風波-離世多年業主竟)
+*   [HK01 Report (The Conflict)](https://www.hk01.com/突發/999742)
 
 ---
 
@@ -1844,7 +1921,7 @@ The Government confirmed post-fire that the material was "flammable." Yet, this 
 
 **🚨 Significance:**
 
-Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-160-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
+Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-160-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
 
 **1. The "One Hour" Delay:**
 Mr. Wong, a survivor, was working from home. He heard no alarm. When a friend called to warn him, he tried to check outside but **"could not see"** because the windows were sealed with Styrofoam.
@@ -1912,7 +1989,7 @@ The packaging claimed to be a German "Eco-Health Board," but listed a fake brand
 *   *The Deception:* Given the residents' successful ignition and the eventual inferno, Prestige's video was likely staged, manipulated, or used a "decoy" sample (similar to the safety nets) to deceive the MC.
 
 **3. The "Good Cop, Bad Cop" Trap:**
-This deception was coordinated with the [Consultant's pressure](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard). While **Prestige** used the video to claim safety (Gaslighting), **Will Power** used the contract to claim "changing it costs money" (Coercion). This pincer movement silenced the residents' valid concerns.
+This deception was coordinated with the [Consultant's pressure](#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard). While **Prestige** used the video to claim safety (Gaslighting), **Will Power** used the contract to claim "changing it costs money" (Coercion). This pincer movement silenced the residents' valid concerns.
 
 **📜 Original Record:**
 
@@ -2578,10 +2655,10 @@ Following the Central fire on Oct 18, 2025, the Construction Industry Council (C
 
 **1. The "Checklist of Death":**
 The CIC warning explicitly flagged:
-*   **Risk 1:** [Non-flame-retardant nets](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy).
+*   **Risk 1:** [Non-flame-retardant nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy).
 *   **Risk 2 & 4:** Sparks from hot works / Smoking workers. (The Prime Suspects for ignition).
-*   **Risk 3:** Improper storage of [flammable materials](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam).
-*   **Risk 6:** Faulty/Incomplete [fire service systems](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble).
+*   **Risk 3:** Improper storage of [flammable materials](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam).
+*   **Risk 6:** Faulty/Incomplete [fire service systems](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble).
 *   *The Verdict:* The Wang Fuk Court fire was not an "unforeseeable accident"; it was a **predicted outcome** of ignoring a widely distributed industry warning.
 
 **2. The Ignition Mystery (Sparks vs. Cigarettes):**
@@ -2726,7 +2803,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 
 **🚨 Significance:**
 
-Survivor testimony from Man Leung (Wang Cheong Court) reveals a terrifying inversion of fire safety logic. Due to the [compromised staircases](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-windows-2024-01-28-01-the-fireproof-paradox-paying-for-safety-getting-a-death-trap) and the failure of the [alarm system](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble), the standard "Safe Route" became a death trap, while the strictly prohibited "Forbidden Route" (the elevator) became the only means of survival.
+Survivor testimony from Man Leung (Wang Cheong Court) reveals a terrifying inversion of fire safety logic. Due to the [compromised staircases](#-e-safety-windows-2024-01-28-01-the-fireproof-paradox-paying-for-safety-getting-a-death-trap) and the failure of the [alarm system](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble), the standard "Safe Route" became a death trap, while the strictly prohibited "Forbidden Route" (the elevator) became the only means of survival.
 
 **1. The Staircase Chimney Effect:**
 At **14:52**, moments after the fire started, the resident checked the rear staircase and found **"white smoke rising on both sides."**
@@ -2738,7 +2815,7 @@ Facing a silent fire alarm ("Pressed and slapped, did not ring") and smoke-fille
 
 **3. The 3-Minute Margin:**
 Door cam footage revealed that just **3 minutes** after they escaped, the corridor was filled with thick smoke.
-*   *The Verdict:* This confirms the extreme speed of smoke propagation caused by the [**Styrofoam Cladding**](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam). Without the early warning of an alarm, a 3-minute hesitation meant death.
+*   *The Verdict:* This confirms the extreme speed of smoke propagation caused by the [**Styrofoam Cladding**](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam). Without the early warning of an alarm, a 3-minute hesitation meant death.
 
 **📜 Original Record:**
 
@@ -2773,7 +2850,7 @@ Door cam footage revealed that just **3 minutes** after they escaped, the corrid
 
 **The Logical Trap:**
 1.  **The "Correct" Path was Broken:** The "Smoke-Proof Staircase" is a theoretical concept that relies on *intact fire windows*. Because the contractor replaced them with **wooden boards with holes**, the "Correct Procedure" became a suicide mission. You cannot blame residents for abandoning a safety feature that was allowed to be destroyed.
-2.  **"Stay Put" was Fatal:** As seen in the tragedy of [Jack's family](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder), "Staying Put" was also fatal due to the **Radiant Heat** from the Styrofoam.
+2.  **"Stay Put" was Fatal:** As seen in the tragedy of [Jack's family](#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder), "Staying Put" was also fatal due to the **Radiant Heat** from the Styrofoam.
 3.  **Forced Malpractice:** When *every* standard safety protocol (Stairs, Shelter in Place) is compromised by systemic negligence, victims are forced into high-risk gambles. The survival of these residents is not proof that "lifts are safe," but proof that **"the building was unsafe."**
 
 **📅 Timeline:**
@@ -3054,7 +3131,7 @@ The lack of a washing requirement in GB 5725 allows manufacturers to use cheap, 
 *   *The Link:* This explains why "compliant" nets might fail catastrophically in a real fire after exposure to weather.
 
 **3. The Statistical Anomaly Explained:**
-This loophole provides a potential explanation for the [massive discrepancy](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-police-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle) between the ICAC's inventory (95% fake) and the Government's field test (65% pass). If the "compliant" nets were merely coated with temporary retardants that washed off, or if the testing criteria for "compliance" were based on the looser GB standard, the results would be heavily skewed.
+This loophole provides a potential explanation for the [massive discrepancy](#-e-police-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle) between the ICAC's inventory (95% fake) and the Government's field test (65% pass). If the "compliant" nets were merely coated with temporary retardants that washed off, or if the testing criteria for "compliance" were based on the looser GB standard, the results would be heavily skewed.
 
 **4. Misplaced Purpose:**
 Using a "Fall Protection" standard to regulate "Fire Spread" on high-rise facades is a category error. GB 5725 explicitly states its scope is "preventing people/objects from falling," not acting as a fire barrier for skyscrapers.
@@ -3157,7 +3234,7 @@ The LD justified the "Low Risk" assessment by claiming "no hot works" (welding) 
 **The Logical Trap:**
 1.  **Silo Mentality Kills:** A citizen asking "Is this safe?" does not care which specific ordinance chapter applies. If the LD knows APP-70 exists (which they must), telling a citizen "no standard exists" is **malicious obfuscation**. It prioritizes bureaucratic boundaries over public safety.
 2.  **The "General Duty" Clause:** The *Factories and Industrial Undertakings Ordinance* imposes a "General Duty" to ensure safety. Using flammable nets on a residential building violates this general duty. Hiding behind specific clauses to ignore the general duty is legally dishonest.
-3.  **The Outcome Test:** If the LD truly "followed up" as claimed in the second reply, why did the inspections fail to find the [95% fake nets](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-police-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)? The claim of "following up" is falsified by the reality of the fire.
+3.  **The Outcome Test:** If the LD truly "followed up" as claimed in the second reply, why did the inspections fail to find the [95% fake nets](#-e-police-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)? The claim of "following up" is falsified by the reality of the fire.
 
 **¶ Statutory Basis:**
 
@@ -3168,7 +3245,7 @@ The LD justified the "Low Risk" assessment by claiming "no hot works" (welding) 
 *   **2024-09-06:** Resident emails LD about fire risk.
 *   **2024-10-04:** LD replies "No standard exists, risk is low."
 *   **2024-10-05:** Jason Poon exposes the lie using APP-70.
-*   **2024-12-04:** LD sends "clarification" claiming they did [check certificates](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap).
+*   **2024-12-04:** LD sends "clarification" claiming they did [check certificates](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap).
 
 **🔗 Links:**
 *   [Jason Poon FB Post](https://www.facebook.com/100052697821056/posts/1375933047506610)
@@ -3229,7 +3306,7 @@ If FSD knew the system had defects (March) and parts were shut down (April), why
 
 **The Logical Trap:**
 1.  **The "Cosmetic" Fallacy:** You don't spend **HK$144,170** on cosmetic repairs for fire valves. The cost implies functional rectification. If an inlet valve isn't 100% perfect, it risks bursting under high pressure from a fire truck. In fire safety, "functionally compliant" is binary: it works or it doesn't.
-2.  **The Result speaks for itself:** If the system was "compliant" and the contingency plan was "effective," why did **7 out of 8 towers** have [silent alarms](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble) and [dry hoses](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)? The total collapse of the system proves the "Compliance" was a paperwork fiction.
+2.  **The Result speaks for itself:** If the system was "compliant" and the contingency plan was "effective," why did **7 out of 8 towers** have [silent alarms](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble) and [dry hoses](#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)? The total collapse of the system proves the "Compliance" was a paperwork fiction.
 
 **¶ Statutory Basis:**
 
@@ -3257,7 +3334,7 @@ The Labour Department (LD) conducted **16 inspections** between July 2024 and No
 
 **1. The "Audit by Paper" Loophole:**
 The LD confirmed their inspection method involved "checking the Product Quality Certificates".
-*   *The Trick:* As [exposed](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
+*   *The Trick:* As [exposed](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
 *   *The Failure:* Inspectors accepted these certificates as proof for the *entire* site. They did not conduct on-site combustion tests, allowing 2,300 rolls of fake nets to hide behind a single piece of paper.
 
 **2. Industry Verdict: "Certificates are Waste Paper":**
@@ -3309,7 +3386,7 @@ Residents acted as the city's "nerve endings," screaming about the danger for mo
 
 **1. The "Two-Color" Smoking Gun:**
 In October, residents reported that the nets had **two different colors** (Deep Green vs. Light Green) and were fragile.
-*   *The Link:* This visual discrepancy  matches the later [ICAC finding](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
+*   *The Link:* This visual discrepancy  matches the later [ICAC finding](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
 *   *The Failure:* ICU and LD inspectors visited the site but ignored this glaring visual cue. A "surprise inspection" that misses a two-tone color difference indicating mixed batches is not an inspection; it is "industrial tourism."
 
 **2. The "Central Fire" Warning:**
@@ -3356,7 +3433,7 @@ When asked *what* they actually checked during that surprise inspection, the Lab
 **The Logical Trap:**
 1.  **Warning vs. Action:** A "Written Warning" stops nothing. If a car is speeding towards a cliff, you don't write it a ticket; you pull the handbrake. Faced with a known fire risk (post-Central fire) and visible material irregularities, the only responsible action was a **Stop Work Order (SWO)**.
 2.  **The "Expert" Blindness:** Residents (laymen) saw the "Two-Color" issue. Inspectors (experts) missed it. If the public is more observant than the regulator, the regulator is obsolete.
-3.  **The "Paper Shield" Collapses:** Continuing to cite "[reliance on certification](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)" after residents specifically complained about the *physical quality* of the nets (tearing easily) is a dereliction of duty. A physical complaint demands a physical test, not a paper check.
+3.  **The "Paper Shield" Collapses:** Continuing to cite "[reliance on certification](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)" after residents specifically complained about the *physical quality* of the nets (tearing easily) is a dereliction of duty. A physical complaint demands a physical test, not a paper check.
 
 **¶ Statutory Basis:**
 
@@ -3462,7 +3539,7 @@ Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied 
 On December 3, 2025, the Development Bureau ordered the immediate removal of scaffolding nets from all buildings under repair (~200 private, ~10 public). This drastic "One-Size-Fits-All"  measure is a tacit admission that the **entire existing regulatory framework has collapsed**.
 
 **1. The "Zero Trust" Declaration:**
-By ordering the removal of *all* nets—regardless of whether they had certificates, passed previous inspections ([16 times](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)), or had been sampled—the Government implied that **no existing documentation is trustworthy anymore**.
+By ordering the removal of *all* nets—regardless of whether they had certificates, passed previous inspections ([16 times](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)), or had been sampled—the Government implied that **no existing documentation is trustworthy anymore**.
 *   *The Subtext:* "We cannot distinguish truth from lies using our current system, so we must destroy everything." This renders all previous checks by the Labour Department and Buildings Department irrelevant.
 
 **2. Panic Governance (Anxiety > Logic):**
@@ -3470,7 +3547,7 @@ Secretary Bernadette Linn explicitly stated the move was to "relieve the anxiety
 *   *The Logic Flaw:* The government claimed to have already sampled 300 buildings with "rigorous methods". If these rigorous tests were trustworthy, a blanket demolition order would be scientifically unnecessary. The fact that they ordered it anyway suggests they do not trust their own "rigorous" sampling, or they prioritized political optics over scientific procedure.
 
 **3. "Special Treatment" Overrides Rule of Law:**
-The sudden shift to a new protocol—"Test on-site before installation"—acknowledges that the previous "Certificate-based" system (as criticized by [Ho Ping-tak](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)) was fundamentally broken. The system had to be "Reset" in real-time because the established bureaucracy failed to stop the fakes.
+The sudden shift to a new protocol—"Test on-site before installation"—acknowledges that the previous "Certificate-based" system (as criticized by [Ho Ping-tak](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)) was fundamentally broken. The system had to be "Reset" in real-time because the established bureaucracy failed to stop the fakes.
 
 **📜 Original Record:**
 
@@ -3655,7 +3732,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 **The Logical Trap:**
 1.  **"Covert" vs. "Rejected":** There is a difference between "We will look into it" and "We cannot open a file / No problem found." Telling a complainant that *no problem exists* actively discourages further evidence submission. If it was a secret probe, why claim "no problem" instead of "we have received your report"?
 2.  **The "Acceleration" Myth:** If they were already investigating long-term, why did the fire (which creates chaos and destroys evidence) suddenly make arrests possible in 3 days? High-profile arrests usually require rock-solid evidence. The speed suggests the evidence was *already there* (likely the same documents residents submitted), but the **will to arrest** was missing until the public outcry.
-3.  **The "Open Source" Reality:** The rigging wasn't subtle. The "[1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)" and "[90 points for bad interview](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised)" were visible in the documents residents provided. It didn't require Sherlock Holmes; it required a calculator. Ignoring such obvious red flags is negligence, not strategy.
+3.  **The "Open Source" Reality:** The rigging wasn't subtle. The "[1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)" and "[90 points for bad interview](#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised)" were visible in the documents residents provided. It didn't require Sherlock Holmes; it required a calculator. Ignoring such obvious red flags is negligence, not strategy.
 
 **¶ Statutory Basis:**
 
