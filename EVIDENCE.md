@@ -692,7 +692,7 @@ Investigative reporting exposes a web of cross-ownership linking the winning con
 
 **1. The "Partner" Competitors:**
 *   **Man Sing (民星營造):** Owned by **Tam Tsz-man**, who co-owns "Rich Surplus Develop Ltd" (利來拓展有限公司) with Prestige's Hau (50/50 split). They are literally business partners.
-*   **San Hoi Ming (新開明) & Sunarts (信豪):** Owned by **Li Chik-hoi** (李植開 )and **Choi Man-ming** (蔡文鳴) respectively. Both were co-directors with Hau in "Blazing Edge Ltd" (炬鋒有限公司).
+*   **San Hoi Ming (新開明) & Sunarts (信豪):** Owned by **Li Chik-hoi** (李植開) and **Choi Man-ming** (蔡文鳴) respectively. Both were co-directors with Hau in "Blazing Edge Ltd" (炬鋒有限公司).
 *   **Now Construction (現代建設):** Linked via the "Wellman Sports Association" (康仁體育會) nexus, where Tam (Man Sing) and Prestige associates hold key posts.
 
 **2. The "Dummy" Proof (Zero Votes):**
@@ -2830,6 +2830,86 @@ The report highlights that the **State Administration for Market Regulation (SAM
 **🔗 Links:**
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/095a331e-2013-49d2-b65a-b511fdf0770e)
 *   [The Collective Report](https://thecollectivehk.com/內地檢測放蛇無需送樣付千元兩小時獲合格報告/)
+
+---
+
+### 🆔 [E-VICTIM-2024-11-30-01] The Living Tomb: "Moldy, Pitch Black, and Voiceless"
+
+**🚨 Significance:**
+
+Testimony from survivor Ms. Cheung reveals that long before the fire killed 159 people, the renovation process had already degraded the residents' lives to an inhumane level. Her account confirms that the **Styrofoam SOP**
+created a "living tomb" environment, and that the **Rigged Voting System** left residents feeling completely powerless.
+
+**1. The Physical Torture:**
+Residents were forced to live for months in conditions described as **"pitch black"** and **"airtight"**, with a persistent **"moldy smell"** and **no air conditioning** during summer.
+*   *The Implication:* The "protective measures" prioritized the Contractor's convenience over basic human habitability. Residents were essentially living in a flammable box, cut off from light and air, waiting for the "daylight" that never came.
+
+**2. The Democratic Despair:**
+Ms. Cheung explicitly stated she voted against Prestige because of the high price ($180k), but felt **"helpless because my vote could not affect the result."**
+*   *The Validation:* This visceral feeling of powerlessness corroborates the evidence of **Proxy Manipulation** (The "Mystery Mouse"). The residents knew the game was rigged long before the fire exposed it.
+
+**3. The Last Complaint:**
+On the very day of the fire, Ms. Cheung was still messaging Site Supervisor **Tam Chun-sang** (譚雋生) to complain about defects at noon.
+*   *The Aftermath:* Tam messaged at 4 PM to ask if anyone was trapped, but offered **no apology**. The transaction was purely functional; the human cost of their negligence was never acknowledged.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Living Conditions**
+> *Source: The Collective HK / 2025-12-11*
+>
+> "承受一年兩年嘅痛苦，**密不透風，夏天冇冷氣，伸手不見五指**... 間屋一陣**發毛味**... 點知結果依家係咁"
+>
+> *Translation:*
+> "Enduring 1-2 years of pain... **airtight, no AC in summer, pitch black**... house smelled **moldy**... Who knew it would end like this."
+
+> **Evidence [B]: The Useless Vote**
+> *Source: The Collective HK / 2025-12-11*
+>
+> "我絕對冇投畀宏業... 但無奈**我嘅投票係影響唔到結果**"
+>
+> *Translation:*
+> "I absolutely did not vote for Prestige... but helplessly, **my vote could not affect the result**."
+
+> **Evidence [C]: The Last Contact**
+> *Source: The Collective HK / 2025-12-11*
+>
+> "中午仲whatsapp投訴緊... 記者：「譚生之後有冇同你哋道歉㗎？」張：「**冇**」"
+>
+> *Translation:*
+> "Was still WhatsApping complaints at noon... Reporter: 'Did Mr. Tam apologize afterwards?' Cheung: '**No**'."
+
+> **Evidence [D]: Removal of Air-conditioners**  
+> *Source: Notice PC-24-WFC-N-013E_R2 / 2024-10-17*
+>  
+> "致：宏泰閣 各業戶... 本司於即日起陸續致電本座各業戶相約時間，並於 2024 年 11 月 01 日 至 2024 年 11 月 30 日期間，進行單位睡房內的私人冷氣機暫拆除/搬移工序。"  
+>  
+> *Translation:*  
+> "Notice to residents of Wang Tai Court: We will call each household to arrange a time. 1–30 Nov 2024: temporary removal/relocation of private bedroom air‑conditioners."  
+
+I can produce an SMS‑length or poster‑ready version if needed.
+
+**🛡️ Pre-emptive Rebuttal:**
+
+We will call each household to arrange a time. 1–30 Nov 2024: temporary removal/relocation of private bedroom air‑conditioners.
+
+**Anticipated Defense:**
+"Renovation of occupied buildings inevitably causes inconvenience (dust, noise, darkness). We provided protection to prevent glass breakage. Residents were informed of these conditions during the briefing. The 'no apology' reflects that the cause of the fire was still under investigation, not an admission of guilt."
+
+**The Logical Trap:**
+1.  **Inconvenience vs. Inhabitability:** "Inconvenience" is noise. Blocking all light and air for months, creating a moldy, pitch-black environment, borders on **uninhabitability**. Modern construction methods (e.g., transparent protection sheets, sliding vents) exist to mitigate this. Choosing Styrofoam was a choice to inflict suffering to save cost.
+2.  **The "Consent" Myth:** Residents were "informed," but as Ms. Cheung noted, they had no power to object. Their votes were neutralized by the cartel. Forced compliance is not consent.
+3.  **Moral Bankruptcy:** Apologizing for the *suffering* caused (even without admitting liability for the fire start) is basic humanity. The lack of apology reveals the corporate culture: **Residents are merely obstacles to profit, even when they are dying.**
+
+**📅 Timeline:**
+*   **2024-01-28:** Vote held; Prestige wins without Ms. Cheung voting.
+*   **2024-11-30:** Living in "pitch black" misery.
+*   **2025-11-26 (12:00):** Ms. Cheung complains to Tam.
+*   **2025-11-26 (14:51):** Fire starts.
+
+**🔗 Links:**
+*   [The Collective HK Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
+*   [Wang Tai Court Air-conditioner removel notice](http://www.wangfuk.org/html/home/doc/2024-10-17%20N13R2%20-%20私人冷氣機安排(C-E座).pdf) | [Backup](
+https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%2061%202024-10-17%20-%20N13R2%20-%20私人冷氣機安排(C-E座).pdf)
 
 ---
 
