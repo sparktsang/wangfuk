@@ -1614,6 +1614,71 @@ The new MC reported the case to the police as "Using False Instruments." Over 80
 
 ---
 
+### 🆔 [E-ADMIN-2024-07-19-01] The Questionnaire Trap: "Admit Liability or Withdraw"
+
+**🚨 Significance:**
+
+On July 19, 2024, facing a statutory petition from >5% of owners to convene an EGM to overthrow the MC, Chairman **Tang Kwok-kuen** (鄧國權) issued a "Survey" (Annex 3). Analysis reveals this document was not a tool for verification, but a **precision-engineered instrument of intimidation**.
+
+**1. The "Guilt Trap" (Question C):**
+The survey forced owners to accept a false premise: that exercising their rights would incur legal costs.
+*   *The Trap:* Owners were asked: *"Do you know you will be liable for legal costs and your data will be public?"*
+*   *The Options:* Only two choices were provided: "I knew when signing" or "I know now."
+*   *The Malice:* There was no option to say "I disagree." By ticking either box, the owner forcedly "confessed" to accepting liability, psychologically disarming them.
+
+**2. The "Ransom" Offer (Question D):**
+The final question offered a way out: *"If you withdraw, you do not need to bear legal responsibility."*
+*   *The Trade:* This explicitly links "silence" with "safety." It frames the statutory right to petition as a "crime" that can be forgiven only if the owner recants.
+
+**3. Weaponizing Privacy:**
+The threat that *"names and unit details will be publicly displayed"* exploits the owners' fear of doxxing. The Chairman used his position as the data controller to threaten the data subjects.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Liability Trap**
+> *Source: Wang Fuk MC Survey (Annex 3) / 2024-07-19*
+>
+> "**c)** ...如日後就是次事件引起訴訟... 雙方亦須**負上法律責任及相關訴訟費用**。
+> ☐ 本人在簽署時知道需負上有關責任
+> ☐ 本人現在才知道簽署需負上有關責任"
+>
+> *Translation:*
+> "**c)** ...If litigation arises... both parties must **bear legal liability and legal costs**.
+> ☐ I knew I had to bear this liability when signing.
+> ☐ I only know now that I have to bear this liability."
+
+> **Evidence [B]: The "Amnesty" Offer**
+> *Source: Wang Fuk MC Survey (Annex 3)*
+>
+> "**d)** ... ☐ 本人不需要召開業主大會，並撤回有關簽署 (**如撤回簽署則無須負上就簽署而引起的法律責任**)"
+>
+> *Translation:*
+> "**d)** ... ☐ I do not require an EGM and withdraw my signature (**If withdrawn, no need to bear legal liability arising from signing**)."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We have a fiduciary duty to warn owners of the potential consequences of their actions. Litigation involving the MC uses estate funds, and if the petition is legally flawed, the petitioners might be liable. We are ensuring informed consent, not intimidating. The 'withdrawal' option is simply an administrative mechanism for those who changed their minds."
+
+**The Logical Trap:**
+1.  **Creating the Risk:** The "risk of litigation" only exists because the **Chairman refuses to hold the meeting**. If he simply followed the Building Management Ordinance and convened the EGM, there would be no lawsuit and no costs. He is the arsonist warning people about the fire he plans to start.
+2.  **The "Liability" Lie:** Under the BMO, owners have an absolute right to petition (5% threshold). Exercising a statutory right does not carry "legal liability" unless the MC sues them maliciously. Framing a civil right as a liability risk is deception.
+3.  **The Timing:** Issuing this on the **14th day** (the statutory deadline to issue notice of meeting) proves it was a delaying tactic designed to frustrate the process, not a genuine verification exercise.
+
+**¶ Statutory Basis:**
+
+*   **Right:** Building Management Ordinance (Cap. 344), Schedule 3.
+*   **Context:** Obstruction of owners' rights.
+
+**📅 Timeline:**
+*   **2024-07-05:** >5% Owners submit petition for EGM.
+*   **2024-07-19 (Deadline):** Chairman issues "Intimidation Survey."
+
+**🔗 Links:**
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39dGZQq6rQEvA)
+
+---
+
 ### 🆔 [E-SAFETY-2016-01-01-01] The "Mathematical Impossibility" & The Parasitic Business Model
 
 **🚨 Significance:**
