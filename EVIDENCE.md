@@ -1438,6 +1438,105 @@ The involvement of a DAB Councilor in securing votes for a specific contractor (
 
 ---
 
+### 🆔 [E-ADMIN-2024-04-16-01] The "Done Deal" Strategy: How the MC Crushed Dissent Before Signing the HK$330M Contract
+
+**🚨 Significance:**
+
+Official records reveal how the Management Committee (MC), led by Chairman **Tang Kwok-kuen** (鄧國權), systematically suppressed a legitimate attempt by owners to overturn the controversial HK$330 million renovation decision. By using legal intimidation, delaying tactics, and rushing to sign the contract while legal challenges were pending, the MC effectively neutralized opposition.
+
+**1. The "Legal Threat" Tactic:**
+When owner **Lam King-tung** (林景東) submitted signatures (meeting the 5% statutory threshold) to convene an EGM to re-elect the MC and overturn the decision, the MC responded with **lawyer's letters**.
+*   *The Intimidation:* The MC warned signatories that they might bear "legal responsibility" for signing. This successfully scared 22 owners into withdrawing their signatures.
+*   *The Police Card:* The Chairman even "filed a report with Tai Po Police Station," criminalizing a standard civic procedure.
+
+**2. The "Reverse Referendum" Trick:**
+Instead of convening the meeting as required by law, the MC conducted its own "opinion survey" asking if owners *wanted* another meeting.
+*   *The Fallacy:* The Building Management Ordinance grants 5% of owners the *right* to convene a meeting. This right is absolute and cannot be vetoed by a "straw poll" of others. The MC used this survey (with a low 28.8% response rate) to claim a "78% mandate" to ignore the law.
+
+**3. The "Rush to Sign" (Fait Accompli):**
+*   **April 13:** Lam files application to the Lands Tribunal to force the meeting.
+*   **April 16:** Just **3 days later**, the Chairman rushes to sign the contract with Prestige, witnessed by three District Councilors.
+*   *The Strategy:* By signing the contract *before* the Tribunal could rule, the MC created a **fait accompli**. Even if the owners later won the right to meet, cancelling the signed contract would incur massive compensation penalties, effectively holding the estate hostage.
+*   *The Outcome:* Lam withdrew the Tribunal application on April 23, realizing the battle was lost.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Signitures**  
+> *Source: 11th MC Meeting Minutes (No. 23) / 2024-02-26*  
+>  
+> "鄧主席報告於 2024 年 2 月 15 日...接收...林景東遞交的兩份簽名文件：...第二份...要求召開特別業主大會議決提出重選現屆管理委員會... 推翻 2024 年 1 月 28 日業主大會的所有議決"  
+>  
+> *Translation:*  
+> "Chairman Tang reported that on 15 February 2024 he received at the management office two documents of signitures submitted by...Lam King-tung...the second requested a EGM to vote on re‑electing the current MC... and overturning all resolutions on 28 January 2024"
+
+> **Evidence [B]: The Legal Intimidation**
+> *Source: 11th MC Meeting Minutes (No. 24) / 2024-04-22*
+>
+> "主席透過律師於 3 月 22 日向召集人發出律師信... 並保留法律追究權利及向大埔警署備案。"
+>
+> *Translation:*
+> "The Chairman issued a lawyer's letter... reserving rights to pursue legal action and filing a report with Tai Po Police Station."
+
+> **Evidence [C]: The Withdraws**  
+> *Source: 11th MC Meeting Minutes (No. 24) / 2024-04-22*  
+>  
+> "5.1 主席向所有簽署人士書面求證...共收到 56 個業主回覆堅持要求召開大會，有 22 個業主撤回簽署"  
+>  
+> *Translation:*  
+> "The chairman sent confirmation requests to all signatories... received 56 owners’ replies insisting on calling the meeting, while 22 owners withdrew their signatures."
+
+> **Evidence [D]: The "Straw Poll" Veto**
+> *Source: 11th MC Meeting Minutes (No. 24) / 2024-04-22*
+>
+> "5.2 法團管委會於 2024 年 3 月 2 日...向全苑發出意向調查，回應率 28.8%... 當中 78% 的業主反對召集人召開特別業主大會的要求。"
+>
+> *Translation:*
+> "MC issued an opinion survey on 2 March, which has a response ratio of 28.8%... 78% of respondents opposed the request to convene an EGM."
+
+> **Evidence [E]: The Application**  
+> *Source: 11th MC Meeting Minutes (No. 24) / 2024-04-22*  
+>  
+> "5.3 鄧主席報告於 2024 年 4 月 13 日收到召集人向土地審裁署申請要求主席...召開業主大會的通知"  
+>  
+> *Translation:*  
+> "Chairman Tang reported that on 13 April 2024 he received a notice that the convenor had applied to the Lands Tribunal requesting to convene an owners’ meeting"
+
+> **Evidence [F]: The Rush to Sign**
+> *Source: 11th MC Meeting Minutes (No. 24) / 2024-04-22*
+>
+> "4.1 鄧主席...於 2024 年 4 月 16 日...代表法團與中標承建商「宏業」簽署...合約。"
+>
+> *Translation:*
+> "Chairman Tang... on April 16, 2024... signed the contract with Prestige on behalf of the Incorporated Owners."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We have a duty to verify signatures to prevent forgery. The majority of owners wanted to proceed with the renovation and were tired of endless meetings. The contract signing followed the timeline approved by the Jan 28 EGM. Delaying further would risk price increases and violate the Mandatory Building Inspection Order."
+
+**The Logical Trap:**
+1.  **Verification vs. Intimidation:** Verifying signatures is administrative. Sending lawyer's letters and calling the police is **hostile**. A neutral MC would simply call the owners to confirm, not threaten them with legal consequences.
+2.  **The "Majority" Myth:** The "78% opposition" came from a survey with only **28.8%** response rate. This means only ~22% of all owners actively opposed the meeting. This is hardly a mandate to strip the rights of the 5% minority.
+3.  **The "Rush" Betrayal:** Signing a HK$330M contract *while* a Tribunal case is pending regarding that very decision is bad faith. A responsible fiduciary would pause to ensure the decision is legally sound. Rushing to sign suggests the goal was to **lock in the deal** before it could be stopped.
+
+**¶ Statutory Basis:**
+*   **Right:** Building Management Ordinance (Cap 344), Schedule 3, Para 1.
+
+**📅 Timeline:**
+*   **2024-02-15:** Lam submits 5% signatures for EGM.
+*   **2024-03-02:** MC conducts opinion survey.
+*   **2024-03-22:** MC sends lawyer's letter / calls police.
+*   **2024-04-13:** Lam applies to Lands Tribunal.
+*   **2024-04-16:** MC signs contract with Prestige.
+*   **2024-04-23:** Lam withdraws Tribunal case.
+
+**🔗 Links:**
+*   [Minute 23](http://www.wangfuk.org/html/meeting/05/%E7%AC%AC23%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2024-02-26%20第十一屆第二十三次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-02-26-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minute 24](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf) | [Backup](2024-04-22%20第十一屆第二十四次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-04-22-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Resident FB Post Supporting Lam](https://www.facebook.com/share/p/14XSfHhUnA5/)
+
+---
+
 ### 🆔 [E-CARTEL-2024-04-30-01] Pandora's Box Opened: Dead Owners Voting & 114% Turnout
 
 **🚨 Significance:**
