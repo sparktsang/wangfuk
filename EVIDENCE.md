@@ -4010,7 +4010,7 @@ The LD justified the "Low Risk" assessment by claiming "no hot works" (welding) 
 **The Logical Trap:**
 1.  **Silo Mentality Kills:** A citizen asking "Is this safe?" does not care which specific ordinance chapter applies. If the LD knows APP-70 exists (which they must), telling a citizen "no standard exists" is **malicious obfuscation**. It prioritizes bureaucratic boundaries over public safety.
 2.  **The "General Duty" Clause:** The *Factories and Industrial Undertakings Ordinance* imposes a "General Duty" to ensure safety. Using flammable nets on a residential building violates this general duty. Hiding behind specific clauses to ignore the general duty is legally dishonest.
-3.  **The Outcome Test:** If the LD truly "followed up" as claimed in the second reply, why did the inspections fail to find the [95% fake nets](#-e-police-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)? The claim of "following up" is falsified by the reality of the fire.
+3.  **The Outcome Test:** If the LD truly "followed up" as claimed in the second reply, why did the inspections fail to find the [95% fake nets](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)? The claim of "following up" is falsified by the reality of the fire.
 
 **¶ Statutory Basis:**
 
