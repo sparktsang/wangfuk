@@ -229,7 +229,7 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 
 **🔗 Links:**
 *   [InMediaHK Report on Yau Shui Tin](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 
 ---
 
@@ -325,7 +325,7 @@ The study finds that price increases are *more pronounced* in districts with hig
 *   **2024-10-02:** Wang Fuk pays the "Cartel Premium."
 
 **🔗 Links:**
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 
 ---
 
@@ -712,7 +712,7 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 *   **2025-12-02:** Author confirms Firm 1 identity.
 
 **🔗 Links:**
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 *   [The Points Media Report](https://points-media.com/最新/香港-世紀大火-學者-強制驗樓-制度-圍標-議價-宏業/)
 
 ---
@@ -786,7 +786,7 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 *   **2025-11-26:** Wang Fuk Fire (160 Dead).
 
 **🔗 Links:**
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 *   [FactWire Closure Statement](https://www.factwire.org/傳真社停止運作聲明/)
 *   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571)
 *   [The Collective HK Interview](https://thecollectivehk.com/採訪手記宏福苑圍標之禍給妹妹的信/)
@@ -1102,7 +1102,7 @@ Out of 57 bidders, Prestige was the **only one** rated as "First Choice". This o
 **🔗 Links:**
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   [Smart Tender DIY Tool Kit](https://www.brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf)
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 *   [InMedia Report](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
 
 ---
