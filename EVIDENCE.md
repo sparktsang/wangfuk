@@ -405,9 +405,9 @@ Data from FactWire (up to 2016) shows Prestige was already one of the top 4 most
 
 **🔗 Links:**
 *   [BD Press Release](https://www.bd.gov.hk/tc/whats-new/press-releases/2025/1129-buildings-department-ordered-temporary-suspension-of-works-on-30-private-building-projects.html)
-*   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf)
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
-*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571)
+*   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup] (https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
+*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/傳真社製首個樓宇維修公開資料庫.xlsx)
 *   [The Points Media Report](https://points-media.com/最新/香港-世紀大火-學者-強制驗樓-制度-圍標-議價-宏業/)
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 
@@ -4303,5 +4303,81 @@ Sing Tao's report, published hours after TVB's, largely regurgitated the same su
 *   [TVB Report](https://news.tvb.com/tc/taipofire/6927c289e435294129313abc/宏福苑五級火-一文看清｜大埔宏福苑3億元工程時間軸本台資料搜集持續更新)
 *   [Sing Tao Report](https://www.stheadline.com/society/3521856/大埔宏福苑五級火多圖維修工程造價33億-住戶半年要交18萬-一文看清工程時間線)
 *   [Minute 2 (The Lie)](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf)
+
+---
+
+### 🆔 [E-MEDIA-2025-11-30-01] The Vanishing Truth: Why State Media Deleted Its Own Scoop on the Cartel
+
+**🚨 Significance:**
+
+A forensic analysis of *Ta Kung Pao*'s (TKP) archives reveals that a significant investigative report published on **Nov 28, 2025**, was quietly removed from its online index two days later. The report, titled *"Uncovering the Heavy Black Curtains Behind Scaffolding Maintenance,"* contained damning details about industry-wide bid-rigging and intimidation.
+
+**1. The "Forbidden" Truth:**
+The deleted article contained admissions that contradicted the narrative of "stability" and "governance capability":
+*   **Systemic Failure:** It cited industry insiders stating bid-rigging has been severe for **"over 10 years"** and is an "open secret."
+*   **The "Ever-Victorious" Thugs:** It revealed that **Prestige (宏業)** was known as the "Ever-Victorious General" not due to merit, but because competitors were **"verbally warned"** and forced to withdraw—a clear allegation of Triad/Criminal involvement.
+*   **Cheap Safety:** It exposed the cost difference between fire-retardant nets (HK$90) and fake nets (HK$50), explaining the economic motive for the disaster.
+
+**2. The Narrative Clash (Corruption vs. Security):**
+*   **Nov 28:** TKP frames the fire as a result of **Systemic Corruption**.
+*   **Nov 29:** Office for Safeguarding National Security (OSNS) frames the post-fire unrest as **"Anti-China Elements creating chaos"**.
+*   *The Purge:* The Corruption narrative undermined the Security narrative. If the fire was caused by a "rotten system," public anger is justified. To maintain the "Stability" narrative, the evidence of systemic rot had to be erased.
+
+**3. The "Soft Kill" Execution:**
+The censorship was executed clumsily. The digital paper index jumps from **Page A6 to A8**, skipping the A7 feature page. However, the direct PDF link remains active. This suggests a hasty administrative order to "hide" the article from public view rather than a technical retraction for accuracy.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Deleted Content (Triad Tactics)**
+> *Source: Ta Kung Pao (PDF Cache) / 2025-11-28*
+>
+> "甚至有工程公司負責人... 立即被人**惡言警告**，無奈退出競標... 宏業... 是業內有名的競標「**常勝將軍**」"
+>
+> *Translation:*
+> "Even engineering company heads... were immediately **verbally warned** and forced to withdraw... Prestige... is the industry's famous '**Ever-Victorious General**'..."
+
+> **Evidence [B]: The Cost of Lives**
+> *Source: Ta Kung Pao (PDF Cache)*
+>
+> "阻燃網... 每張約90元，沒有阻燃功能的普通網僅售50多元... 行內人士... 鋌而走險。"
+>
+> *Translation:*
+> "Fire-retardant nets... ~$90 each; non-retardant nets only ~$50... Industry insiders... take the risk."
+
+> **Evidence [C]: The Disappearance**
+> *Source: CNA Report / 2025-12-01*
+>
+> "外界11月30日發現... 已經查不到這篇報導。除非技巧地變更... 網址連結，才能查閱。"
+>
+> *Translation:*
+> "On Nov 30... the report could no longer be found. It can only be accessed by skillfully modifying the URL..."
+
+> **Evidence [D]: The 'Use disaster to incite chaos' Narrative**
+> *Source: OSNS Statement / 2025-11-29*
+>
+> "...打著『為民請願』的旗號挑動對抗撕裂社會... 我們正告妄圖『以災亂港』的反中亂港分子... 一定會受到香港國安法和《維護國家安全條例》的追究嚴懲！"
+>
+> *Translation:*
+> "...Provoking confrontation and tearing society apart under the banner of **'Petitioning for the People'**... We warn those attempting to **'Use disaster to incite chaos'**... they will be severely punished under the HKNSL and SNSO!"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The article was removed due to editorial review. Some information regarding the ongoing criminal investigation (arrests) might have been sensitive or potentially prejudicial to the legal process (Sub judice). It is standard practice to temporarily withdraw articles to ensure factual accuracy."
+
+**The Logical Trap:**
+1.  **Selective Censorship:** Other media outlets (HK01, Ming Pao) published similar details about Prestige's background and the arrests without retraction. Why was only the *state-owned* paper silenced?
+2.  **The "Systemic" Threat:** The specific details removed (10 years of rigging, intimidation) implicate the **regulatory system**, not just the specific case. Removing them protects the *Government's reputation*, not the *legal process*.
+3.  **The "Ghost" Page:** If it was a factual error, a correction would be issued. Simply deleting the index entry (A7) while leaving the file on the server implies the goal was **invisibility**, not accuracy. It is an attempt to rewrite the historical record.
+
+**📅 Timeline:**
+*   **2025-11-28:** TKP publishes Page A7 exposing the Cartel.
+*   **2025-11-29:** OSNS defines the crisis as a National Security issue.
+*   **2025-11-30:** TKP Page A7 disappears from the index.
+
+**🔗 Links:**
+*   [CNA Report on Deletion](https://www.cna.com.tw/news/acn/202512010203.aspx)
+*   [TKP 2025-11-28 A7 (Archived)](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
+*   [OSNS Official Statement](https://www.osns.gov.cn/20251129/30f5281544b14568a781169a65e5f55f/c.html)
 
 ---
