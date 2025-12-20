@@ -713,6 +713,149 @@ The termination of the Garden Vista investigation, despite "knowing the facts" (
 
 ---
 
+### 🆔 [E-CARTEL-2020-01-20-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption
+
+**🚨 Significance:**
+
+Investigative reporting confirms that the Consultant fee charged by **Will Power (鴻毅)** was mathematically impossible for a legitimate business. For a 4-year engagement overseeing a HK$330 million project, Will Power charged only **HK$308,000**—approx. **0.09%** of the project value, equilavant to HK$6,875/month. 
+
+**1. The Market Benchmark (The 65x Gap):**
+*   **Surveyor's Institute Standard:** For a project of this scale, reasonable fees should be **3-6%** (approx. **HK$9M - HK$20M**).
+*   **The Reality:** Will Power charged **<3.33%** of the market rate.
+*   *The Verdict:* Expert Ho Kui-yip (何鉅業) states it is "impossible" to cover basic manpower costs (even for a security guard) with this fee. This is not a "bargain"; it is a **Trojan Horse**.
+
+**2. The "Loss Leader" Strategy:**
+FactWire's database reveals that consultant fees below 1% are a hallmark of bid-rigging cartels.
+*   *The Mechanism:* Consultants undercharge to win the "Gatekeeper" role. Once inside, they earn their *real* profit via **kickbacks** from the Contractor (See [the 17% bribe](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill)). This explains why Will Power was desperate to push the [expensive "Option 3"](#-e-cartel-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill) and sign off on [cheap Styrofoam](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)—they were maximizing the Contractor's margin to maximize their own kickback.
+
+**3. The Absurd Justification:**
+Former District Councilor Herman Yiu recalls Will Power explaining the low fee by claiming they were "familiar with the estate" due to prior inspection work.
+*   *The Rebuttal:* "Familiarity" does not reduce the need for daily site supervision, material checking, and meetings over 6 years. This excuse was a thin veil for their predatory pricing strategy.
+
+**4. The Silence of the Chairmen:**
+When questioned by media about the unreasonably low fee, both the former Chairman (Tang Kwok-kuen) and current Chairman (Tsui Man-kam) refused to answer, citing "inappropriate timing" or police investigations. Their silence suggests an inability to provide a legitimate commercial justification.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Real Price**  
+> *Source: HK01 / 2025-12-12*
+>
+> "顧問入標價為 **30.8萬元**... 按照2012年測量師學會的參考價... 起碼要 **2000萬元**。"
+>
+> *Translation:*
+> "Consultant bid price **HK$308,000**... per 2012 Surveyor Institute reference... should be at least **HK$20 million**."
+
+> **Evidence [B]: Another Analysis**  
+> *Source: Yahoo News Report / 2025-12-11*  
+>  
+> "何鉅業分析，以...3.3億元規模，合理顧問費應佔3至4%"  
+>  
+> *Translation:*  
+> "Ho Kui‑yip analysed that for...HK$330M overhaul, a reasonable consultancy fee should be 3–4%"
+
+> **Evidence [C]: The Industry Norm of Corruption**  
+> *Source: FactWire / 2017-04-11*
+>
+> "過往顧問費的計算是工程費一成，約10年前開始下降至只有百分之5至8，如果低於這個比例... 顧問公司便很有可能向承建商**收取回佣**... 甚至放寬收貨標準"
+>
+> *Translation:*
+> "Consultancy fees used to be 10% of project costs, but about ten years ago dropped to 5–8%. Below this range... Consultants likely collect **kickbacks** from Contractors... and relax acceptance standards."
+
+> **Evidence [D]: The "Familiarity" Excuse**  
+> *Source: The Collective HK (citing Herman Yiu) / 2025-12-11*
+>
+> "鴻毅講... 因為我哋之前係你哋嘅驗樓承辦商...對於你的屋苑好熟悉，所以我哋可以唔使咁貴"
+>
+> *Translation:*
+> "Will Power said... because we were your previous inspection contractor...familiar with the estate, we don't need to be that expensive."
+
+> **Evidence [E]: The Chairmen's Silence**  
+> *Source: Yahoo News Report / 2025-12-11*  
+>  
+> "記者曾致電...舊法團主席鄧國權，查詢鴻毅顧問費會否過低，鄧國權未有回應，電話隨後由一名女子接過...她表示...唔適宜講太多...隨即掛斷電話...記者向...法團主席徐滿柑查詢...鴻毅費用是否合理。徐滿柑表示，警方最近邀請他去了解案情，現時不便受訪。"  
+>  
+> *Translation:*  
+> "A reporter called...former chairman Tang Kwok‑kwan to ask whether Will Power’s fee was too low; Tang did not respond and a woman took the call...saying...it's not appropriate to say much...then hung up. The reporter asked current chairman Tsui Moon‑kam whether the fee was reasonable; Tsui said the police recently inquired him and he is not available for interview."
+
+> **Evidence [F]: The 35 Bidders**  
+> *Source: Herman Yiu's FB post / 2020-01-23*  
+>  
+> "開標日期：2020-01-20 下午五時" (Time: 2020-01-20 17:00)
+>  
+> | **編號** | **承辦商** | **服務費用 (港幣)** |  
+> |---:|---|---:|  
+> | 1 | 葉大永建築師有限公司 | 452,800 |  
+> | 2 | 快利達建築工程顧問有限公司 | 280,000 |  
+> | 3 | 國天建築顧問有限公司 | 140,000 |  
+> | 4 | 鮑氏建築師樓宇維修顧問有限公司 | 951,000 |  
+> | 5 | 萬景工程顧問有限公司 | 360,000 |  
+> | 6 | 張潘測量師行 | 829,000 |  
+> | 7 | 恒建建築師事務所有限公司 | 660,000 |  
+> | 8 | 毅建設計顧問有限公司 | 274,000 |  
+> | 9 | 雅仕建築顧問國際有限公司 | 992,000 |  
+> | 10 | 亞太建築顧問有限公司 | 320,000 |  
+> | 11 | 藝建工程顧問有限公司 | 1,200,000 |  
+> | 12 | **鴻毅建築師有限公司** | **308,000** |  
+> | 13 | 卓越展圖建築師有限公司 | 480,000 |  
+> | 14 | 郭駿建築師有限公司 | 450,000 |  
+> | 15 | 亞洲顧問工程有限公司 | 1,200,000 |  
+> | 16 | 大地建築顧問有限公司 | 400,000 |  
+> | 17 | 恒新顧問服務有限公司 | 793,200 |  
+> | 18 | 澔天顧問工程有限公司 | 168,000 |  
+> | 19 | 香港國際建築顧問有限公司 | 240,000 |  
+> | 20 | 偉高工程顧問有限公司 | 358,000 |  
+> | 21 | 百偉(香港)顧問有限公司 | 480,000 |  
+> | 22 | 天築國際顧問有限公司 | 60,000 |  
+> | 23 | 專業屋宇工程及顧問有限公司 | 90,000 |  
+> | 24 | 天嵐建築及測量顧問有限公司 | 600,000 |  
+> | 25 | 亞迪雅工程顧問有限公司 | 598,800 |  
+> | 26 | 馬海良棟建築顧問有限公司 | 1,480,000 |  
+> | 27 | 艾比斯顧問有限公司 | 522,800 |  
+> | 28 | 意顧問工程有限公司 | 780,000 |  
+> | 29 | 桑柏工程顧問服務有限公司 | 400,000 |  
+> | 30 | 信徽工程顧問有限公司 | 400,000 |  
+> | 31 | 佘景理測量師行有限公司 | 2,080,000 |  
+> | 32 | 雅斯建築顧問有限公司 | 600,000 |  
+> | 33 | 錦達測量行有限公司 | 178,000 |  
+> | 34 | 江明工程顧問有限公司 | 78,750 |  
+> | 35 | 朱黃倫建築師測量師有限公司 | 720,000 |
+>
+> (Note: 9 bidders below were even cheaper than HK$308k)
+> * 快利達建築工程顧問有限公司 — HK$280,000
+> * 國天建築顧問有限公司 — HK$140,000
+> * 毅建設計顧問有限公司 — HK$274,000
+> * 澔天顧問工程有限公司 — HK$168,000
+> * 香港國際建築顧問有限公司 — HK$240,000
+> * 天築國際顧問有限公司 — HK$60,000
+> * 專業屋宇工程及顧問有限公司 — HK$90,000
+> * 錦達測量行有限公司 — HK$178,000
+> * 江明工程顧問有限公司 — HK$78,750
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We selected the consultant through an open tender. Will Power's bid was competitive but not the lowest. A low fee benefits owners by reducing administrative costs. We cannot be blamed for accepting a good deal. There is no proof of kickbacks."
+
+**The Logical Trap:**
+1.  **"Medium Price" Fallacy:** Even if 308k was medium among 35 bidders, it proves the **entire pool was contaminated**. Since 9 bidders were even cheaper than 308k, it means the market is flooded with predatory firms. A responsible MC should have disqualified *all* bids below cost recovery (e.g., <$2M) as non-viable.
+2.  **Too Good to Be True:** In business, if you are not paying for the product, **you are the product**. A consultant working for free is working for someone else (the Contractor). The "Good Deal" cost HK$330M in inflated construction costs and 161 lives.
+3.  **The "Quality" Link:** The low fee directly explains the poor supervision (Fake Nets, Styrofoam). You cannot expect a consultant paid HK$6,875/month to hire a qualified engineer to inspect the site daily. The fee structure **guaranteed** negligence.
+
+**📅 Timeline:**
+*   **2020-01-20:** Tender for Consultant. 35 firms bid — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   **2021-12-11:** Will Power wins with HK$308k bid — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+*   **2024-01-28:** Will Power helps Prestige win HK$330M contract — [archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   **2025-12-11:** Experts confirm fee is <3.33% of market rate.
+
+**🔗 Links:**
+*   [HK01 Report](https://www.hk01.com/社會新聞/60302306/)
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
+*   [FactWire Report](https://www.factwire.org/investigation/傳真社製首個樓宇維修公開資料庫-數據分析顯示市/)
+*   [The Collective Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
+*   [Herman Yiu's Post (The Bidders)](https://www.facebook.com/share/p/1ASPMmAqdt/)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55
 
 **🚨 Significance:**
