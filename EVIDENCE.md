@@ -1,175 +1,3 @@
-### 🆔 [E-ADMIN-2024-01-28-01] The "Basket" Rigging: How 38% Support Became a HK$5.6 Million Mandate
-
-**🚨 Significance:**
-
-Official records reveal a sophisticated mechanism of "Pseudo-Democracy" used to upsell HK$5.6 million worth of optional works. The Consultant (**鴻毅/Will Power**) and the MC orchestrated a "Bundling Strategy" that allowed unpopular items to pass by redefining the concept of "Majority" and utilizing block voting.
-
-**1. The "Minority Rule" Trick:**
-"Majority Consent" was defined not as >50%, but as simply having more "Agree" votes than "Disagree."
-*   *The Smoking Gun:* The "Performance Bond" item received only **38.5%** support (31.3% opposed, 30.2% invalid). In any normal democratic process, this fails. Here, it was declared "agreed" and added to the bundle.
-*   *The Result:* A minority of respondents (representing only ~10% of all households) effectively dictated the spending for the entire estate.
-
-**2. The "All-or-Nothing" Bundle:**
-Instead of voting on items individually, the MC combined them into a single "Basket".
-*   *The Coercion:* Owners were forced to vote YES for the whole package (including the 38.5% item) or NO to everything. This eliminates scrutiny of specific "pork barrel" items.
-
-**3. The Proxy Rollercoaster:**
-While the questionnaire showed lukewarm interest (only 529 responses from 1,984 households), the Final Vote at the EGM showed a staggering **89.86% approval**.
-*   *The Inference:* This massive jump indicates the deployment of **Proxy Votes (Authorization Tickets)**. The "Organized Vote" crushed the "Independent Vote," approving a $5.6 million upsell that serves the contractor's profit margin.
-
-**4. The Upsell Ratio:**
-The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's own fee (HK$308k).
-
-**📜 Original Record:**
-
-> **Evidence [A]: The "Minority" Majority**
-> *Source: 11th MC Meeting Minutes (No. 21) / 2023-11-23*
->
-> "履約保証金 | 同意 **38.5%** | 反對 31.3% | 無效 30.2%"
->
-> *Translation:*
-> "Performance Bond | Agree **38.5%** | Disagree 31.3% | Invalid 30.2%"
-
-> **Evidence [B]: The Bundling Strategy**
-> *Source: 11th MC EGM Minutes / 2024-01-28*
->
-> "決定將問卷中獲得大多數業主表達同意的工程項目於業主大會以**一籃子方式**供業主作出表決。有關獲大多數業主同意的項目包括：...履約保証金..."
->
-> *Translation:*
-> "Decided to bundle the items... for owners to vote on in a **'one basket' manner**...including...Performance Bond..."
-
-> **Evidence [C]: The Landslide Vote**
-> *Source: 11th MC EGM Minutes / 2024-01-28*
->
-> "贊 成 **89.86%**"
->
-> *Translation:*
-> "In Favor **89.86%**"
-
-> **Evidence [D]: The Cost of the Bundle**
-> *Source: EGM Attachment / 2024-01-28*
->
-> *   Total with Bundle (S1+S2): $304,380,410
-> *   Total without Bundle (S1): $298,737,410
-> *   **Difference: HK$5,643,000**
-
-> **Evidence [E]: Consultant fee of Will Power**  
-> *Source: Yahoo News / 2025-12-11*  
->  
-> "屋苑斥資3.3億元進行大維修，僅另花費30.8萬元聘用鴻毅作為監督修葺的工程顧問"  
->  
-> *Translation:*  
-> "the estate spent HK$330 million on major repairs, yet spent only an additional HK$308,000 to hire Will Power as the consultant..."  
-
-**🛡️ Pre-emptive Rebuttal:**
-
-**Anticipated Defense:**
-"We streamlined the process to save time. Voting on 30 items individually would take days. The 'Basket' represented the collective will expressed in the survey. The Performance Bond protects owners, so including it was prudent management. The high EGM vote confirms owners wanted these upgrades."
-
-**The Logical Trap:**
-1.  **Efficiency vs. Democracy:** "Saving time" is not a justification for bypassing consent. Digital voting or separate ballot papers could easily handle multiple items. Bundling is a known tactic to hide toxic assets inside attractive packages (like subprime mortgages).
-2.  **The "Protection" Tax:** A Performance Bond should be a standard requirement in the main tender, costed competitively. Making it an "Optional Item" implies the Contractor charged an *extra premium* for it. Why should owners pay extra to insure the Contractor's own performance?
-3.  **The 38% Mandate:** You cannot claim a "collective will" when 61.5% of respondents *did not* agree to an item. Including a failed item in a mandatory bundle is manipulation, not representation.
-
-**¶ Statutory Basis:**
-*   **Context:** Building Management Ordinance (Cap. 344) - Procurement & Voting Procedures.
-
-**📅 Timeline:**
-*   **2023-11-03:** The Consultant issued the questionnaires.
-*   **2023-11-23:** Low support (38.5%) items classified as "Agreed."
-*   **2024-01-28:** EGM passes the "Basket" with 90% vote (proxies).
-
-**🔗 Links:**
-*   [Minutes 21 (Questionnaire Results)](http://www.wangfuk.org/html/meeting/05/第21次全體委員會議記錄.pdf) | [Backup](2023-11-23%20第十一屆第二十一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [EGM Minutes (The Vote)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [Yahoo News Report (The Consultant Fee)](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
-*   [Herman Yiu's Post (A primary source of the Consultant Fee)](https://www.facebook.com/share/p/1ASPMmAqdt/)
-
----
-
-### 🆔 [E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling
-
-**🚨 Significance:**
-
-Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-safety tender despite two glaring errors in the document — listing the contractors as "Lift Contractors" and misclassifying the HK$144,170 repair fee as a "Monthly Fee" — revealing a decision-making process that may not have received even basic scrutiny and raising serious doubts about the MC’s capacity to oversee critical building safety matters.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Absurd Approval**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10) 商討及議決消防設備執修事宜**
-> "**10.1** ...共收到有 4 間註冊**升降機承辦商**回覆報價... 詳情如下：
->
-> | 承辦商 | **每月費用** |
-> | :---: | :---: |
-> | 宏泰消防工程有限公司 | **$144,170** |
-> (...)"
->
-> *Translation:*
-> **10) Discussion and resolution on fire equipment rectification**
-> "**10.1** ...received quotes from 4 registered **Lift Contractors**... Details as follows:
-> | Contractor | **Monthly Fee** |
-> | :---: | :---: |
-> | Victory Fire Engineering Ltd. | **$144,170** |"
-
-> **Evidence [B]: The Belated Correction (2 Months Later)**
-> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
->
-> **2.1**
-> "有關 10.1 項：共收到有 4 間註冊升降機承辦商回覆報價，更正為共收到有 4 間**消防承辦商**回覆報價。另將每月費用**刪除每月兩字**。 (全體知悉)"
->
-> *Translation:*
-> **2.1**
-> "Regarding Item 10.1: 'received quotes from 4 registered Lift Contractors' is corrected to 'received quotes from 4 registered **Fire Contractors**'. Also, for the monthly fee, **delete the word 'Monthly'**. (All noted)"
-
-**📅 Date:** 2025-09-29 (Error Committed) | 2025-11-07 (Error Admitted)
-
-**🔗 Links:**
-*   [Minutes 12 (The Error)](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Minutes 13 (The Correction)](http://www.wangfuk.org/html/meeting/12/2025-11-7%20%E7%AC%AC13%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-11-07%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Full Archive](MINUTES_MARKDOWN.md)
-
----
-
-### 🆔 [E-ADMIN-2025-12-04-01] The Chairman's fatal ignorance on safety status
-
-**🚨 Significance:**
-
-On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Admission of Ignorance**
-> *Source: Now News / 2025-12-04*
->
-> "本台向業主立案法團主席徐滿柑查詢，他表示**不清楚該次的消防執修工程是否已經完成**。"
->
-> *Translation:*
-> "Now News enquired with MC Chairman **Tsui Moon-kam**, who stated he **was unclear whether that specific fire rectification work had been completed.**"
-
-> **Evidence [B]: The Project He Approved**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10.3**
-> "經商議後，徐主席動議由最低報價的「宏泰消防工程有限公司」進行消防設備執修工作，各委員一致贊成通過。"
->
-> *Translation:*
-> "After discussion, **Chairman Tsui moved** to have the lowest bidder, 'Victory Fire Engineering', conduct the fire equipment rectification works; all members unanimously approved."
-
-> **Evidence [C]: The Project Timeline**
-> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
->
-> *Note: Just 19 days before the fire, the minutes were amended regarding this specific project (correcting the "Lift/Monthly" error), proving the project was fresh on the agenda.*
-
-**📅 Date:** 2025-12-04
-
-**🔗 Links:**
-*   [Now News Report](https://news.now.com/home/local/player?newsId=628390)
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](MINUTES_MARKDOWN.md)
-
----
-
 ### 🆔 [E-CARTEL-2009-05-07-01] The timeline of Decay: From "Fat Meat" to Silence
 
 **🚨 Significance:**
@@ -604,6 +432,57 @@ The Government has known this for a decade. In **2015**, Secretary for Developme
 
 ---
 
+### 🆔 [E-SAFETY-2016-01-01-01] The "Mathematical Impossibility" & The Parasitic Business Model
+
+**🚨 Significance:**
+
+Analysis of historical bidding data reveals that **Victory Fire Engineering (宏泰)** operated a "Parasitic Business Model" for a decade, characterized by **predatory pricing** that made genuine safety inspections mathematically impossible.
+
+**1. The Mathematical Impossibility:**
+From 2016 to 2021, Victory charged a total annual fee of **$3,200** to maintain the fire systems of **8 residential towers**.
+*   **The Calculation:** HK$3,200 ÷ 8 towers = **HK$400 per tower per year**.
+*   **The Reality Check:** Fire safety expert Leung Kam-tak estimates a proper inspection requires at least 2 workers for 1 day, costing ~HK$3,000 in wages alone.
+*   **The Conclusion:** Victory was charging **13% of the minimum labor cost**. It is impossible to conduct a genuine inspection at this price. The "Annual Inspections" were  *fictitious paper exercises*.
+
+**2. The "Loss Leader" Trap:**
+The data exposes a clear strategy: Win the maintenance contract with an absurdly low bid to gain exclusive access, then extract massive profits through "Rectification Works".
+*   While charging only $3,200/year for "maintenance," Victory billed **$298,000** for repairs in 2021 and **$144,170** in 2025.
+*   **Conflict of Interest:** The entity responsible for Inspection is the same entity paid to fix them. This incentivizes either (a) ignoring maintenance until systems collapse (generating big repair bills), or (b) fabricating defects.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Predatory Pricing History**
+> *Source: Sing Tao USA / 2025-11-28 (Citing MC Records)*
+>
+> "由2016年1月1日至2021年12月31日，「宏泰消防工程有限公司 」的保養年費為 **3,200元**。"
+> "消防顧問梁錦得表示...直言對檢查效用有保留，「...一名工人日薪起碼1500元，兩個人已3000元，每座（400元...）費用不夠支付薪金，可想而知**真正檢查時間很短**」。"
+>
+> *Translation:*
+> "From Jan 1, 2016 to Dec 31, 2021, Victory's annual maintenance fee was **$3,200**."
+> "Fire Consultant Leung Kam-tak stated... he had reservations about the inspection's effectiveness: '...one worker's daily wage is at least $1,500; two workers cost $3,000. The fee per tower ($400) **isn't enough to pay salaries**. One can imagine the **actual inspection time is very short**.'"
+
+> **Evidence [B]: The "Harvest" (Repair Revenue)**
+> *Source: MC Records Table*
+>
+> | Time | Item | Cost |
+> | :--- | :--- | :--- |
+> | 2016-2021 | **Annual Maintenance Fee** | **$3,200** |
+> | 2021-08 | **Fire Equipment Rectification** | **$298,000** |
+> | 2025-09 | **Fire Equipment Rectification** | **$144,170** |
+>
+> *(Analysis: The repair bill in 2021 was **93 times** the annual maintenance fee. This is the profit engine.)*
+
+**📅 Timeline:**
+*   **2016-2021:** The "$3,200 Era" (Fictitious Inspections).
+*   **2021-08:** The $298,000 Repair Bill.
+*   **2025-11-28:** Post-fire revelation of system-wide failure.
+
+**🔗 Links:**
+*   [Sing Tao Report](https://www.singtaousa.com/index.php/2025-11-28/大埔宏福苑五級火｜8廈警鐘失靈-消防承辦商宏泰奪/5389260)
+*   [MC Minutes (Source)](http://www.wangfuk.org/html/meeting/index.htm)
+
+---
+
 ### 🆔 [E-CARTEL-2016-12-31-01] The "Ever-Victorious" Monster: How a Resource-Poor Firm Hoarded 28 Projects
 
 **🚨 Significance:**
@@ -756,6 +635,69 @@ The termination of the Garden Vista investigation, despite "knowing the facts" (
 
 **🔗 Links:**
 *   [FactWire Report](https://www.factwire.org/investigation/文件揭錯誤數據推高工程價-翠湖圍標調查-廉署終止/)
+
+---
+
+### 🆔 [E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55
+
+**🚨 Significance:**
+
+Investigative reporting exposes that the "Safety Certificates" relied upon by regulators are mass-produced fakes sold openly on Taobao. The fraud is sophisticated: vendors provide not just the report, but also **fake verification websites** to fool inspectors.
+
+**1. "No Sample Needed":**
+Reporters proved that for as little as **50 RMB** (HK$55), one can buy a test report without ever providing a product. For **HK$1,300**, one gets a "premium" fake with a verifiable QR code.
+*   *The Experiment:* Reporters successfully bought a "Fire Retardant" certificate for a hypothetical product by simply filling in a form. They even successfully requested adding "Safety Net Standards" to a "Fire Blanket" report—a technical absurdity that the forgery service happily obliged.
+
+**2. The Fake "Official" Ecosystem:**
+The fraud includes cloning official websites. When a report number is checked against the URL provided in the fake report, it shows "Valid."
+*   *The Systemic Breach:* This renders the standard "Document Check" by HK authorities useless. Unless inspectors independently verify the *URL domain* against known government lists or conduct physical tests, the system is designed to pass fakes.
+
+**3. The Known Rot:**
+State media (**People's Daily**) exposed this exact "No Sample" industry back in **2021**. The persistence of this market in 2025 proves that fake testing is a structural feature of the mainland supply chain, one that Hong Kong importers knowingly or negligently tap into.
+
+**📜 Original Record:**
+
+> **Evidence [A]: Paid "inspection reports" available on Taobao**  
+> *Source: The Collective / 2025-12-06*  
+>  
+> "淘寶，可找到大量出售「質檢報告」網店，部分...標價 50 元人民幣";
+> "記者...繳付約港幣 1300 元...不足兩小時便獲發產品「阻燃檢測合格」報告... **無需送樣**... 更能在檢測機構「官網」按編號搜尋到...";
+> "記者向對方要求，希望在「檢測標準」一欄加上，與「滅火毯」無關的「墜落防護安全網」標準，對方亦照辦"  
+>  
+> *Translation:*  
+> "On Taobao, many shops sell 'quality inspection reports', some at a price of RMB 50";
+> "Reporter paid ~HK$1300... within 2 hours received 'Fire Retardant Qualified' report... **No sample needed**... report could be found on the testing agency's 'Official Website'...";
+> "When reporters asked a seller to add, in the 'testing standards' field, the standard for 'fall‑protection safety nets'—which is unrelated to 'fire blankets'—the seller complied."
+
+> **Evidence [B]: The 2021 Warning**
+> *Source: People's Daily / 2021-07-07*
+>
+> "無需寄送樣品，只需在電商平台上一鍵下單... 隱患多，危害大。"
+>
+> *Translation:*
+> "No need to send samples, just one click on e-commerce platforms... High risks, great harm."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We verified the certificates against the provided websites. We were victims of a sophisticated high-tech fraud that created fake databases."
+
+**The Logical Trap:**
+1.  **Domain Literacy:** A professional consultant or government regulator should know the official domain of the "State Administration for Market Regulation." Checking a report against a suspicious URL (e.g., `zhongfu-test.com` instead of a government domain) is incompetence, not victimhood.
+2.  **Physical Reality:** A piece of paper cannot change physics. If the net feels flimsy or looks different (Two-Color issue), the paper should be ignored. Relying solely on a QR code while ignoring physical evidence is **"Audit Laziness."**
+
+**¶ Statutory Basis:**
+
+*   Forgery, [Cap 200 Section 71](https://www.elegislation.gov.hk/hk/cap200!en/s71?_lang=en)
+*   Conspiracy to Defraud, [Cap 200 Section 159A](https://www.elegislation.gov.hk/hk/cap200!en/s159A?_lang=en)
+
+**📅 Timeline:**
+*   **2021-07-07:** People's Daily exposes the fake report industry.
+*   **2025-12-05:** Reporter buys fake report in 2 hours.
+
+**🔗 Links:**
+*   [The Collective Report](https://thecollectivehk.com/內地檢測放蛇無需送樣付千元兩小時獲合格報告/)
+*   [People's Daily 2021 Report](http://finance.people.com.cn/BIG5/n1/2021/0707/c1004-32151237.html)
 
 ---
 
@@ -1797,6 +1739,184 @@ The involvement of a DAB Councilor in securing votes for a specific contractor (
 
 ---
 
+### 🆔 [E-ADMIN-2024-01-28-01] The "Basket" Rigging: How 38% Support Became a HK$5.6 Million Mandate
+
+**🚨 Significance:**
+
+Official records reveal a sophisticated mechanism of "Pseudo-Democracy" used to upsell HK$5.6 million worth of optional works. The Consultant (**鴻毅/Will Power**) and the MC orchestrated a "Bundling Strategy" that allowed unpopular items to pass by redefining the concept of "Majority" and utilizing block voting.
+
+**1. The "Minority Rule" Trick:**
+"Majority Consent" was defined not as >50%, but as simply having more "Agree" votes than "Disagree."
+*   *The Smoking Gun:* The "Performance Bond" item received only **38.5%** support (31.3% opposed, 30.2% invalid). In any normal democratic process, this fails. Here, it was declared "agreed" and added to the bundle.
+*   *The Result:* A minority of respondents (representing only ~10% of all households) effectively dictated the spending for the entire estate.
+
+**2. The "All-or-Nothing" Bundle:**
+Instead of voting on items individually, the MC combined them into a single "Basket".
+*   *The Coercion:* Owners were forced to vote YES for the whole package (including the 38.5% item) or NO to everything. This eliminates scrutiny of specific "pork barrel" items.
+
+**3. The Proxy Rollercoaster:**
+While the questionnaire showed lukewarm interest (only 529 responses from 1,984 households), the Final Vote at the EGM showed a staggering **89.86% approval**.
+*   *The Inference:* This massive jump indicates the deployment of **Proxy Votes (Authorization Tickets)**. The "Organized Vote" crushed the "Independent Vote," approving a $5.6 million upsell that serves the contractor's profit margin.
+
+**4. The Upsell Ratio:**
+The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's own fee (HK$308k).
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Minority" Majority**
+> *Source: 11th MC Meeting Minutes (No. 21) / 2023-11-23*
+>
+> "履約保証金 | 同意 **38.5%** | 反對 31.3% | 無效 30.2%"
+>
+> *Translation:*
+> "Performance Bond | Agree **38.5%** | Disagree 31.3% | Invalid 30.2%"
+
+> **Evidence [B]: The Bundling Strategy**
+> *Source: 11th MC EGM Minutes / 2024-01-28*
+>
+> "決定將問卷中獲得大多數業主表達同意的工程項目於業主大會以**一籃子方式**供業主作出表決。有關獲大多數業主同意的項目包括：...履約保証金..."
+>
+> *Translation:*
+> "Decided to bundle the items... for owners to vote on in a **'one basket' manner**...including...Performance Bond..."
+
+> **Evidence [C]: The Landslide Vote**
+> *Source: 11th MC EGM Minutes / 2024-01-28*
+>
+> "贊 成 **89.86%**"
+>
+> *Translation:*
+> "In Favor **89.86%**"
+
+> **Evidence [D]: The Cost of the Bundle**
+> *Source: EGM Attachment / 2024-01-28*
+>
+> *   Total with Bundle (S1+S2): $304,380,410
+> *   Total without Bundle (S1): $298,737,410
+> *   **Difference: HK$5,643,000**
+
+> **Evidence [E]: Consultant fee of Will Power**  
+> *Source: Yahoo News / 2025-12-11*  
+>  
+> "屋苑斥資3.3億元進行大維修，僅另花費30.8萬元聘用鴻毅作為監督修葺的工程顧問"  
+>  
+> *Translation:*  
+> "the estate spent HK$330 million on major repairs, yet spent only an additional HK$308,000 to hire Will Power as the consultant..."  
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We streamlined the process to save time. Voting on 30 items individually would take days. The 'Basket' represented the collective will expressed in the survey. The Performance Bond protects owners, so including it was prudent management. The high EGM vote confirms owners wanted these upgrades."
+
+**The Logical Trap:**
+1.  **Efficiency vs. Democracy:** "Saving time" is not a justification for bypassing consent. Digital voting or separate ballot papers could easily handle multiple items. Bundling is a known tactic to hide toxic assets inside attractive packages (like subprime mortgages).
+2.  **The "Protection" Tax:** A Performance Bond should be a standard requirement in the main tender, costed competitively. Making it an "Optional Item" implies the Contractor charged an *extra premium* for it. Why should owners pay extra to insure the Contractor's own performance?
+3.  **The 38% Mandate:** You cannot claim a "collective will" when 61.5% of respondents *did not* agree to an item. Including a failed item in a mandatory bundle is manipulation, not representation.
+
+**¶ Statutory Basis:**
+*   **Context:** Building Management Ordinance (Cap. 344) - Procurement & Voting Procedures.
+
+**📅 Timeline:**
+*   **2023-11-03:** The Consultant issued the questionnaires.
+*   **2023-11-23:** Low support (38.5%) items classified as "Agreed."
+*   **2024-01-28:** EGM passes the "Basket" with 90% vote (proxies).
+
+**🔗 Links:**
+*   [Minutes 21 (Questionnaire Results)](http://www.wangfuk.org/html/meeting/05/第21次全體委員會議記錄.pdf) | [Backup](2023-11-23%20第十一屆第二十一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [EGM Minutes (The Vote)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Yahoo News Report (The Consultant Fee)](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
+*   [Herman Yiu's Post (A primary source of the Consultant Fee)](https://www.facebook.com/share/p/1ASPMmAqdt/)
+
+---
+
+### 🆔 [E-SAFETY-WINDOWS-2024-01-28-01] The "Fireproof" Paradox: Paying for Safety, Getting a Death Trap
+
+**🚨 Significance:**
+
+A catastrophic failure in construction safety turned the primary escape route into a smoke funnel. Despite owners voting overwhelmingly (76.82%) to pay **5 times more** (HK$992,000 vs HK$198,400) for Fire Rated Windows to enhance safety, the Contractor (**Prestige/宏業**) replaced them with **perforated wooden boards** to facilitate worker access.
+
+**1. The Fatal irony:**
+*   **What was paid for:** 316 Stainless Steel, sealed, fire-rated windows designed to prevent smoke ingress.
+*   **What was installed:** Wooden boards with holes, which are flammable and allow smoke to freely enter the staircase.
+*   **The Consequence:** During the fire, these holes allowed thick smoke to penetrate the staircase—the only escape route—turning it into a chimney. The staircase was reportedly "filled with thick smoke", directly contributing to the high casualty count in **Wang Tai House** (82 deaths), which was not even the fire's origin.
+
+**2. The Regulatory Violation:**
+This practice flagrantly violates the **Code of Practice for Fire Safety in Buildings 2011**, Section C9.7, which mandates that staircase openings must be protected by fixed windows with fire resistance ratings equal to the staircase walls.
+*   *Expert Opinion:* "Completely unacceptable". Even temporary openings require fire-resistant sealing, not just "a piece of wood with a hole."
+
+**3. The Missing Upgrade:**
+Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frames to "316 Stainless Steel." Yet, on-site inspection at Wang Tai House revealed that on floors 5, 10, 15, 20, and 25, **no such frames were visible**—only the deadly wooden boards or gaping holes remained.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Owners' Choice (Safety First)**
+> *Source: 11th MC EGM Minutes / 2024-01-28*
+>
+> | Option | Cost | Vote % |
+> | :--- | :--- | :--- |
+> | Repair Existing | HK$198,400 | 23.18% |
+> | **Replace with Fire Rated Windows** | **HK$992,000** | **76.82%** |
+>
+> *(Analysis: Owners explicitly paid a premium for safety.)*
+
+> **Evidence [B]: The Owners' Choice (Safety First)**
+> *Source: 12th MC Meeting Minutes (No. 7) / 2024-11-15*
+>
+>**5** "經工程會議商討後建議將上述窗框物料升級為 316 不銹鋼...合共為$297,600...各委員一致贊成通過"
+>
+> *Translation:*
+>"After discussion...the upgrade proposal of the above window frame materials to 316 stainless steel...a total cost of $297,600...unanimously approved"
+
+> **Evidence [C]: The Deadly Reality (Wooden Boards)**
+> *Source: The Collective HK (集誌社) / 2025-12-05*
+>
+> "宏泰閣逃生梯在原來窗口位置，裝了一塊「**開窿、漏罅**」的木板... 李先生形容「後樓梯係求生的唯一通道， 𠵱家係畀人鑿穿咗後欄，任濃煙入到應最遲先入嘅地方...」"
+>
+> *Translation:*
+> "In Wang Tai House's escape staircase... a '**perforated, leaky**' wooden board was installed... Mr. Lee described: 'The rear staircase is the only survival route, now someone has chiseled through the back door, allowing thick smoke to enter where it should enter last...'"
+
+> **Evidence [D]: Fire Safety**  
+> *Source: The Collective HK / 2025-12-05*  
+>  
+> "工程師劉德安指，有關做法「完全唔得」，就算因施工需設臨時「生口」，亦要以補救措施如加防水板或防火棉等，做到走火通道最基本防火防煙的要求，否則逃生人士或「焗暈焗死」"  
+>  
+> *Translation:*  
+> "Engineer Andrew Lau called it 'completely unacceptable'. Even if temporary openings are needed for construction, remedial measures such as adding waterproof boards or fire‑resistant insulation must be used to meet the basic fire‑ and smoke‑protection requirements; otherwise evacuees could be suffocated"
+
+> **Evidence [E]: The "Missing" Steel Frames**
+> *Source: The Collective HK (集誌社) / 2025-12-05*
+>
+> "宏泰閣... 在 5 樓 、10樓、15 樓、20 樓、25 樓，亦**未能見到「日」字型的窗框**..."
+>
+> *Translation:*
+> "Wang Tai House... on floors 5, 10, 15, 20, 25, **the box‑grid [stainless steel] window frames were not visible**..."
+> *(Analysis: This contradicts the Nov 15 minutes approving the steel upgrade. Where did the money go?)*
+
+> **Evidence [F]: Death Toll in Wang Tai House**
+> *Source: Multiple*
+>
+> "宏昌閣及宏泰閣，分別有70及82人喪生"
+>
+> *Translation:*
+> "Wang Cheung Court and Wang Tai House...70 and 82 fatalities respectively"
+
+**¶ Statutory Basis:**
+
+*   **Requirement:** Protection of Required Staircases (Openings must have Fire Resistance Rating).
+*   **Provision:** [Code of Practice for Fire Safety in Buildings 2011](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf), Section C9.7 & [Building (Construction) Regulations, Section 35](https://www.elegislation.gov.hk/hk/cap123Q!en/s35?_lang=en).
+
+**📅 Timeline:**
+*   **2024-01-28:** Owners vote for HK$992k Fire Windows.
+*   **2024-11-15:** MC approves extra HK$297k for Steel Upgrade.
+*   **2025-11-26:** The Fire (Smoke enters via wooden boards).
+
+**🔗 Links:**
+*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火直擊走火樓梯漏洞密封窗疑變開窿)
+*   [Minutes EGM (Fire Rated Windows)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
+*   [Minutes 7 (Steel Frame)](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](2024-11-15%20第十二屆第七次會議紀錄.pdf)
+*   Deaths in Wang Tai House: [[1]](https://news.tvb.com/tc/local/69300a52ada134dbdf40370d/港澳-宏福苑五級火｜增至159死-絕大部分來自宏昌宏泰閣) [[2]](https://thecollectivehk.com/宏福苑五級火｜完成七廈搜索159-死-31失聯　宏泰、宏/) [[3]](https://www.hk01.com/突發/60300234/宏福苑大火災-159人死最細1歲-各廈死亡人數一文看清) [[4]](https://zh-yue.wikipedia.org/wiki/宏福苑大火) [[5]](https://www.ettoday.net/news/20251205/3078839.htm) [[6]](https://orientaldaily.on.cc/content/要聞港聞/odn-20251204-1204_00176_023/災廈完成搜索--宏昌宏泰最多人罹難) [[7]](https://hk.news.yahoo.com/share/69333abe-0f92-4c35-9745-938c8ac333a7) [[8]](https://www.stheadline.com/breaking-news/3523579/大埔宏福苑五級火死者分佈一覽-宏昌宏泰閣最嚴重-周一鳴部份單位發現骨頭仍有待檢驗) 
+
+---
+
 ### 🆔 [E-CARTEL-2024-03-22-01] The "HK$33 Million" Motive: Anatomy of the Kill Chain
 
 **🚨 Significance:**
@@ -2064,360 +2184,7 @@ The new MC reported the case to the police as "Using False Instruments." Over 80
 
 ---
 
-### 🆔 [E-ADMIN-2024-07-22-01] The Questionnaire Trap: "Admit Liability or Withdraw"
-
-**🚨 Significance:**
-
-On July 19, 2024, facing a statutory petition from >5% of owners to convene an EGM to overthrow the MC, Chairman **Tang Kwok-kuen** (鄧國權) issued a "Survey" (Annex 3). Analysis reveals this document was not a tool for verification, but a **precision-engineered instrument of intimidation**.
-
-**1. The "Guilt Trap" (Question C):**
-The survey forced owners to accept a false premise: that exercising their rights would incur legal costs.
-*   *The Trap:* Owners were asked: *"Do you know you will be liable for legal costs and your data will be public?"*
-*   *The Options:* Only two choices were provided: "I knew when signing" or "I know now."
-*   *The Malice:* There was no option to say "I disagree." By ticking either box, the owner forcedly "confessed" to accepting liability, psychologically disarming them.
-
-**2. The "Ransom" Offer (Question D):**
-The final question offered a way out: *"If you withdraw, you do not need to bear legal responsibility."*
-*   *The Trade:* This explicitly links "silence" with "safety." It frames the statutory right to petition as a "crime" that can be forgiven only if the owner recants.
-
-**3. Weaponizing Privacy:**
-The threat that *"names and unit details will be publicly displayed"* exploits the owners' fear of doxxing. The Chairman used his position as the data controller to threaten the data subjects.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Liability Trap**
-> *Source: Wang Fuk MC Survey (Annex 3) / 2024-07-19*
->
-> "**c)** ...如日後就是次事件引起訴訟... 雙方亦須**負上法律責任及相關訴訟費用**。
-> ☐ 本人在簽署時知道需負上有關責任
-> ☐ 本人現在才知道簽署需負上有關責任"
->
-> *Translation:*
-> "**c)** ...If litigation arises... both parties must **bear legal liability and legal costs**.
-> ☐ I knew I had to bear this liability when signing.
-> ☐ I only know now that I have to bear this liability."
-
-> **Evidence [B]: The "Amnesty" Offer**
-> *Source: Wang Fuk MC Survey (Annex 3)*
->
-> "**d)** ... ☐ 本人不需要召開業主大會，並撤回有關簽署 (**如撤回簽署則無須負上就簽署而引起的法律責任**)"
->
-> *Translation:*
-> "**d)** ... ☐ I do not require an EGM and withdraw my signature (**If withdrawn, no need to bear legal liability arising from signing**)."
-
-**🛡️ Pre-emptive Rebuttal:**
-
-**Anticipated Defense:**
-"We have a fiduciary duty to warn owners of the potential consequences of their actions. Litigation involving the MC uses estate funds, and if the petition is legally flawed, the petitioners might be liable. We are ensuring informed consent, not intimidating. The 'withdrawal' option is simply an administrative mechanism for those who changed their minds."
-
-**The Logical Trap:**
-1.  **Creating the Risk:** The "risk of litigation" only exists because the **Chairman refuses to hold the meeting**. If he simply followed the Building Management Ordinance and convened the EGM, there would be no lawsuit and no costs. He is the arsonist warning people about the fire he plans to start.
-2.  **The "Liability" Lie:** Under the BMO, owners have an absolute right to petition (5% threshold). Exercising a statutory right does not carry "legal liability" unless the MC sues them maliciously. Framing a civil right as a liability risk is deception.
-3.  **The Timing:** Issuing this on the **14th day** (the statutory deadline to issue notice of meeting) proves it was a delaying tactic designed to frustrate the process, not a genuine verification exercise.
-
-**¶ Statutory Basis:**
-
-*   **Right:** Building Management Ordinance (Cap. 344), Schedule 3.
-*   **Context:** Obstruction of owners' rights.
-
-**📅 Timeline:**
-*   **2024-07-05:** >5% Owners submit petition for EGM.
-*   **2024-07-22:** Chairman issues "Intimidation Survey."
-
-**🔗 Links:**
-*   [Yahoo News Report](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39dGZQq6rQEvA)
-
----
-
-### 🆔 [E-ADMIN-2024-07-31-01] The Illegal Delay: How the Chairman Ignored Statutory Deadlines to Crush Dissent
-
-**🚨 Significance:**
-
-Official records prove that MC Chairman **Tang Kwok-kuen** systematically violated the Building Management Ordinance (BMO) to obstruct a legitimate owners' petition. Upon receiving a 5% petition on July 5, 2024, the law required him to issue a notice of meeting by **July 19** (14 days) and hold the meeting by **Aug 19** (45 days). He missed both deadlines willfully.
-
-**1. The "Decoy" Survey (July 19):**
-On the deadline to convene the meeting, the Chairman instead issued a "General Opinion Survey" to all residents.
-*   *The Tactic:* This survey produced a "76% opposition" figure (based on a low 24% response rate). The Chairman used this manufactured "Majority Opinion" to delegitimize the statutory right of the 5% minority, treating a legal obligation as a popularity contest.
-
-**2. The Late "Intimidation" (July 22):**
-The targeted "Verification Letter" (threatening legal liability) was sent to signatories on **July 22**—**3 days after the statutory deadline**.
-*   *The Violation:* By delaying the verification until *after* the convening deadline passed, the Chairman acted ultra vires (beyond his powers). Even after this intimidation caused some to withdraw, **130 owners** (approx. 6.5%) stood firm—still satisfying the 5% threshold.
-
-**3. The 45-Day Breach:**
-The meeting was finally scheduled for **Sept 6**—**63 days** after the petition.
-*   *The Illegality:* This blatantly violated the 45-day statutory limit (Aug 19). The delay allowed the MC to consolidate power, sign contracts, and let the "anti-dissent" sentiment fester.
-
-**4. Management as Enforcer:**
-When residents attempted to organize on July 23, Security guards (managed by **ISS**) called the police. This confirms that the Management Company actively collaborated with the MC to suppress residents' rights.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Statutory Breach (Dates)**
-> *Source: 12th MC Meeting Minutes (No. 3) / 2024-08-05*
->
-> "鄧主席報告在 2024 年 **7 月 5 日**收到... 5%... 簽名文件... 鄧主席於 **7 月 22 日**向... 簽名人士發出確認信件。"
->
-> *Translation:*
-> "Chairman Tang received the 5% petition on **July 5**. Chairman sent confirmation letters on **July 22**."
-> *(Analysis: 14-day deadline expired on July 19. Action was late.)*
-
-> **Evidence [B]: The "Decoy" Survey Result**
-> *Source: 12th MC Meeting Minutes (No. 3)*
->
-> "法團於 7 月 19 日向全苑發出問卷調查... **76% 反對** 5%以上業主要求罷免管委會..."
->
-> *Translation:*
-> "MC issued survey on July 19... **76% opposed** the request to recall the MC..."
-
-> **Evidence [C]: The Threshold Met Despite Tactics**
-> *Source: 12th MC Meeting Minutes (No. 3)*
->
-> "截至 7 月 31 日... 當中 **130 個業主**表示要求召開大會..."
->
-> *Translation:*
-> "As of July 31... **130 owners** confirmed the request for the meeting..."
-> *(Note: 130 > 5% of 1984. The tactic failed to drop numbers below legal threshold.)*
-
-> **Evidence [D]: Police Called on Residents**
-> *Source: Yahoo News / 2024-07-24*
->
-> "逾 200 名居民周二晚（23 日）開會後... 將有關通告放入住戶信箱，但隨即有**保安報警**...有業主指，本月派發 3 次通告，有 2 次都遭管理處報警阻止。"
->
-> *Translation:*
-> "Over 200 residents met on Tuesday (23rd)... put notices in mailboxes, but **security immediately called the police**...A resident says three notices were issued this month, and **on two occasions** the management office called the police to stop them."
-
-**🛡️ Pre-emptive Rebuttal:**
-
-**Anticipated Defense:**
-"We needed time to verify signatures to ensure the petition was valid (some *were* withdrawn). Finding a suitable venue for a large-scale meeting is difficult; the Community Hall was full. We acted in good faith to facilitate the meeting as soon as a venue (school) was available. Calling police was standard protocol for 'unauthorized distribution' or 'gathering' to maintain order."
-
-**The Logical Trap:**
-1.  **Verification is not an Excuse for Delay:** The BMO does not grant a "time-out" for verification. If the Chairman suspected fraud, he should have convened the meeting and challenged the validity *at* the meeting. Delaying the *notice* beyond 14 days is illegal, regardless of the excuse.
-2.  **Venue Availability:** If the Community Hall was full, why wait until Sept 6? Schools and private venues are available in July/August. The 18-day delay beyond the 45-day limit (Aug 19 to Sept 6) is excessive and unexplained, suggesting deliberate stalling.
-3.  **Policing vs. Managing:** Residents putting notices in *their own* neighbors' mailboxes is a basic right of communication within a private estate. Treating this as a "police matter" reveals a **hostile management style** aimed at silencing opposition, not maintaining order.
-
-**¶ Statutory Basis:**
-
-*   **Duty:** Building Management Ordinance (Cap. 344), Schedule 3, Para 1 (14-day & 45-day rule).
-
-**📅 Timeline:**
-*   **2024-07-05:** Petition submitted (Day 0).
-*   **2024-07-19:** 14-Day Deadline passed. MC issues "Decoy Survey."
-*   **2024-07-22:** MC issues "Intimidation Letter" (Late).
-*   **2024-07-23:** Residents organize; Security calls Police.
-*   **2024-08-19:** 45-Day Deadline passed. No meeting held.
-*   **2024-09-06:** Meeting finally held (Day 63).
-
-**🔗 Links:**
-*   [Yahoo News Report](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39d6ff3)
-*   [Minute 3](http://www.wangfuk.org/html/meeting/12/第3次全體委員會議紀錄v1.pdf)
-
----
-
-### 🆔 [E-SAFETY-2016-01-01-01] The "Mathematical Impossibility" & The Parasitic Business Model
-
-**🚨 Significance:**
-
-Analysis of historical bidding data reveals that **Victory Fire Engineering (宏泰)** operated a "Parasitic Business Model" for a decade, characterized by **predatory pricing** that made genuine safety inspections mathematically impossible.
-
-**1. The Mathematical Impossibility:**
-From 2016 to 2021, Victory charged a total annual fee of **$3,200** to maintain the fire systems of **8 residential towers**.
-*   **The Calculation:** HK$3,200 ÷ 8 towers = **HK$400 per tower per year**.
-*   **The Reality Check:** Fire safety expert Leung Kam-tak estimates a proper inspection requires at least 2 workers for 1 day, costing ~HK$3,000 in wages alone.
-*   **The Conclusion:** Victory was charging **13% of the minimum labor cost**. It is impossible to conduct a genuine inspection at this price. The "Annual Inspections" were  *fictitious paper exercises*.
-
-**2. The "Loss Leader" Trap:**
-The data exposes a clear strategy: Win the maintenance contract with an absurdly low bid to gain exclusive access, then extract massive profits through "Rectification Works".
-*   While charging only $3,200/year for "maintenance," Victory billed **$298,000** for repairs in 2021 and **$144,170** in 2025.
-*   **Conflict of Interest:** The entity responsible for Inspection is the same entity paid to fix them. This incentivizes either (a) ignoring maintenance until systems collapse (generating big repair bills), or (b) fabricating defects.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Predatory Pricing History**
-> *Source: Sing Tao USA / 2025-11-28 (Citing MC Records)*
->
-> "由2016年1月1日至2021年12月31日，「宏泰消防工程有限公司 」的保養年費為 **3,200元**。"
-> "消防顧問梁錦得表示...直言對檢查效用有保留，「...一名工人日薪起碼1500元，兩個人已3000元，每座（400元...）費用不夠支付薪金，可想而知**真正檢查時間很短**」。"
->
-> *Translation:*
-> "From Jan 1, 2016 to Dec 31, 2021, Victory's annual maintenance fee was **$3,200**."
-> "Fire Consultant Leung Kam-tak stated... he had reservations about the inspection's effectiveness: '...one worker's daily wage is at least $1,500; two workers cost $3,000. The fee per tower ($400) **isn't enough to pay salaries**. One can imagine the **actual inspection time is very short**.'"
-
-> **Evidence [B]: The "Harvest" (Repair Revenue)**
-> *Source: MC Records Table*
->
-> | Time | Item | Cost |
-> | :--- | :--- | :--- |
-> | 2016-2021 | **Annual Maintenance Fee** | **$3,200** |
-> | 2021-08 | **Fire Equipment Rectification** | **$298,000** |
-> | 2025-09 | **Fire Equipment Rectification** | **$144,170** |
->
-> *(Analysis: The repair bill in 2021 was **93 times** the annual maintenance fee. This is the profit engine.)*
-
-**📅 Timeline:**
-*   **2016-2021:** The "$3,200 Era" (Fictitious Inspections).
-*   **2021-08:** The $298,000 Repair Bill.
-*   **2025-11-28:** Post-fire revelation of system-wide failure.
-
-**🔗 Links:**
-*   [Sing Tao Report](https://www.singtaousa.com/index.php/2025-11-28/大埔宏福苑五級火｜8廈警鐘失靈-消防承辦商宏泰奪/5389260)
-*   [MC Minutes (Source)](http://www.wangfuk.org/html/meeting/index.htm)
-
----
-
-### 🆔 [E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55
-
-**🚨 Significance:**
-
-Investigative reporting exposes that the "Safety Certificates" relied upon by regulators are mass-produced fakes sold openly on Taobao. The fraud is sophisticated: vendors provide not just the report, but also **fake verification websites** to fool inspectors.
-
-**1. "No Sample Needed":**
-Reporters proved that for as little as **50 RMB** (HK$55), one can buy a test report without ever providing a product. For **HK$1,300**, one gets a "premium" fake with a verifiable QR code.
-*   *The Experiment:* Reporters successfully bought a "Fire Retardant" certificate for a hypothetical product by simply filling in a form. They even successfully requested adding "Safety Net Standards" to a "Fire Blanket" report—a technical absurdity that the forgery service happily obliged.
-
-**2. The Fake "Official" Ecosystem:**
-The fraud includes cloning official websites. When a report number is checked against the URL provided in the fake report, it shows "Valid."
-*   *The Systemic Breach:* This renders the standard "Document Check" by HK authorities useless. Unless inspectors independently verify the *URL domain* against known government lists or conduct physical tests, the system is designed to pass fakes.
-
-**3. The Known Rot:**
-State media (**People's Daily**) exposed this exact "No Sample" industry back in **2021**. The persistence of this market in 2025 proves that fake testing is a structural feature of the mainland supply chain, one that Hong Kong importers knowingly or negligently tap into.
-
-**📜 Original Record:**
-
-> **Evidence [A]: Paid "inspection reports" available on Taobao**  
-> *Source: The Collective / 2025-12-06*  
->  
-> "淘寶，可找到大量出售「質檢報告」網店，部分...標價 50 元人民幣";
-> "記者...繳付約港幣 1300 元...不足兩小時便獲發產品「阻燃檢測合格」報告... **無需送樣**... 更能在檢測機構「官網」按編號搜尋到...";
-> "記者向對方要求，希望在「檢測標準」一欄加上，與「滅火毯」無關的「墜落防護安全網」標準，對方亦照辦"  
->  
-> *Translation:*  
-> "On Taobao, many shops sell 'quality inspection reports', some at a price of RMB 50";
-> "Reporter paid ~HK$1300... within 2 hours received 'Fire Retardant Qualified' report... **No sample needed**... report could be found on the testing agency's 'Official Website'...";
-> "When reporters asked a seller to add, in the 'testing standards' field, the standard for 'fall‑protection safety nets'—which is unrelated to 'fire blankets'—the seller complied."
-
-> **Evidence [B]: The 2021 Warning**
-> *Source: People's Daily / 2021-07-07*
->
-> "無需寄送樣品，只需在電商平台上一鍵下單... 隱患多，危害大。"
->
-> *Translation:*
-> "No need to send samples, just one click on e-commerce platforms... High risks, great harm."
-
-**🛡️ Pre-emptive Rebuttal:**
-
-**Anticipated Defense:**
-"We verified the certificates against the provided websites. We were victims of a sophisticated high-tech fraud that created fake databases."
-
-**The Logical Trap:**
-1.  **Domain Literacy:** A professional consultant or government regulator should know the official domain of the "State Administration for Market Regulation." Checking a report against a suspicious URL (e.g., `zhongfu-test.com` instead of a government domain) is incompetence, not victimhood.
-2.  **Physical Reality:** A piece of paper cannot change physics. If the net feels flimsy or looks different (Two-Color issue), the paper should be ignored. Relying solely on a QR code while ignoring physical evidence is **"Audit Laziness."**
-
-**¶ Statutory Basis:**
-
-*   Forgery, [Cap 200 Section 71](https://www.elegislation.gov.hk/hk/cap200!en/s71?_lang=en)
-*   Conspiracy to Defraud, [Cap 200 Section 159A](https://www.elegislation.gov.hk/hk/cap200!en/s159A?_lang=en)
-
-**📅 Timeline:**
-*   **2021-07-07:** People's Daily exposes the fake report industry.
-*   **2025-12-05:** Reporter buys fake report in 2 hours.
-
-**🔗 Links:**
-*   [The Collective Report](https://thecollectivehk.com/內地檢測放蛇無需送樣付千元兩小時獲合格報告/)
-*   [People's Daily 2021 Report](http://finance.people.com.cn/BIG5/n1/2021/0707/c1004-32151237.html)
-
----
-
-### 🆔 [E-SAFETY-WINDOWS-2024-01-28-01] The "Fireproof" Paradox: Paying for Safety, Getting a Death Trap
-
-**🚨 Significance:**
-
-A catastrophic failure in construction safety turned the primary escape route into a smoke funnel. Despite owners voting overwhelmingly (76.82%) to pay **5 times more** (HK$992,000 vs HK$198,400) for Fire Rated Windows to enhance safety, the Contractor (**Prestige/宏業**) replaced them with **perforated wooden boards** to facilitate worker access.
-
-**1. The Fatal irony:**
-*   **What was paid for:** 316 Stainless Steel, sealed, fire-rated windows designed to prevent smoke ingress.
-*   **What was installed:** Wooden boards with holes, which are flammable and allow smoke to freely enter the staircase.
-*   **The Consequence:** During the fire, these holes allowed thick smoke to penetrate the staircase—the only escape route—turning it into a chimney. The staircase was reportedly "filled with thick smoke", directly contributing to the high casualty count in **Wang Tai House** (82 deaths), which was not even the fire's origin.
-
-**2. The Regulatory Violation:**
-This practice flagrantly violates the **Code of Practice for Fire Safety in Buildings 2011**, Section C9.7, which mandates that staircase openings must be protected by fixed windows with fire resistance ratings equal to the staircase walls.
-*   *Expert Opinion:* "Completely unacceptable". Even temporary openings require fire-resistant sealing, not just "a piece of wood with a hole."
-
-**3. The Missing Upgrade:**
-Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frames to "316 Stainless Steel." Yet, on-site inspection at Wang Tai House revealed that on floors 5, 10, 15, 20, and 25, **no such frames were visible**—only the deadly wooden boards or gaping holes remained.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Owners' Choice (Safety First)**
-> *Source: 11th MC EGM Minutes / 2024-01-28*
->
-> | Option | Cost | Vote % |
-> | :--- | :--- | :--- |
-> | Repair Existing | HK$198,400 | 23.18% |
-> | **Replace with Fire Rated Windows** | **HK$992,000** | **76.82%** |
->
-> *(Analysis: Owners explicitly paid a premium for safety.)*
-
-> **Evidence [B]: The Owners' Choice (Safety First)**
-> *Source: 12th MC Meeting Minutes (No. 7) / 2024-11-15*
->
->**5** "經工程會議商討後建議將上述窗框物料升級為 316 不銹鋼...合共為$297,600...各委員一致贊成通過"
->
-> *Translation:*
->"After discussion...the upgrade proposal of the above window frame materials to 316 stainless steel...a total cost of $297,600...unanimously approved"
-
-> **Evidence [C]: The Deadly Reality (Wooden Boards)**
-> *Source: The Collective HK (集誌社) / 2025-12-05*
->
-> "宏泰閣逃生梯在原來窗口位置，裝了一塊「**開窿、漏罅**」的木板... 李先生形容「後樓梯係求生的唯一通道， 𠵱家係畀人鑿穿咗後欄，任濃煙入到應最遲先入嘅地方...」"
->
-> *Translation:*
-> "In Wang Tai House's escape staircase... a '**perforated, leaky**' wooden board was installed... Mr. Lee described: 'The rear staircase is the only survival route, now someone has chiseled through the back door, allowing thick smoke to enter where it should enter last...'"
-
-> **Evidence [D]: Fire Safety**  
-> *Source: The Collective HK / 2025-12-05*  
->  
-> "工程師劉德安指，有關做法「完全唔得」，就算因施工需設臨時「生口」，亦要以補救措施如加防水板或防火棉等，做到走火通道最基本防火防煙的要求，否則逃生人士或「焗暈焗死」"  
->  
-> *Translation:*  
-> "Engineer Andrew Lau called it 'completely unacceptable'. Even if temporary openings are needed for construction, remedial measures such as adding waterproof boards or fire‑resistant insulation must be used to meet the basic fire‑ and smoke‑protection requirements; otherwise evacuees could be suffocated"
-
-> **Evidence [E]: The "Missing" Steel Frames**
-> *Source: The Collective HK (集誌社) / 2025-12-05*
->
-> "宏泰閣... 在 5 樓 、10樓、15 樓、20 樓、25 樓，亦**未能見到「日」字型的窗框**..."
->
-> *Translation:*
-> "Wang Tai House... on floors 5, 10, 15, 20, 25, **the box‑grid [stainless steel] window frames were not visible**..."
-> *(Analysis: This contradicts the Nov 15 minutes approving the steel upgrade. Where did the money go?)*
-
-> **Evidence [F]: Death Toll in Wang Tai House**
-> *Source: Multiple*
->
-> "宏昌閣及宏泰閣，分別有70及82人喪生"
->
-> *Translation:*
-> "Wang Cheung Court and Wang Tai House...70 and 82 fatalities respectively"
-
-**¶ Statutory Basis:**
-
-*   **Requirement:** Protection of Required Staircases (Openings must have Fire Resistance Rating).
-*   **Provision:** [Code of Practice for Fire Safety in Buildings 2011](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf), Section C9.7 & [Building (Construction) Regulations, Section 35](https://www.elegislation.gov.hk/hk/cap123Q!en/s35?_lang=en).
-
-**📅 Timeline:**
-*   **2024-01-28:** Owners vote for HK$992k Fire Windows.
-*   **2024-11-15:** MC approves extra HK$297k for Steel Upgrade.
-*   **2025-11-26:** The Fire (Smoke enters via wooden boards).
-
-**🔗 Links:**
-*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火直擊走火樓梯漏洞密封窗疑變開窿)
-*   [Minutes EGM (Fire Rated Windows)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
-*   [Minutes 7 (Steel Frame)](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](2024-11-15%20第十二屆第七次會議紀錄.pdf)
-*   Deaths in Wang Tai House: [[1]](https://news.tvb.com/tc/local/69300a52ada134dbdf40370d/港澳-宏福苑五級火｜增至159死-絕大部分來自宏昌宏泰閣) [[2]](https://thecollectivehk.com/宏福苑五級火｜完成七廈搜索159-死-31失聯　宏泰、宏/) [[3]](https://www.hk01.com/突發/60300234/宏福苑大火災-159人死最細1歲-各廈死亡人數一文看清) [[4]](https://zh-yue.wikipedia.org/wiki/宏福苑大火) [[5]](https://www.ettoday.net/news/20251205/3078839.htm) [[6]](https://orientaldaily.on.cc/content/要聞港聞/odn-20251204-1204_00176_023/災廈完成搜索--宏昌宏泰最多人罹難) [[7]](https://hk.news.yahoo.com/share/69333abe-0f92-4c35-9745-938c8ac333a7) [[8]](https://www.stheadline.com/breaking-news/3523579/大埔宏福苑五級火死者分佈一覽-宏昌宏泰閣最嚴重-周一鳴部份單位發現骨頭仍有待檢驗) 
-
----
-
-### 🆔 [E-SAFETY-2024-06-27-01] The "Out of Stock" Hoax & The "Free Upgrade" Trap
+### 🆔 [E-CARTEL-2024-06-27-01] The "Out of Stock" Hoax & The "Free Upgrade" Trap
 
 **🚨 Significance:**
 
@@ -2669,6 +2436,156 @@ The combination of **Silent Alarms** + **Blinded Windows** meant that for many, 
 **🔗 Links:**
 *   [MP Weekly Report](https://www.mpweekly.com/culture/社會/宏福苑五級火-宏福苑災民-大埔-261264)
 *   [Medical Inspire Report](https://medicalinspire.com/posts/101902/大埔-宏福苑五級大火-親身剖白：警鐘無響、水喉無水……致命「發泡膠封窗」成死亡陷阱？)
+
+---
+
+### 🆔 [E-ADMIN-2024-07-22-01] The Questionnaire Trap: "Admit Liability or Withdraw"
+
+**🚨 Significance:**
+
+On July 19, 2024, facing a statutory petition from >5% of owners to convene an EGM to overthrow the MC, Chairman **Tang Kwok-kuen** (鄧國權) issued a "Survey" (Annex 3). Analysis reveals this document was not a tool for verification, but a **precision-engineered instrument of intimidation**.
+
+**1. The "Guilt Trap" (Question C):**
+The survey forced owners to accept a false premise: that exercising their rights would incur legal costs.
+*   *The Trap:* Owners were asked: *"Do you know you will be liable for legal costs and your data will be public?"*
+*   *The Options:* Only two choices were provided: "I knew when signing" or "I know now."
+*   *The Malice:* There was no option to say "I disagree." By ticking either box, the owner forcedly "confessed" to accepting liability, psychologically disarming them.
+
+**2. The "Ransom" Offer (Question D):**
+The final question offered a way out: *"If you withdraw, you do not need to bear legal responsibility."*
+*   *The Trade:* This explicitly links "silence" with "safety." It frames the statutory right to petition as a "crime" that can be forgiven only if the owner recants.
+
+**3. Weaponizing Privacy:**
+The threat that *"names and unit details will be publicly displayed"* exploits the owners' fear of doxxing. The Chairman used his position as the data controller to threaten the data subjects.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Liability Trap**
+> *Source: Wang Fuk MC Survey (Annex 3) / 2024-07-19*
+>
+> "**c)** ...如日後就是次事件引起訴訟... 雙方亦須**負上法律責任及相關訴訟費用**。
+> ☐ 本人在簽署時知道需負上有關責任
+> ☐ 本人現在才知道簽署需負上有關責任"
+>
+> *Translation:*
+> "**c)** ...If litigation arises... both parties must **bear legal liability and legal costs**.
+> ☐ I knew I had to bear this liability when signing.
+> ☐ I only know now that I have to bear this liability."
+
+> **Evidence [B]: The "Amnesty" Offer**
+> *Source: Wang Fuk MC Survey (Annex 3)*
+>
+> "**d)** ... ☐ 本人不需要召開業主大會，並撤回有關簽署 (**如撤回簽署則無須負上就簽署而引起的法律責任**)"
+>
+> *Translation:*
+> "**d)** ... ☐ I do not require an EGM and withdraw my signature (**If withdrawn, no need to bear legal liability arising from signing**)."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We have a fiduciary duty to warn owners of the potential consequences of their actions. Litigation involving the MC uses estate funds, and if the petition is legally flawed, the petitioners might be liable. We are ensuring informed consent, not intimidating. The 'withdrawal' option is simply an administrative mechanism for those who changed their minds."
+
+**The Logical Trap:**
+1.  **Creating the Risk:** The "risk of litigation" only exists because the **Chairman refuses to hold the meeting**. If he simply followed the Building Management Ordinance and convened the EGM, there would be no lawsuit and no costs. He is the arsonist warning people about the fire he plans to start.
+2.  **The "Liability" Lie:** Under the BMO, owners have an absolute right to petition (5% threshold). Exercising a statutory right does not carry "legal liability" unless the MC sues them maliciously. Framing a civil right as a liability risk is deception.
+3.  **The Timing:** Issuing this on the **14th day** (the statutory deadline to issue notice of meeting) proves it was a delaying tactic designed to frustrate the process, not a genuine verification exercise.
+
+**¶ Statutory Basis:**
+
+*   **Right:** Building Management Ordinance (Cap. 344), Schedule 3.
+*   **Context:** Obstruction of owners' rights.
+
+**📅 Timeline:**
+*   **2024-07-05:** >5% Owners submit petition for EGM.
+*   **2024-07-22:** Chairman issues "Intimidation Survey."
+
+**🔗 Links:**
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39dGZQq6rQEvA)
+
+---
+
+### 🆔 [E-ADMIN-2024-07-31-01] The Illegal Delay: How the Chairman Ignored Statutory Deadlines to Crush Dissent
+
+**🚨 Significance:**
+
+Official records prove that MC Chairman **Tang Kwok-kuen** systematically violated the Building Management Ordinance (BMO) to obstruct a legitimate owners' petition. Upon receiving a 5% petition on July 5, 2024, the law required him to issue a notice of meeting by **July 19** (14 days) and hold the meeting by **Aug 19** (45 days). He missed both deadlines willfully.
+
+**1. The "Decoy" Survey (July 19):**
+On the deadline to convene the meeting, the Chairman instead issued a "General Opinion Survey" to all residents.
+*   *The Tactic:* This survey produced a "76% opposition" figure (based on a low 24% response rate). The Chairman used this manufactured "Majority Opinion" to delegitimize the statutory right of the 5% minority, treating a legal obligation as a popularity contest.
+
+**2. The Late "Intimidation" (July 22):**
+The targeted "Verification Letter" (threatening legal liability) was sent to signatories on **July 22**—**3 days after the statutory deadline**.
+*   *The Violation:* By delaying the verification until *after* the convening deadline passed, the Chairman acted ultra vires (beyond his powers). Even after this intimidation caused some to withdraw, **130 owners** (approx. 6.5%) stood firm—still satisfying the 5% threshold.
+
+**3. The 45-Day Breach:**
+The meeting was finally scheduled for **Sept 6**—**63 days** after the petition.
+*   *The Illegality:* This blatantly violated the 45-day statutory limit (Aug 19). The delay allowed the MC to consolidate power, sign contracts, and let the "anti-dissent" sentiment fester.
+
+**4. Management as Enforcer:**
+When residents attempted to organize on July 23, Security guards (managed by **ISS**) called the police. This confirms that the Management Company actively collaborated with the MC to suppress residents' rights.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Statutory Breach (Dates)**
+> *Source: 12th MC Meeting Minutes (No. 3) / 2024-08-05*
+>
+> "鄧主席報告在 2024 年 **7 月 5 日**收到... 5%... 簽名文件... 鄧主席於 **7 月 22 日**向... 簽名人士發出確認信件。"
+>
+> *Translation:*
+> "Chairman Tang received the 5% petition on **July 5**. Chairman sent confirmation letters on **July 22**."
+> *(Analysis: 14-day deadline expired on July 19. Action was late.)*
+
+> **Evidence [B]: The "Decoy" Survey Result**
+> *Source: 12th MC Meeting Minutes (No. 3)*
+>
+> "法團於 7 月 19 日向全苑發出問卷調查... **76% 反對** 5%以上業主要求罷免管委會..."
+>
+> *Translation:*
+> "MC issued survey on July 19... **76% opposed** the request to recall the MC..."
+
+> **Evidence [C]: The Threshold Met Despite Tactics**
+> *Source: 12th MC Meeting Minutes (No. 3)*
+>
+> "截至 7 月 31 日... 當中 **130 個業主**表示要求召開大會..."
+>
+> *Translation:*
+> "As of July 31... **130 owners** confirmed the request for the meeting..."
+> *(Note: 130 > 5% of 1984. The tactic failed to drop numbers below legal threshold.)*
+
+> **Evidence [D]: Police Called on Residents**
+> *Source: Yahoo News / 2024-07-24*
+>
+> "逾 200 名居民周二晚（23 日）開會後... 將有關通告放入住戶信箱，但隨即有**保安報警**...有業主指，本月派發 3 次通告，有 2 次都遭管理處報警阻止。"
+>
+> *Translation:*
+> "Over 200 residents met on Tuesday (23rd)... put notices in mailboxes, but **security immediately called the police**...A resident says three notices were issued this month, and **on two occasions** the management office called the police to stop them."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We needed time to verify signatures to ensure the petition was valid (some *were* withdrawn). Finding a suitable venue for a large-scale meeting is difficult; the Community Hall was full. We acted in good faith to facilitate the meeting as soon as a venue (school) was available. Calling police was standard protocol for 'unauthorized distribution' or 'gathering' to maintain order."
+
+**The Logical Trap:**
+1.  **Verification is not an Excuse for Delay:** The BMO does not grant a "time-out" for verification. If the Chairman suspected fraud, he should have convened the meeting and challenged the validity *at* the meeting. Delaying the *notice* beyond 14 days is illegal, regardless of the excuse.
+2.  **Venue Availability:** If the Community Hall was full, why wait until Sept 6? Schools and private venues are available in July/August. The 18-day delay beyond the 45-day limit (Aug 19 to Sept 6) is excessive and unexplained, suggesting deliberate stalling.
+3.  **Policing vs. Managing:** Residents putting notices in *their own* neighbors' mailboxes is a basic right of communication within a private estate. Treating this as a "police matter" reveals a **hostile management style** aimed at silencing opposition, not maintaining order.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Building Management Ordinance (Cap. 344), Schedule 3, Para 1 (14-day & 45-day rule).
+
+**📅 Timeline:**
+*   **2024-07-05:** Petition submitted (Day 0).
+*   **2024-07-19:** 14-Day Deadline passed. MC issues "Decoy Survey."
+*   **2024-07-22:** MC issues "Intimidation Letter" (Late).
+*   **2024-07-23:** Residents organize; Security calls Police.
+*   **2024-08-19:** 45-Day Deadline passed. No meeting held.
+*   **2024-09-06:** Meeting finally held (Day 63).
+
+**🔗 Links:**
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39d6ff3)
+*   [Minute 3](http://www.wangfuk.org/html/meeting/12/第3次全體委員會議紀錄v1.pdf)
 
 ---
 
@@ -3293,6 +3210,51 @@ Residents were forced to live in sealed, air-conditioner-less units (due to remo
 
 ---
 
+### 🆔 [E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling
+
+**🚨 Significance:**
+
+Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-safety tender despite two glaring errors in the document — listing the contractors as "Lift Contractors" and misclassifying the HK$144,170 repair fee as a "Monthly Fee" — revealing a decision-making process that may not have received even basic scrutiny and raising serious doubts about the MC’s capacity to oversee critical building safety matters.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Absurd Approval**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10) 商討及議決消防設備執修事宜**
+> "**10.1** ...共收到有 4 間註冊**升降機承辦商**回覆報價... 詳情如下：
+>
+> | 承辦商 | **每月費用** |
+> | :---: | :---: |
+> | 宏泰消防工程有限公司 | **$144,170** |
+> (...)"
+>
+> *Translation:*
+> **10) Discussion and resolution on fire equipment rectification**
+> "**10.1** ...received quotes from 4 registered **Lift Contractors**... Details as follows:
+> | Contractor | **Monthly Fee** |
+> | :---: | :---: |
+> | Victory Fire Engineering Ltd. | **$144,170** |"
+
+> **Evidence [B]: The Belated Correction (2 Months Later)**
+> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
+>
+> **2.1**
+> "有關 10.1 項：共收到有 4 間註冊升降機承辦商回覆報價，更正為共收到有 4 間**消防承辦商**回覆報價。另將每月費用**刪除每月兩字**。 (全體知悉)"
+>
+> *Translation:*
+> **2.1**
+> "Regarding Item 10.1: 'received quotes from 4 registered Lift Contractors' is corrected to 'received quotes from 4 registered **Fire Contractors**'. Also, for the monthly fee, **delete the word 'Monthly'**. (All noted)"
+
+**📅 Date:** 2025-09-29 (Error Committed) | 2025-11-07 (Error Admitted)
+
+**🔗 Links:**
+*   [Minutes 12 (The Error)](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes 13 (The Correction)](http://www.wangfuk.org/html/meeting/12/2025-11-7%20%E7%AC%AC13%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-11-07%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Full Archive](MINUTES_MARKDOWN.md)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$589 per Victim & The 5% Decoy
 
 **🚨 Significance:**
@@ -3611,6 +3573,44 @@ In **Fortress Garden** (Fortress Hill) and **Yee Lok Garden** (Tuen Mun)—proje
 **🔗 Links:**
 *   [HK01 Investigation (Beijing Fake)](https://www.hk01.com/01偵查/60299456)
 *   [HK01 Investigation (Binzhou Ghost)](https://www.hk01.com/社會新聞/60298792)
+
+---
+
+### 🆔 [E-ADMIN-2025-12-04-01] The Chairman's fatal ignorance on safety status
+
+**🚨 Significance:**
+
+On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Admission of Ignorance**
+> *Source: Now News / 2025-12-04*
+>
+> "本台向業主立案法團主席徐滿柑查詢，他表示**不清楚該次的消防執修工程是否已經完成**。"
+>
+> *Translation:*
+> "Now News enquired with MC Chairman **Tsui Moon-kam**, who stated he **was unclear whether that specific fire rectification work had been completed.**"
+
+> **Evidence [B]: The Project He Approved**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10.3**
+> "經商議後，徐主席動議由最低報價的「宏泰消防工程有限公司」進行消防設備執修工作，各委員一致贊成通過。"
+>
+> *Translation:*
+> "After discussion, **Chairman Tsui moved** to have the lowest bidder, 'Victory Fire Engineering', conduct the fire equipment rectification works; all members unanimously approved."
+
+> **Evidence [C]: The Project Timeline**
+> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
+>
+> *Note: Just 19 days before the fire, the minutes were amended regarding this specific project (correcting the "Lift/Monthly" error), proving the project was fresh on the agenda.*
+
+**📅 Date:** 2025-12-04
+
+**🔗 Links:**
+*   [Now News Report](https://news.now.com/home/local/player?newsId=628390)
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](MINUTES_MARKDOWN.md)
 
 ---
 
