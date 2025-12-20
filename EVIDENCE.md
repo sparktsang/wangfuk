@@ -1765,7 +1765,7 @@ The Consultant selects the cartel's contractor. The Contractor's job is to extra
 
 **The Logical Trap:**
 1.  **The "Pattern Match" Proof:** In criminology, if a specific crime scene (Wang Fuk) matches every unique characteristic of a known criminal *modus operandi* (The Cartel Blueprint)—including the specific roles of the PM, the rigged voting, the lawyer letters, and the [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)—the probability of coincidence is statistically negligible.
-2.  **The Missing 17%:** As established in [**[E-CARTEL-2010-12-31-01]**](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill), the 17% bribe (including the Chairman's 10%) creates a financial hole that must be filled by cutting costs. The "Missing Money" manifests physically as **Fake Nets** and **Styrofoam**. The 160 bodies are the physical evidence of the kickback.
+2.  **The Missing 17%:** As [established previously](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill), the 17% bribe (including the Chairman's 10%) creates a financial hole that must be filled by cutting costs. The "Missing Money" manifests physically as **Fake Nets** and **Styrofoam**. The 160 bodies are the physical evidence of the kickback.
 3.  **Volunteer vs. Mercenary:** Volunteers do not fight tooth and nail to push through a specific contractor against the will of residents, nor do they use legal threats to stay in power. The intensity of the Chairman's defense of the project correlates directly with the HK$33M incentive, not with "community service."
 
 **🔗 Links:**
