@@ -244,7 +244,7 @@ The turning point was the arrest of Alliance leaders like **Lam Cheuk-ting** (20
 > *Translation:*
 > "Lam Cheuk-ting... and 16 others reportedly arrested early this morning..."
 
-> **Evidence [G]: The Void (W's Observation)**
+> **Evidence [H]: The Void (W's Observation)**
 > *Source: Ming Pao (Interview with W) / 2025-12-07*
 >
 > "近5年，「混亂期」漸漸沒入充滿無力感的沉寂階段——許多人努力過卻失敗，記者、市民都監察不了。"
