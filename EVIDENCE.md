@@ -719,7 +719,7 @@ The termination of the Garden Vista investigation, despite "knowing the facts" (
 
 Investigative reporting confirms that the Consultant fee charged by **Will Power (鴻毅)** was mathematically impossible for a legitimate business. For a 4-year engagement overseeing a HK$330 million project, Will Power charged only **HK$308,000**—approx. **0.09%** of the project value, equilavant to HK$6,875/month. 
 
-**1. The Market Benchmark (The 65x Gap):**
+**1. The Market Benchmark:**
 *   **Surveyor's Institute Standard:** For a project of this scale, reasonable fees should be **3-6%** (approx. **HK$9M - HK$20M**).
 *   **The Reality:** Will Power charged **<3.33%** of the market rate.
 *   *The Verdict:* Expert Ho Kui-yip (何鉅業) states it is "impossible" to cover basic manpower costs (even for a security guard) with this fee. This is not a "bargain"; it is a **Trojan Horse**.
