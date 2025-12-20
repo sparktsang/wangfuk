@@ -629,7 +629,7 @@ The termination of the Garden Vista investigation, despite "knowing the facts" (
 **The Logical Trap:**
 1.  **The "Corroboration" Failure:** In a project worth HK$262M, with a 17% bribe, the money had to go somewhere. Failing to find a money trail in years of investigation suggests either **forensic incompetence** or that the legal framework for "Money Laundering" is too weak to catch construction cartels.
 2.  **The Structural Flaw:** If the law requires "proof beyond reasonable doubt" for *secret agreements* made at private dinners, then bid-rigging is effectively **legal** as long as participants don't record it. This legal standard is incompatible with the reality of organized crime.
-3.  **The Resulting Carnage:** The "Rule of Law" excuse rings hollow when the result of *not* prosecuting is the proliferation of cartels that eventually leads to the **Wang Fuk Court fire (160 dead)**. The failure to stop the Garden Vista gang directly enabled the ecosystem that killed people in 2025.
+3.  **The Resulting Carnage:** The "Rule of Law" excuse rings hollow when the result of *not* prosecuting is the proliferation of cartels that eventually leads to the **Wang Fuk Court fire (161 dead)**. The failure to stop the Garden Vista gang directly enabled the ecosystem that killed people in 2025.
 
 **¶ Statutory Basis:**
 
@@ -783,7 +783,7 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 *   **2015-2019:** FactWire & Alliance active; Bid-rigging exposed.
 *   **2020-2022:** Crackdown. Media closed, Activists jailed.
 *   **2024-01-28:** Wang Fuk Tender (No independent oversight).
-*   **2025-11-26:** Wang Fuk Fire (160 Dead).
+*   **2025-11-26:** Wang Fuk Fire (161 Dead).
 
 **🔗 Links:**
 *   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
@@ -1607,7 +1607,7 @@ Analysis suggests that while ~95% of *physically present* owners appeared to opp
 **The Logical Trap:**
 1.  **The "Late Arrival" Physics:** Registering 271 households in 25 minutes requires processing **10 households per minute**. Unless there were 10 registration counters working non-stop with zero friction, this physical throughput is highly suspicious. It suggests a "bulk processing" of pre-collected forms, not individual arrivals.
 2.  **The "Unusual" Pattern:** Why would 45 owners entrust their vote to a single "Mystery Mouse" who arrives *late*? This pattern—concentration of power in unknown hands + strategic timing—is the hallmark of **Vote Warehousing**, not organic participation.
-3.  **The Resulting Tragedy:** Whether "legal" or not, this voting mechanism produced a contractor (Prestige) who used fake materials, fake certificates, and ignored safety laws, leading to 160 deaths. The "Legality" of the vote does not absolve the **Immorality** of the outcome.
+3.  **The Resulting Tragedy:** Whether "legal" or not, this voting mechanism produced a contractor (Prestige) who used fake materials, fake certificates, and ignored safety laws, leading to 161 deaths. The "Legality" of the vote does not absolve the **Immorality** of the outcome.
 
 **¶ Statutory Basis:**
 
@@ -1765,7 +1765,7 @@ The Consultant selects the cartel's contractor. The Contractor's job is to extra
 
 **The Logical Trap:**
 1.  **The "Pattern Match" Proof:** In criminology, if a specific crime scene (Wang Fuk) matches every unique characteristic of a known criminal *modus operandi* (The Cartel Blueprint)—including the specific roles of the PM, the rigged voting, the lawyer letters, and the [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)—the probability of coincidence is statistically negligible.
-2.  **The Missing 17%:** As [established previously](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill), the 17% bribe (including the Chairman's 10%) creates a financial hole that must be filled by cutting costs. The "Missing Money" manifests physically as **Fake Nets** and **Styrofoam**. The 160 bodies are the physical evidence of the kickback.
+2.  **The Missing 17%:** As [established previously](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill), the 17% bribe (including the Chairman's 10%) creates a financial hole that must be filled by cutting costs. The "Missing Money" manifests physically as **Fake Nets** and **Styrofoam**. The 161 bodies are the physical evidence of the kickback.
 3.  **Volunteer vs. Mercenary:** Volunteers do not fight tooth and nail to push through a specific contractor against the will of residents, nor do they use legal threats to stay in power. The intensity of the Chairman's defense of the project correlates directly with the HK$33M incentive, not with "community service."
 
 **🔗 Links:**
@@ -2508,7 +2508,7 @@ The Government confirmed post-fire that the material was "flammable." Yet, this 
 
 **🚨 Significance:**
 
-Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-160-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
+Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-161-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
 
 **1. The "One Hour" Delay:**
 Mr. Wong, a survivor, was working from home. He heard no alarm. When a friend called to warn him, he tried to check outside but **"could not see"** because the windows were sealed with Styrofoam.
@@ -3194,7 +3194,7 @@ To deceive inspectors, contractors installed compliant nets (HK$100/roll) only a
 *   **Cost to do it right:** HK$230,000 (if all 2,300 rolls were compliant).
 *   **Cost to cheat:** HK$135,700 (2,300 cheap rolls + 115 decoy rolls).
 *   **The Profit:** **HK$94,300**.
-*   **The Human Toll:** 160 deaths.
+*   **The Human Toll:** 161 deaths.
 *   **The Unit Price of Death:** The contractors effectively valued each human life at **HK$589**.
 
 **3. Premeditation:**
@@ -4318,7 +4318,7 @@ When asked *what* they actually checked during that surprise inspection, the Lab
 
 ---
 
-### 🆔 [E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 160 Lives
+### 🆔 [E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 161 Lives
 
 **🚨 Significance:**
 
@@ -4333,7 +4333,7 @@ Fire Safety Consultant Leung Kam-tak (梁錦得) stated it is statistically impo
 
 **3. The Legal Impotence:**
 While the contractors face charges for False Declarations, the maximum penalty is only **imprisonment for 2 years** and a fine. Recent cases show sentences as light as **2 months imprisonment** or **3 months suspended sentence**.
-*   *The Absurdity:* Lying about a critical safety system that contributed to 160 deaths carries a lighter maximum sentence than many minor theft offenses.
+*   *The Absurdity:* Lying about a critical safety system that contributed to 161 deaths carries a lighter maximum sentence than many minor theft offenses.
 
 **4. The Defense:**
 Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied involvement, stating the arrested individuals were not their staff. This points suspicion towards the sub-contractors under the General Contractor (**Prestige/宏業**).
@@ -4615,7 +4615,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 
 **📅 Timeline:**
 *   **Before 2024-04-16:** Residents submit documents. ICAC says "No File"/"No Evidence".
-*   **2025-11-26:** Fire kills 160.
+*   **2025-11-26:** Fire kills 161.
 *   **2025-11-28:** ICAC arrests 8 suspects based on "corruption".
 *   **2025-11-29:** ICAC arrests 3 more.
 
