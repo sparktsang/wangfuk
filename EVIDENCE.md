@@ -201,7 +201,7 @@ The academic paper notes that this 17% is *"on top of the likely inflated prices
 
 **3. The "Dinner Table" Syndicate:**
 Yau's testimony described a dinner where the **MC Chairman**, **Management Company Director**, **Consultant**, and **Contractor** all sat together to fix the bid.
-*   *The System:* This proves that bid-rigging is not a rogue act by one party, but a coordinated operation by a "Syndicate": the alignment of the **MC (Voting)**, **Consultant (Scoring)**, **Contractor (Pricing)**, and **Management Co. (Alarm Silence)**.
+*   *The System:* This proves that bid-rigging is not a rogue act by one party, but a coordinated operation by a "Syndicate": the alignment of the **MC (Voting)**, **Consultant (Scoring)**, **Contractor (Pricing)**, and **Management Co. (Vanguard)**.
 
 **📜 Original Record:**
 
@@ -240,7 +240,7 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 *   **Late 2010:** Garden Vista bid-rigging (17% bribe).
 *   **2016-09-29:** Yau Shui-tin convicted; exposes the "Syndicate Model."
 *   **2022-05-05:** Academic paper confirms bid-rigging increased *after* regulations.
-*   **2024-01-28:** Wang Fuk tender exhibits identical statistical anomalies.
+*   **2024-01-28:** Wang Fuk tender.
 
 **🔗 Links:**
 *   [InMediaHK Report on Yau Shui Tin](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
