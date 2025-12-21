@@ -47,7 +47,7 @@
 45. [[E-SAFETY-WINDOWS-2025-06-21-01] The Paper Deadline: How a "Completed" Project Remained a Fire Trap for 5 More Months](#-e-safety-windows-2025-06-21-01-the-paper-deadline-how-a-completed-project-remained-a-fire-trap-for-5-more-months)  
 46. [[E-SAFETY-2025-07-17-01] The "Hostage" Strategy: How Payment Disputes Extended the Danger Zone](#-e-safety-2025-07-17-01-the-hostage-strategy-how-payment-disputes-extended-the-danger-zone)  
 47. [[E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling)  
-48. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$586 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)  
+48. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$586 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy)  
 49. [[E-SAFETY-2025-10-19-01] The Prophecy of Doom: How Wang Fuk Court Ticked Every Box on the "Death Checklist"](#-e-safety-2025-10-19-01-the-prophecy-of-doom-how-wang-fuk-court-ticked-every-box-on-the-death-checklist)  
 50. [[E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance](#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)  
 51. [[E-SAFETY-WINDOWS-2025-11-26-01] The Inverted Logic: Why Taking the Elevator Saved Lives and Stairs Killed](#-e-safety-windows-2025-11-26-01-the-inverted-logic-why-taking-the-elevator-saved-lives-and-stairs-killed)  
@@ -233,7 +233,7 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 **The Logical Trap:**
 1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
 2.  **The "Same Script" pattern:** The pattern at Wang Fuk (inflated price, rigged voting, suppressed dissent) is functionally identical to Garden Vista. The only difference is the scale (Wang Fuk is even bigger).
-3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$586 per victim](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
+3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$586 per victim](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
 
 **¶ Statutory Basis:**
 
@@ -357,7 +357,7 @@ A veteran journalist's memoir reveals that the "Wang Fuk Pattern" is not new; it
 **1. The "Blueprint" was ready in 2012:**
 The memoir describes the first cases in 2012:
 *   **Procedural Rigging:** "Surface compliance, actual betrayal of professional duty." (Directly parallels the Will Power case).
-*   **Material Fraud:** "Hollow tiles, materials deviating from tender." (Directly parallels the [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) and [fake foam](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)).
+*   **Material Fraud:** "Hollow tiles, materials deviating from tender." (Directly parallels the [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) and [fake foam](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)).
 *   **The Verdict:** The cartel didn't need to invent new tricks for Wang Fuk; they simply executed a 13-year-old script that the government never bothered to fix.
 
 **2. The Evolution of Violence:**
@@ -2392,7 +2392,7 @@ Lawyers are weaponized. Paid by the estate's funds, they serve only the Chairman
 
 **4. The "Executioners" (Consultant & Contractor):**
 The Consultant selects the cartel's contractor. The Contractor's job is to extract profit via "sky-high prices" or "substandard materials" (swapping methods).
-*   *The Mechanism:* W notes that if profit-sharing is uneven or subcontractors are squeezed, they resort to extreme corner-cutting. This explains the [**Fake Nets**](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) and [**Styrofoam**](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)—the final, lethal cost-saving measure.
+*   *The Mechanism:* W notes that if profit-sharing is uneven or subcontractors are squeezed, they resort to extreme corner-cutting. This explains the [**Fake Nets**](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) and [**Styrofoam**](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)—the final, lethal cost-saving measure.
 
 **📜 Original Record:**
 
@@ -3779,7 +3779,7 @@ Following the Central fire on Oct 18, 2025, the Construction Industry Council (C
 
 **1. The "Checklist of Death":**
 The CIC warning explicitly flagged:
-*   **Risk 1:** [Non-flame-retardant nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy).
+*   **Risk 1:** [Non-flame-retardant nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy).
 *   **Risk 2 & 4:** Sparks from hot works / Smoking workers. (The Prime Suspects for ignition).
 *   **Risk 3:** Improper storage of [flammable materials](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam).
 *   **Risk 6:** Faulty/Incomplete [fire service systems](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble).
@@ -4776,7 +4776,7 @@ The Labour Department (LD) conducted **16 inspections** between July 2024 and No
 
 **1. The "Audit by Paper" Loophole:**
 The LD confirmed their inspection method involved "checking the Product Quality Certificates".
-*   *The Trick:* As [exposed](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
+*   *The Trick:* As [exposed](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
 *   *The Failure:* Inspectors accepted these certificates as proof for the *entire* site. They did not conduct on-site combustion tests, allowing 2,300 rolls of fake nets to hide behind a single piece of paper.
 
 **2. Industry Verdict: "Certificates are Waste Paper":**
@@ -4828,7 +4828,7 @@ Residents acted as the city's "nerve endings," screaming about the danger for mo
 
 **1. The "Two-Color" Smoking Gun:**
 In October, residents reported that the nets had **two different colors** (Deep Green vs. Light Green) and were fragile.
-*   *The Link:* This visual discrepancy  matches the later [ICAC finding](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
+*   *The Link:* This visual discrepancy  matches the later [ICAC finding](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
 *   *The Failure:* ICU and LD inspectors visited the site but ignored this glaring visual cue. A "surprise inspection" that misses a two-tone color difference indicating mixed batches is not an inspection; it is "industrial tourism."
 
 **2. The "Central Fire" Warning:**
