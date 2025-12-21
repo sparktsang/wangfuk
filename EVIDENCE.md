@@ -1095,6 +1095,83 @@ State media (**People's Daily**) exposed this exact "No Sample" industry back in
 
 ---
 
+### 🆔 [E-CARTEL-2021-07-18-01] The "Price Anchor": How a Questionnaire was Rigged to Justify the Low-Ball Consultant
+
+**🚨 Significance:**
+
+Meeting records reveal that the MC, led by Chairman **Tang Kwok-kuen** (鄧國權) and Advisor **Chan Kau-keung** (陳球強), engineered a questionnaire in July 2021 which effectively manipulated owner expectations. By the time the survey was issued, the MC *already knew* (from the Jan 2020 tender opening) that **Will Power (鴻毅)** had bid HK$308,000. It is possible that the survey questions were specifically designed to validate this low price, creating a false mandate for selecting a predatory consultant.
+
+**1. The "Anchoring" Trap:**
+*   **The Knowledge:** The MC knew Will Power's bid was **HK$308,000**.
+*   **The Question:** "Which fee range do you consider reasonable?"
+*   **The Options:** The first option was **"Less than HK$400,000."**
+*   *The Tactic:* By setting the lowest bracket at <400k (matching Will Power's bid), the MC psychologically anchored owners to this price point. Uninformed owners, naturally preferring lower costs, selected this option (38.8%), unknowingly endorsing a fee that experts confirm is [**economically impossible**](#-e-cartel-2020-01-20-01-the-97-discount-why-a-hk300k-fee-for-a-hk330m-job-proves-corruption) for legitimate service.
+
+**2. The Omission of Quality:**
+The survey asked about price but conspicuously **omitted** questions about quality assurance, such as: "Should the consultant have zero litigation records?" or "Should the consultant have no history of abandoned projects?"
+*   *The Result:* This framed the selection criteria solely around "Cheapness," diverting attention from "Competence" and "Safety," paving the way for the selection of a low-quality but compliant cartel partner.
+
+**3. The Insider Design:**
+The survey was drafted by the "Publicity & PR Group," led by Chairman Tang himself, with Advisor Chan as a member.
+*   *The Conflict:* The people steering the tender (and potentially the cartel) were the same people writing the questions to the voters. This closed loop ensured the "Public Opinion" match the "Private Agenda."
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Foreknowledge (Tender Opening)**  
+> *Source: Herman Yiu FB Post / 2020-01-23*
+>
+> "開標日期：**2020-01-20**... 12. 鴻毅建築師有限公司 | **308,000**"
+>
+> *Translation:*
+> "Tender Opening Date: **Jan 20, 2020**... Will Power | **HK$308,000**"
+
+> **Evidence [B]: The "Anchoring" Question**  
+> *Source: 11th MC Meeting Minutes (No. 6) / 2021-08-09*
+>
+> "7. 您認為招聘監督修葺顧問公司的費用那一組較為合理？
+> **少於$400,000** | **38.8%**"
+>
+> *Translation:*
+> "7. Which fee range do you consider reasonable?
+> **Less than HK$400,000** | **38.8%**"
+
+> **Evidence [C]: The "Insider" Authors**  
+> *Source: 11th MC Meeting Minutes (No. 5) / 2021-06-28*
+>
+> "列 席：法團顧問 — 陳球強先生"
+> "8.4 陳顧問...建議...透過以問卷形式諮詢文件發佈，減低日後可能出現不必要的紛爭情況。"
+> "9.1 鄧主席報告將委派文書宣傳及公關組負責有關諮詢文件"
+> "10.1 [文書宣傳及公關組]組長：鄧國權... 組員：陳球強..."
+>
+> *Translation:*
+> "Attendant: Consultant of the Incorporated Owners — Mr. Chan Kau-keung"
+> "8.4 Consultant Chan... suggested... issuing questionnaires to reduce future disputes."
+> "9.1 Chairman Tang reported the Publicity & PR Group will handle the consultation"
+> "10.1 Group Leader: **Tang Kwok-kuen**... Member: **Chan Kau-keung**..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We conducted the survey to understand owners' budget expectations. The ranges were set based on the bids received to reflect market reality. We cannot be blamed if owners prefer lower costs. The survey was non-binding and intended for reference only. We followed the owners' wish to save money."
+
+**The Logical Trap:**
+1.  **Market Reality vs. Market Distortion:** The "market reality" the MC reflected was a [**rigged market**](#-e-cartel-2012-06-30-01-the-mbis-premium-how-government-policy-inflated-prices-by-50) flooded with predatory bids. By validating the bottom-feeder price range (<400k) without warning owners about the risks of "Loss Leader" tactics (corruption/corner-cutting), the MC failed its fiduciary duty.
+2.  **Informed Consent:** Owners were asked to choose a price without knowing what that price buys. If the question was: *"Do you prefer paying <400k for a consultant who might approve fake safety nets, or >2M for thorough supervision?"*, the result would be different. The survey manufactured consent for negligence.
+3.  **The "Reference" Excuse:** While non-binding, the survey results were used to justify the final selection. It provided the "moral cover" to pick Will Power despite the obvious red flags of such a low fee.
+
+**📅 Timeline:**
+*   **2020-01-20:** Tender Opening. MC knows Will Power bid 308k — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   **2021-06-28:** Tang & Chan form group to draft survey — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
+*   **2021-07-18:** Survey issued with "<400k" option — [minutes]((http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf))
+*   **2021-08-09:** Survey results confirm "mandate" for low price — [minutes]((http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf))
+*   **2021-12-11:** Will Power selected — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+
+**🔗 Links:**
+*   [Minutes 5](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
+*   [Minutes 6](http://www.wangfuk.org/html/meeting/05/第6次全體委員會議記錄v2.pdf)
+
+---
+
 ### 🆔 [E-CARTEL-2022-05-05-01] The Mathematical Fingerprint: Academic Proof of Prestige's Bid-Rigging
 
 **🚨 Significance:**
