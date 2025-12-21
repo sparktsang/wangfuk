@@ -1162,8 +1162,8 @@ The survey was drafted by the "Publicity & PR Group," led by Chairman Tang himse
 **📅 Timeline:**
 *   **2020-01-20:** Tender Opening. MC knows Will Power bid 308k — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
 *   **2021-06-28:** Tang & Chan form group to draft survey — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
-*   **2021-07-18:** Survey issued with "<400k" option — [minutes]((http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf))
-*   **2021-08-09:** Survey results confirm "mandate" for low price — [minutes]((http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf))
+*   **2021-07-18:** Survey issued with "<400k" option — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
+*   **2021-08-09:** Survey results confirm "mandate" for low price — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **2021-12-11:** Will Power selected — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
 
 **🔗 Links:**
