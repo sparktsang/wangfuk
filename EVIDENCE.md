@@ -339,9 +339,9 @@ The study finds that price increases are *more pronounced* in districts with hig
 3.  **The "Smart Tender" Failure:** Wang Fuk *used* the "Smart Tender" system. The fact that Prestige still won with a rigged score proves that the "current regulations" cited as a defense are completely ineffective against sophisticated cartels.
 
 **📅 Timeline:**
-*   **2012-06-30:** MBIS implementation.
+*   **2012-06-30:** MBIS implementation — [source](https://www.info.gov.hk/gia/general/201206/29/P201206290429.htm)
 *   **2013-Present:** Structural price inflation of >50% becomes market norm.
-*   **2024-10-02:** Wang Fuk pays the "Cartel Premium."
+*   **2024-10-02:** Wang Fuk pays the "Cartel Premium" — [minutes](MINUTES_MARKDOWN.md#2024-09-21-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%94%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 **🔗 Links:**
 *   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
@@ -410,7 +410,7 @@ The policy of mandating inspections for "2,000 buildings per year" created a mas
 *   **Context:** Historical evolution of organized crime in construction.
 
 **📅 Timeline:**
-*   **2011:** MBIS Launch.
+*   **2011:** MBIS Launch — [report](https://www.info.gov.hk/gia/general/201206/13/P201206130431.htm)
 *   **2012:** Early cartel cases (Violence/Knives).
 *   **2016:** Smart Tender launched (The failed fix).
 *   **2024:** Wang Fuk Tender (Smart Tender used).
@@ -553,7 +553,7 @@ The data exposes a clear strategy: Win the maintenance contract with an absurdly
 
 **📅 Timeline:**
 *   **2016-2021:** The "$3,200 Era" (Fictitious Inspections).
-*   **2021-08:** The $298,000 Repair Bill.
+*   **2021-08-09:** The $298,000 Repair Bill — [minutes](http://www.wangfuk.org/html/meeting/05/第6次全體委員會議記錄v2.pdf)
 *   **2025-11-28:** Post-fire revelation of system-wide failure.
 
 **🔗 Links:**
@@ -707,7 +707,7 @@ The termination of the Garden Vista investigation, despite "knowing the facts" (
 *   **Outcome:** Selective Prosecution.
 
 **📅 Timeline:**
-*   **Nov 2013:** Garden Vista bid-rigging exposed.
+*   **2013-10-12:** Garden Vista bid-rigging exposed — [archive](https://www.facebook.com/share/17WHQjNsY5/)
 *   **2016-09-29:** Yau Shui-tin jailed (35 months).
 *   **Mid 2018:** ICAC/DOJ drops case against masterminds.
 *   **2021-2024:** Wang Fuk cartel operates with impunity.
@@ -792,14 +792,12 @@ When the Management Company asked the **Urban Renewal Authority (URA)** for pric
 **📅 Timeline:**
 *   **2018-09-26:** Tender deadline for Inspection — [source](http://www.wangfuk.org/html/meeting/05/第十屆-第7次全體委員會議記錄.pdf)
 *   **2018-09-27:** Tender opens — [source](http://www.wangfuk.org/html/meeting/05/第八次全體委員會議記錄.pdf)
-*   **2019-01-25:** Will Power wins with HK$222k.
-*   **2019-12-27:** Inspection complete; Will Power defines repair scope.
-*   **2021-12-11:** Will Power wins Consultant contract (HK$308k).
-*   **2024-01-28:** Renovation awarded to Prestige (HK$330M).
+*   **2019-01-25:** Will Power wins with HK$222k — [minutes](http://www.wangfuk.org/html/meeting/03/第21次全體業主大會(周年大會)會議記錄.pdf)
+*   **2019-12-27:** Inspection complete; Will Power defines repair scope — [minutes](http://www.wangfuk.org/html/meeting/05/第十屆-第16次全體委員會議記錄.pdf)
+*   **2021-12-11:** Will Power wins Consultant contract (HK$308k) — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+*   **2024-01-28:** Renovation awarded to Prestige (HK$330M) — [archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 **🔗 Links:**
-*   [2019 AGM Minutes](http://www.wangfuk.org/html/meeting/03/第21次全體業主大會(周年大會)會議記錄.pdf)
-*   [Minutes 16](http://www.wangfuk.org/html/meeting/05/第十屆-第16次全體委員會議記錄.pdf)
 *   [Yahoo News Analysis](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
 
 ---
@@ -1021,14 +1019,13 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 3.  **The "Safe Choice" Fallacy:** The MC picked Will Power because it seemed "safer" than the bottom-feeders. But Will Power used the same tactics (disclaimers, fake scores). The system offered owners a choice between "Open Corruption" (Paul Kong) and "Hidden Corruption" (Will Power). There was no honest option on the menu.
 
 **📅 Timeline:**
-*   **Feb 2016:** Paul Kong / Lee Cheong scandal (Abandoned projects).
-*   **2020-01-20:** Wang Fuk Tender. 35 bids received.
-*   **2021-12-11:** Will Power wins.
-*   **2025-10-28:** HK International charged by ICAC.
-*   **2025-12-02:** A Ferrari admits failing to check fake certs.
+*   **Feb 2016:** Paul Kong / Lee Cheong scandal (Abandoned projects) — [source](https://www.facebook.com/share/p/1BseYKhmGA/)
+*   **2020-01-20:** Wang Fuk Tender. 35 bids received — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   **2021-12-11:** Will Power wins — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+*   **2025-10-28:** HK International charged by ICAC — [report](https://www.inmediahk.net/node/政經/23人涉屋苑維修工程項目賄賂-擬不認罪-分5案於2026至2028年開審)
+*   **2025-12-02:** A Ferrari admits failing to check fake certs — [report](https://news.mingpao.com/pns/要聞/article/20251203/s00001/1764698800721)
 
 **🔗 Links:**
-*   [Herman Yiu's Post (The Bidders)](https://www.facebook.com/share/p/1ASPMmAqdt/)
 *   [Ming Pao Report (A Ferrari)](https://news.mingpao.com/pns/要聞/article/20251203/s00001/1764698800721)
 *   [InMediaHK Report (HK International)](https://www.inmediahk.net/node/政經/23人涉屋苑維修工程項目賄賂-擬不認罪-分5案於2026至2028年開審)
 *   [Chan Yiu-cho's Post (Paul Kong)](https://www.facebook.com/share/p/1BseYKhmGA/)
@@ -4684,8 +4681,8 @@ The LD justified the "Low Risk" assessment by claiming "no hot works" (welding) 
 *   **Guidance:** Practice Note for Authorized Persons (APP-70).
 
 **📅 Timeline:**
-*   **2024-09-06:** Resident emails LD about fire risk.
-*   **2024-10-04:** LD replies "No standard exists, risk is low."
+*   **2024-09-06:** Resident emails LD about fire risk — [source](https://www.facebook.com/groups/hkcaml/posts/1944451599755114/)
+*   **2024-10-04:** LD replies "No standard exists, risk is low" — *Ibid.*
 *   **2024-10-05:** Jason Poon exposes the lie using APP-70.
 *   **2024-12-04:** LD sends "clarification" claiming they did [check certificates](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap).
 
