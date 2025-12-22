@@ -424,6 +424,175 @@ The policy of mandating inspections for "2,000 buildings per year" created a mas
 
 ---
 
+### 🆔 [E-CARTEL-2013-01-07-01] The Phantom Advisor: The Exiled Brother of a Corrupt Official Returns to Steer the Ship
+
+**🚨 Significance:**
+
+A forensic reconstruction of the timeline reveals that **Chan Kau-keung (陳球強)**, the MC's "Advisor," played a pivotal role in engineering the selection of the low-cost consultant. Chan is the brother of convicted corrupt official **Chan Kau-tai**, having fled to the mainland in 2001 before his brother's arrest and returning only after the 6-year bank record retention period expired. His strategic positioning within the MC allowed him to guide critical decisions while maintaining plausible deniability.
+
+**1. The "Guided" Survey Architect:**
+Meeting minutes confirm that Chan Kau-keung was a member of the "Publicity Group" that drafted the controversial 2021 survey.
+*   *The Move:* Despite knowing **Will Power (鴻毅)** had already bid **HK$308,000** in Jan 2020, Chan helped design a survey in July 2021 that asked owners if a fee "**Less than HK$400,000**" was reasonable.
+*   *The Effect:* This survey manufactured a mandate for the predatory low bid, paving the way for Will Power's selection.
+
+**2. The "Advisor" Shield:**
+Chan served as Chairman (1st-3rd terms) and Committee Member (8th term) before switching to "Advisor" (9th-11th terms).
+*   *The Tactic:* By stepping back from a voting role to an advisory one, he retained influence over inexperienced MC members while minimizing legal liability for the decisions made.
+
+**3. The Historical Shadow:**
+Chan fled HK in 2001 just as the ICAC arrested his brother for accepting bribes. Prosecution revealed Chan Kau-tai deposited bribes into Chan Kau-keung's account, which held **HK$10 million** of unexplained funds.
+*   *The Inference:* His return to estate politics coincides with the massive renovation project. While unproven, his background in high-level corruption and knowledge of engineering networks make him the most sophisticated player in a room full of laymen.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Legal Exit (Absenteeism Rule)**  
+> *Source: Building Management Ordinance (Cap 344), Schedule 2*
+>
+> "4.2.c. A member of a management committee shall **cease to be a member** of the committee if he absents himself from **3 or more consecutive meetings** of the management committee without the consent of the management committee;"
+> *(Analysis: Since meetings occurred roughly monthly, his absence from Aug 2001 aligns with his automatic cessation by Dec 2001.)*
+
+> **Evidence [B]: The Resign**  
+> *Source: Wang Fuk Court: List of previous MC members*
+>
+> "陳球強	2001年12月17日請辭"
+>
+> *Translation:*
+> "Chan Kau-keung: resigned Dec 17, 2001"
+
+> **Evidence [C]: The Brother's Crime & The Flight**  
+> *Source: The Sun / 2003-12-13*
+>
+> "陳裘大案件審訊時，控方案情指出他曾將**四十一萬元**涉案賄款存入其弟陳裘強的銀行戶口... 廉署其實一直欲聯絡陳裘強協助查問，但入境處的紀錄顯示，陳裘大在○一年八月四日被捕之前，其弟**陳裘強已身在內地**，之後一直沒有返港。據悉，陳裘強的戶口存款超過**一千萬元**，來源則不詳。"
+>
+> *Translation:*
+> "During Chan Kau-tai's trial, the prosecution stated he had deposited **HK$410,000** of the bribe money into his brother Chan Kau-keung's bank account... The ICAC had always wanted to contact Chan Kau-keung for questioning, but Immigration records showed that before Chan Kau-tai was arrested on August 4, 2001, his brother **Chan Kau-keung was already in the Mainland** and had not returned since. It is reported that Chan Kau-keung's account held over **HK$10 million**, with the source unknown."
+
+> **Evidence [D]: The "Safe Return" Period (6 Years)**  
+> *Source: MSOA FAQ Record Keeping*
+>
+> "於交易紀錄方面... 紀錄必須備存 **6年**，由有關交易完成的日期起計"
+>
+> *Translation:*
+> "Regarding transaction records... records must be kept for **6 years**, counting from the date the transaction was completed."  
+> *(Analysis: By 2007, banks were no longer legally required to keep the records of the 2001 transactions, reducing the risk of prosecution upon his return.)*
+
+> **Evidence [E]: The Identity**  
+> *Source: HK01 / 2025-12-04*
+>
+> "亦有人發現陳奕迅爸爸的弟弟－陳球強，曾經是業主立案法團的主席。陳球強指自己是**第一屆主席、第二屆副主席與第三屆主席**，從1997年開始做了三屆"
+>
+> *Translation:*
+> "Some also discovered that Eason Chan's father's brother - Chan Kau-keung, was once the Chairman of the Incorporated Owners. Chan Kau-keung stated he was the **1st Chairman, 2nd Vice-Chairman, and 3rd Chairman**, serving three terms starting from 1997."
+
+> **Evidence [F]: The Return**  
+> *Source: 8th MC Meeting Minutes (No. 1) / 2013-01-07*
+>
+> "宏福苑業主立案法團... 出席委員：... **陳球強先生**"
+>
+> *Translation:*
+> "Incorporated Owners of Wang Fuk Court... Attending Members: ... **Mr. Chan Kau-keung**"
+
+> **Evidence [G]: The Transition**  
+> *Source: 9th MC Meeting Minutes (No. 1) / 2015-06-25*
+>
+> "10.1 鄧國權主席表示... 將邀請... **陳球強先生(第一屆宏福苑業主立案法團主席)** 為本屆管理委員會的**事務顧問**。各委員一致贊成。"
+>
+> *Translation:*
+> "10.1 Chairman Tang Kwok-kuen stated... will invite... **Mr. Chan Kau-keung (1st Chairman of IO of Wang Fuk Court)** to be the **Affairs Advisor** for this term. All members unanimously approved."
+
+> **Evidence [H]: The Survey**  
+> *Source: 11th MC Meeting Minutes (No. 5) / 2021-06-28*
+>
+> "列 席：法團顧問 — 陳球強先生"
+> "8.4 陳顧問...建議...透過以問卷形式諮詢文件發佈，減低日後可能出現不必要的紛爭情況。"
+> "9.1 鄧主席報告將委派文書宣傳及公關組負責有關諮詢文件"
+> "10.1 [文書宣傳及公關組]組長：鄧國權... 組員：陳球強..."
+>
+> *Translation:*
+> "Attendant: Consultant of the Incorporated Owners — Mr. Chan Kau-keung"
+> "8.4 Consultant Chan... suggested... issuing questionnaires to reduce future disputes."
+> "9.1 Chairman Tang reported the Publicity & PR Group will handle the consultation"
+> "10.1 Group Leader: **Tang Kwok-kuen**... Member: **Chan Kau-keung**..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"I have never been charged with any crime. My brother's actions are his own. I served the estate as a volunteer advisor using my past experience as Chairman. I did not vote on the tender selection. The survey was a collective decision of the publicity group. Linking my family history to this fire is a smear."
+
+**The Logical Trap:**
+1.  **Influence vs. Vote:** In a boardroom, the person who *frames the question* (the survey) often controls the answer. You don't need a vote to rig an election; you just need to design the ballot. Chan's role in designing the "price anchor" survey was instrumental in selecting Will Power.
+2.  **The "Unexplained Wealth" Context:** While not convicted, the fact that he fled during an ICAC probe and held HK$10M in unexplained funds establishes a **risk profile**. A responsible MC should have been wary of such a background when appointing an advisor for a HK$330M project.
+3.  **The Pattern of "Coincidence":** It is a remarkable coincidence that the Advisor who favoured the "Low Price Consultant" happens to be the brother of a convicted corrupt official known for engineering bribes. In forensic accounting, such patterns are red flags, not accidents.
+
+**📅 Timeline:**
+*   **2001-08-04:** Chan Kau-tai arrested; Chan Kau-keung flees to Mainland.
+*   **2013-01-07:** Chan Kau-keung returns to Wang Fuk MC.
+*   **2015-06-25:** Becomes "Advisor."
+*   **July 2021:** Helps draft the survey favoring Will Power.
+*   **2024-09-06:** Retires as Advisor before the fire.
+
+**🔗 Links:**
+*   [Cap 344, Schedule 2](https://www.elegislation.gov.hk/hk/cap344!en?xpid=ID_1438403038706_001)
+*   [Wang Fuk previous MC members](http://www.wangfuk.org/html/list/index2.htm)
+*   [The Sun Report (2003 Flight)](https://the-sun.on.cc/channels/news/20031213/20031213022653_0001_2.html)
+*   [MSOA FAQ (Record keeping)](https://www.msoa.hk/faq_record_keeping.html)
+*   [HK01 Report (Identity)](https://www.hk01.com/即時娛樂/60300663)
+*   [8th MC Minute 1 / 2013-01-07 (Return)](http://www.wangfuk.org/html/meeting/02/第一次全體委員會議記錄.pdf)
+*   [9th MC Minute 1 / 2015-06-25 (Transition)](http://www.wangfuk.org/html/meeting/04/第一次全體委員會議記錄.pdf)
+*   [11th MC Minute 5 / 2021-06-28 (Survey)](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
+
+**📅 Detailed Timeline of Chan Kau-tai's (陳裘大) Conviction:**
+
+*   **1999-04-01:** Starts receiving bribes — [report](https://www.epochtimes.com/b5/3/11/13/n410391.htm)
+*   **Jul 2000:** ICAC starts investigation — [archive](https://collection.news/appledaily/articles/4N5HZ5IAPNTPBYUZYEOJI7RON4)
+*   **2001-03-04:** ICAC launches "Operation Dragonfly" (青蜓) — [archive](https://collection.news/appledaily/articles/4N5HZ5IAPNTPBYUZYEOJI7RON4)
+*   **2001-08-04:** Arrested by ICAC — [archive](https://collection.news/appledaily/articles/4N5HZ5IAPNTPBYUZYEOJI7RON4)
+*   **2003-11-11:** Trial opens with prosecution describing Chan as an "extremely corrupted" official — [report](https://the-sun.on.cc/channels/news/20031112/20031112033306_0001.html)
+*   **2003-12-12:** Convicted of 10 counts of accepting advantages as a public servant — [report](https://www.news.gov.hk/isd/ebulletin/tc/category/lawandorder/031212/html/031212tc08007.htm)
+*   **2004-01-05:** Sentenced to 7 years in prison and ordered to return $2.6 million in bribes — [report](https://www.news.gov.hk/isd/ebulletin/tc/category/lawandorder/040105/html/040105tc08005.htm)
+*   **2005-01-27:** Released on bail pending appeal — [report](https://paper.hket.com/article/1319619/%E9%99%B3%E8%A3%98%E5%A4%A7%E7%99%BE%E8%90%AC%E4%BF%9D%E9%87%8B%20%E8%B6%95%E5%8F%8A%E5%BA%A6%E6%AD%B2)
+*   **2005-04-19:** Chan's lawyer Lam Bing-cheung claims ICAC harassment after being detained for 41 hours — [archive](https://collection.news/appledaily/articles/IPTY7SN5MMZ5NGTBON424NPQSA)
+*   **2005-07-05:** Court stays proceedings for four suppliers after ICAC's illegal wiretapping is exposed — [report](https://orientaldaily.on.cc/archive/20050706/new/new_a64cnt.html)
+*   **2005-08-05:** Case cited as a catalyst for the Interception of Communications and Surveillance Ordinance — [report](https://orientaldaily.on.cc/archive/20090217/new/new_a02cnt.html)
+*   **2005-08-31:** Court of Appeal reviews non-disclosure of ICAC officer Yang En-de's criminal record — [report](https://vlex.hk/vid/hksar-v-chan-kau-862562222)
+*   **2005-12-14:** Retrial ordered for Chan as Yang's records rendered the trial unsafe — [report](http://paper.wenweipo.com/2005/12/15/HK0512150025.htm)
+*   **2006-09-29:** Retrial opens — [archive](https://collection.news/appledaily/articles/OJFEVNJU45K75H26MIHUSPDVPU)
+*   **2006-11-13:** Convicted in retrial of 9 counts of accepting advantages — [report](https://www.news.gov.hk/isd/ebulletin/tc/category/lawandorder/061114/html/061114tc08006.htm)
+*   **2006-11-14:** Sentenced to 6 years in prison — [archive](https://collection.news/appledaily/articles/VC55XRUCQXJUPVHLREKSLMQRYY)
+*   **2008-02-27:** Seeks sentence reduction due to liver cancer; son Eason Chan offers to donate liver — [report](https://orientaldaily.on.cc/archive/20080228/new/new_a30cnt.html)
+*   **2008-10-10:** Released on parole — [report](https://orientaldaily.on.cc/archive/20081010/new/new_a21cnt.html)
+*   **2009-07-08:** Supplier Shum Chiu (沈超) sentenced to 32 months for bribing Chan — [report](https://the-sun.on.cc/cnt/news/20090709/00412_005.html)
+
+**📅 Detailed Timeline of Chan Kau-keung's (陳球強) Activities:**
+
+*   **2001-07-27:** Kwok Shu-wah (郭樹華) gives HK$200k to Chan Kau-keung's brother Kau-tai as a bribe — [archive](https://petertsangwc.blogspot.com/2014/03/blog-post_7003.html)
+*   **2001-07-31:** Deposits HK$200k into his own account  — [archive](https://petertsangwc.blogspot.com/2014/03/blog-post_7003.html)
+*   **2001-08-04:** Already settled in mainland when brother arrested, ICAC wants him but is unable to reach him — [archive](https://collection.news/appledaily/articles/4N5HZ5IAPNTPBYUZYEOJI7RON4)
+*   **2001-12-17:** Resigns Wang Fuk Court's Incorporated Owners' MC Chairman — [source](http://www.wangfuk.org/html/list/index2.htm)
+*   **2003-12-12:** Media reports Kau-tai admitted most bribery goes to his wife and his brother Kau-keung — [archive](https://news.creaders.net/china/2003/12/12/big5/434564.html)
+*   **2003-12-13:** Media reports the prosecution says Kau-tai deposited HK$410,000 in bribes into Kau-keung's bank account, which holds over HK$10 million of unexplained funds — [report](https://the-sun.on.cc/channels/news/20031213/20031213022653_0001_2.html)
+*   **2007-07-31:** 6 years passed after handling last round of suspected bribe; Banks are not obliged to keep records — [ref](https://www.msoa.hk/faq_record_keeping.html)
+*   **2013-01-07:** Reappears; participates in 8th MC 17th meeting as committee member — [minutes](http://www.wangfuk.org/html/meeting/02/第一次全體委員會議記錄.pdf)
+*   **2015-06-06:** Last attendence as MC member — [minutes](http://www.wangfuk.org/html/meeting/03/第18次全體業主大會(周年大會)會議記錄.pdf)
+*   **2015-06-25:** Starts participating in MC as advisor — [minutes](http://www.wangfuk.org/html/meeting/04/第一次全體委員會議記錄.pdf)
+*   **2019-01-25:** Will Power wins inspection contract (HK$222k); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/第21次全體業主大會(周年大會)會議記錄.pdf)
+*   **2020-01-20:** Tender Opening for Consultancy; Chan knows Will Power's bid HK$308k — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   **2021-06-28:** Suggests surveying residents concerning the Consultancy contract — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
+*   **Jul 2021:** Drafts the survey as a Publicity & PR Group member of MC — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
+*   **2021-07-18:** Survey issued with specific "<400k" option while Will Power's bid being $308k — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
+*   **2021-12-11:** Will Power wins Consultant contract (HK$308k); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+*   **2024-01-28:** Prestige wins the contract (HK$330M); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf)
+*   **2024-07-19:** Participates in renovation presentation where flammable foam is presented — [source](http://www.wangfuk.org/html/incorp/index.htm)
+*   **2024-09-06:** MC members re-election; ceases as the Incorporated Owners' consultant — [report](https://hk.news.yahoo.com/share/c9787bd5-d1a8-482a-a57c-ce46fc0d9fdb)
+*   **2025-11-26:** Wang Fuk Court Fire; 161 dead — [ref](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire)
+*   **2025-12-03:** Admits to be the brother of Chan Kau-tai — [source](https://www.youtube.com/watch?v=-Aah2FP0X9Y)
+*   **2025-12-04:** Admission confirmed by the media — [report](https://www.hk01.com/即時娛樂/60300663)
+*   **2025-12-06:** Refuses to confirm his identity when a reporter asks — [report](https://hk.news.yahoo.com/share/c9787bd5-d1a8-482a-a57c-ce46fc0d9fdb)
+*   **2025-12-16:** Says "I don't understand" when asked about Will Power's suspected conflict of interest — [report](https://hkfeature.com/local/宏福苑大火-鴻毅建築師大股東-內地建材公司-圍標)
+*   **2025-12-17:** Former MC chairman Tang, current chairman Tsui arrested, instead of Chan — [report](https://www.hk01.com/突發/60304524/)
+
+---
+
 ### 🆔 [E-CARTEL-2015-12-02-01] The Gangster's Rebranding: "Better than Drugs" and the Gentrification of Crime
 
 **🚨 Significance:**
