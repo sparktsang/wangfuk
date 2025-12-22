@@ -566,11 +566,11 @@ Chan fled HK in 2001 just as the ICAC arrested his brother for accepting bribes.
 
 **📅 Detailed Timeline of Chan Kau-keung's (陳球強) Activities:**
 
-*   **2001-07-27:** Kwok Shu-wah (郭樹華) gives HK$200k to Chan Kau-keung's brother Kau-tai as a bribe — [archive](https://petertsangwc.blogspot.com/2014/03/blog-post_7003.html)
+*   **2001-07-27:** Kwok Shu-wah (郭樹華) gives HK$200k to Chan Kau-tai as a bribe — [archive](https://petertsangwc.blogspot.com/2014/03/blog-post_7003.html)
 *   **2001-07-31:** Deposits HK$200k into his own account  — [archive](https://petertsangwc.blogspot.com/2014/03/blog-post_7003.html)
 *   **2001-08-04:** Already settled in mainland when brother arrested, ICAC wants him but is unable to reach him — [archive](https://collection.news/appledaily/articles/4N5HZ5IAPNTPBYUZYEOJI7RON4)
 *   **2001-12-17:** Resigns Wang Fuk Court's Incorporated Owners' MC Chairman — [source](http://www.wangfuk.org/html/list/index2.htm)
-*   **2003-12-12:** Media reports Kau-tai admitted most bribery goes to his wife and his brother Kau-keung — [archive](https://news.creaders.net/china/2003/12/12/big5/434564.html)
+*   **2003-12-12:** Media reports Chan Kau-tai admitted most bribes went to his wife and Chan Kau-keung — [archive](https://news.creaders.net/china/2003/12/12/big5/434564.html)
 *   **2003-12-13:** Media reports the prosecution says Kau-tai deposited HK$410,000 in bribes into Kau-keung's bank account, which holds over HK$10 million of unexplained funds — [report](https://the-sun.on.cc/channels/news/20031213/20031213022653_0001_2.html)
 *   **2007-07-31:** 6 years passed after handling last round of suspected bribe; Banks are not obliged to keep records — [ref](https://www.msoa.hk/faq_record_keeping.html)
 *   **2013-01-07:** Reappears; participates in 8th MC 17th meeting as committee member — [minutes](http://www.wangfuk.org/html/meeting/02/第一次全體委員會議記錄.pdf)
