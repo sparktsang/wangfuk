@@ -1565,6 +1565,102 @@ The period of "Zero Convictions" (2019-2022) coincides with the dismantling of [
 
 ---
 
+### 🆔 [E-ADMIN-2023-03-04-01] The "Shut Up and Vote": How the Advisor Silenced Questions to Force Through the Tender
+
+**🚨 Significance:**
+
+Eyewitness accounts and meeting minutes from the March 4, 2023 EGM reveal how the MC, led by "Advisor" (and de facto leader) **Chan Kau-keung**, systematically suppressed owner inquiries to force through the tender document that would later enable the HK$330M renovation.
+
+**1. The "Coordinator" Takes Charge:**
+Although Tang Kwok-kuen (鄧國權) was the Chairman, the minutes list Chan Kau-keung (陳球強) as the **"Coordinator" (統籌)**. Witnesses report that it was Chan, not Tang, who controlled the floor, demanding residents to "vote first" and cutting off questions.
+*   *The Implication:* This confirms Chan's role as the [**"Shadow Chairman"**](#-e-cartel-2013-01-07-01-the-phantom-advisor-the-exiled-brother-of-a-corrupt-official-returns-to-steer-the-ship). He actively managed the meeting to ensure the cartel's agenda (the tender document) was passed without scrutiny.
+
+**2. The Suppression of Due Diligence:**
+When residents tried to ask about the tender details *before* voting, Chan stopped them, claiming "time is running out" and "those things happen after the tender is passed."
+*   *The Logic Flaw:* Voting on a tender document *without* understanding its implications is negligence. Chan's intervention prevented owners from exercising informed consent, effectively turning the vote into a blind rubber stamp.
+
+**3. The "Free Money" Distraction:**
+The meeting dynamic shifted only when "government subsidies" (HK$40,000 per household) were mentioned.
+*   *The Trap:* The promise of a small subsidy was used to distract owners from the massive liability they were about to incur. Owners focused on the $40k "gain" while ignoring the future $330M "cost" hidden in the tender terms Chan was rushing them to sign.
+
+**4. The Political Show:**
+The meeting was attended by a roster of pro-establishment figures (Yu Chi-wing, Lau Chi-shing, Lo Hiu-fung, Mui Siu-fung), lending political legitimacy to the proceedings and reinforcing the "Authoritarian" atmosphere where dissent was discouraged.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Suppression**
+> *Source: Resident Ma Choyin (FB Group) / 2023-03-05*
+>
+> "陳球強先生話**時間趕唔切**，一定要投票先... 陳顧問又話啲街坊問啲通過咗標書之後先會發生嘅嘢，所以**唔畀其他人再問**。"
+>
+> *Translation:*
+> "Mr. Chan Kau-keung said **time is running out**, must vote first... Advisor Chan disallowed questions claiming they related to things happening *after* the tender is passed."
+
+> **Evidence [B]: The "Coordinator"**
+> *Source: 11th MC EGM Minutes (Mar 4, 2023)*
+>
+> "統 籌： **陳球強顧問**"
+>
+> *Translation:*
+> "Coordinator: **Advisor Chan Kau-keung**"
+
+> **Evidence [C]: The Pressure**
+> *Source: Resident Karl Cow (FB Group) / 2023-03-06*
+>
+> "陳球強顧問(唔係鄧國權主席)就一味叫人快啲投... 叫都叫唔停"
+>
+> *Translation:*
+> "Advisor Chan Kau-keung (not Chairman Tang) kept telling people to vote faster... couldn't be stopped."
+
+> **Evidence [D]: The "Free Money" Distraction**
+> *Source: Resident Ma Choyin (FB Group) / 2023-03-05*
+>
+> "每戶最少有4萬蚊唔使還錢... 有班街坊本身喺度嘈話叫快啲投票... 但一聽到有資助唔使還嘅，**即刻靜哂**"
+>
+> *Translation:*
+> "Each household gets at least **HK$40,000** free money... A group of residents was noisy, rushing the vote... but once they heard about the free subsidy, they **instantly went silent**."
+
+> **Evidence [E]: The Political Roster**
+> *Source: 11th MC EGM Minutes (Mar 4, 2023)*
+>
+> "**大埔區居民聯會主席** 余智榮先生 MH
+> **大埔北分區委員會主席** 劉志成先生 MH
+> **大埔南分區委員會副主席** 羅曉楓先生
+> **大埔南分區委員會委員** 梅少峰先生"
+>
+> *Translation:*
+> "**Tai Po District Residents Association Chairman** Yu Chi-wing MH
+> **Tai Po North Area Committee Chairman** Lau Chi-shing MH
+> **Tai Po South Area Committee Vice-Chairman** Lo Hiu-fung
+> **Tai Po South Area Committee Member** Mui Siu-fung"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The meeting had a tight schedule and venue booking limits. We had to ensure the main agenda items were voted on to comply with URA deadlines. Technical questions regarding future execution details could be addressed in later sessions. We were facilitating efficiency, not suppressing rights."
+
+**The Logical Trap:**
+1.  **Efficiency vs. Legitimacy:** "Efficiency" is not a valid reason to bypass scrutiny on a multi-million dollar contract. If the venue time was insufficient, the meeting should have been extended or adjourned, not rushed. Rushing a vote by silencing questions is the hallmark of a **railroaded decision**.
+2.  **The "Later" Lie:** Chan claimed questions could be asked "later." But as subsequent events showed (e.g., the fake survey in July 2021, the ignored petition in July 2024), "later" meant **never**. The MC systematically blocked all future attempts at scrutiny.
+3.  **The "Coordinator" Overreach:** An "Advisor" has no statutory power to run a meeting or silence owners; that power belongs to the Chairman. Chan's active dominance of the meeting proves he was exercising **unauthorized power**, rendering the proceedings procedurally improper.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Conduct of General Meetings (Building Management Ordinance).
+
+**📅 Timeline:**
+*   **2023-03-04 (15:00):** Meeting starts.
+*   **2023-03-04 (During):** Chan silences questions; pushes for vote.
+*   **2023-03-04 (16:45):** Tender document passed (98.33%).
+*   **2023-03-05 to 03-06:** Eyewitnesses document the process.
+
+**🔗 Links:**
+*   [Minute EGM](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf)
+*   [Resident Ma Choyin Post](https://www.facebook.com/share/p/1aEfi4nV8j/)
+*   [Resident Karl Cow Post](https://www.facebook.com/share/p/1DSVThpQ1w/)
+
+---
+
 ### 🆔 [E-CARTEL-2023-03-24-01] Headcount over Brains: How 16 Clerks Outranked a Structural Engineer
 
 **🚨 Significance:**
