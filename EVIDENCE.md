@@ -439,7 +439,7 @@ A forensic reconstruction of the timeline reveals that **Chan Kau-keung (陳球�
 *   *The Deduction:* He did not return immediately after the legal risk faded (2007), but only until the **"Gold Rush"**—the creation of the multi-billion dollar mandatory repair market—began. 
 
 **2. The "Guided" Survey Architect:**
-Meeting minutes confirm that Chan Kau-keung was a member of the "Publicity Group" that drafted the controversial 2021 survey.
+Meeting minutes confirm that Chan Kau-keung was a member of the "Publicity Group" that drafted the [controversial 2021 survey](#-e-cartel-2021-07-18-01-the-price-anchor-how-a-questionnaire-was-rigged-to-justify-the-low-ball-consultant).
 *   *The Move:* Despite knowing **Will Power (鴻毅)** had already bid **HK$308,000** in Jan 2020, Chan helped design a survey in July 2021 that asked owners if a fee "**Less than HK$400,000**" was reasonable.
 *   *The Effect:* This survey manufactured a mandate for the predatory low bid, paving the way for Will Power's selection.
 
