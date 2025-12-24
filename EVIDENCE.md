@@ -1629,7 +1629,7 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 3.  **Benchmarking:** In public works (Housing Authority/ArchSD), the presence of AP/RSE/RCM is a *mandatory* or highly weighted requirement. Relegating it to a 1-point tokenism contradicts industry best practices.
 
 **📅 Timeline:**
-*   **2023-03-24:** Will Power decides the skewed scoring criteria.
+*   **2023-03-24:** Will Power decides the skewed scoring criteria — [booklet p.4](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
 *   **2023-08-31:** Prestige is evaluated and scores 4 (highest) despite lacking key professionals.
 *   **2024-01-28:** Prestige wins.
 
