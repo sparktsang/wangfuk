@@ -14,7 +14,7 @@
 12. [[E-CARTEL-2020-01-20-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse](#-e-cartel-2020-01-20-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse)  
 13. [[E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55](#-e-safety-nets-2021-07-07-01-the-click-to-certify-industry-buying-safety-for-hk55)  
 14. [[E-CARTEL-2021-07-18-01] The "Price Anchor": How a Questionnaire was Rigged to Justify the Low-Ball Consultant](#-e-cartel-2021-07-18-01-the-price-anchor-how-a-questionnaire-was-rigged-to-justify-the-low-ball-consultant)  
-15. [[E-CARTEL-2021-12-11-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate](#-e-cartel-2021-12-11-01-the-day-democracy-died-how-a-dab-councilor-and-532-proxies-sealed-the-estates-fate)  
+15. [[E-CARTEL-2021-12-09-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate](#-e-cartel-2021-12-09-01-the-day-democracy-died-how-a-dab-councilor-and-532-proxies-sealed-the-estates-fate)  
 16. [[E-CARTEL-2022-05-05-01] The Mathematical Fingerprint: Academic Proof of Prestige's Bid-Rigging](#-e-cartel-2022-05-05-01-the-mathematical-fingerprint-academic-proof-of-prestiges-bid-rigging)  
 17. [[E-CARTEL-2022-06-10-01] The Death of Data: Why the Evidence that convicted the Cartel can never be gathered again](#-e-cartel-2022-06-10-01-the-death-of-data-why-the-evidence-that-convicted-the-cartel-can-never-be-gathered-again)  
 18. [[E-CARTEL-2022-12-31-01] The "Zero-Risk" Business: 5 Years, 1 Conviction, and the License to Rig](#-e-cartel-2022-12-31-01-the-zero-risk-business-5-years-1-conviction-and-the-license-to-rig)  
@@ -1358,7 +1358,7 @@ The survey was drafted by the "Publicity & PR Group," led by Chairman Tang himse
 
 ---
 
-### 🆔 [E-CARTEL-2021-12-11-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate
+### 🆔 [E-CARTEL-2021-12-09-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate
 
 **🚨 Significance:**
 
