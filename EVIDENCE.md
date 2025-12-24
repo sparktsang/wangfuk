@@ -3111,38 +3111,47 @@ The new MC reported the case to the police as "Using False Instruments." Over 80
 
 ---
 
-### 🆔 [E-CARTEL-2024-06-27-01] The "Out of Stock" Hoax & The "Free Upgrade" Trap
+### 🆔 [E-CARTEL-2024-06-27-01] The "Rashomon" of Tiles: Lies, Finger-Pointing, and the "Free Upgrade" Trap
 
 **🚨 Significance:**
 
-Official records document a coordinated attempt by the Contractor (**Prestige/宏業**) and Consultant (**Will Power/鴻毅**) to manipulate the estate into changing external wall materials based on false premises and suspicious financial generosity.
+Official records reveal a chaotic and deceitful attempt to switch the external wall material from Mosaic to Tiles. While initially justified by a "supply chain hoax," the narrative quickly disintegrated into a finger-pointing game between the Contractor (**Prestige**) and the **MC**, exposing the lack of a genuine reason for the change.
 
-**1. The "Supply Chain" Hoax:**
-On June 27, 2024, Prestige claimed that standard 1x1 inch mosaic tiles were **"no longer produced"**.
-*   *Logical Fallacy:* Mosaic tiles are a generic, global commodity. Claiming they are "out of production" is factually absurd. It is a fabricated crisis to force a change.
+**1. The "Supply Chain" Hoax (The MC's Version):**
+On June 27, 2024, the MC recorded that Prestige claimed standard 1x1 inch mosaic tiles were **"no longer produced"** and suggested switching to tiles.
+*   *Logical Fallacy:* Mosaic tiles are a generic global commodity. Claiming they are "out of production" is factually absurd and was a fabricated crisis to force a change.
 
-**2. The "Benevolent" Trap:**
-On Oct 5, 2024, Prestige offered to switch to Tiles (supposedly a premium material) **without charging the price difference**.
-*   *The Math:* According to the Consultant's own chart, Tiles (HK$130-$200/m²) are significantly more expensive than Mosaic (HK$40/m²).
-*   *The Suspicion:* In the ruthless construction industry, a contractor *never* absorbs a cost increase voluntarily. If Prestige was willing to waive the difference (approx. $600k based on the minutes), it implies their **actual cost** for the specific tiles they sourced was likely **lower** than the mosaic tiles + coating.
-*   *The Play:* They tried to swap a labor-intensive material (Mosaic) for a potentially cheaper/easier alternative (Tiles) under the guise of a "free upgrade."
+**2. The "Denial" (The Contractor's Version):**
+Facing resident backlash and rumors of collusion, Prestige issued a defensive notice on July 27, 2024.
+*   *The Pivot:* Prestige **denied** initiating the change, claiming instead that the **MC instructed them** to explore it based on "resident inquiries."
+*   *The Contradiction:* Who lied? The MC Minutes say Prestige proposed it due to supply issues. Prestige's Notice says the MC proposed it due to aesthetics. This mutual blame-shifting suggests the "need" for the switch was manufactured.
 
-**3. The Consultant's Complicity:**
-Instead of verifying the "out of production" claim (which is their job), Will Power facilitated the switch by producing comparison charts favoring tiles and paving the legal pathway to bypass the Deed of Mutual Covenant (DMC).
+**3. The "Benevolent" Trap:**
+Despite denying responsibility, Prestige offered to switch to Tiles (supposedly a premium material costing 3-4x more) **without charging the price difference**.
+*   *The Suspicion:* In a ruthless industry, a contractor never absorbs a huge cost increase voluntarily. If Prestige was willing to waive the difference (~HK$600k), it implies the specific tiles they sourced were actually **cheaper** or **inferior** to the mosaic, or part of a larger kickback scheme.
+
+**4. The "Deadline" Threat:**
+Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will stick to the original contract." This pressure tactic aimed to force a hasty decision amidst the confusion.
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Fabrication (No Stock)**
+> **Evidence [A]: The MC's Version (Prestige proposed it)**  
 > *Source: 12th MC Meeting Minutes (No. 2) / 2024-06-27*
 >
-> **5.1**
-> "...承建商經查詢供應商後，有關外牆現有之 1x1 吋紙皮石飾面物料**已不再生產**..."
+> "承建商經查詢供應商後，有關外牆現有之 1x1 吋紙皮石飾面物料**已不再生產**，故承建商提出會否考慮更換..."
 >
 > *Translation:*
-> **5.1**
-> "...The Contractor [Prestige], after enquiring with suppliers, stated that the existing 1x1 inch mosaic tile material is **no longer produced**..."
+> "after enquiring with suppliers, Contractor stated that the existing 1x1 inch mosaic tile material is **no longer produced**, thus Contractor proposed considering a switch..."
 
-> **Evidence [B]: The Suspicious Generosity**
+> **Evidence [B]: Prestige's Version (MC proposed it)**  
+> *Source: Prestige Notice PC-24-WFC-L-027 / 2024-07-27*
+>
+> "法團因收到業戶查詢... 因而**指示本公司**更改物料的可行性... 本公司在此聲明, 更改外牆物料並不是作為承建商去決定..."
+>
+> *Translation:*
+> "MC received resident inquiries... thus **instructed our company** to explore feasibility... We declare that changing material was not decided by the Contractor..."
+
+> **Evidence [C]: The Suspicious Generosity**  
 > *Source: 12th MC EGM Minutes / 2024-10-05*
 >
 > "承建商縱然在轉換物料後會有多出的費用亦最終同意及已書面回覆**不會向法團徵收差價**..."
@@ -3150,7 +3159,31 @@ Instead of verifying the "out of production" claim (which is their job), Will Po
 > *Translation:*
 > "Even though switching materials would incur extra costs, the Contractor [Prestige] eventually agreed and replied in writing that they **would not charge the Corporation for the price difference**..."
 
-> **Evidence [C]: The Market Reality (Consultant's Chart)**
+> **Evidence [D]: The "Rumor" Admission**  
+> *Source: Prestige Notice PC-24-WFC-L-027*
+>
+> "得悉有大量謠言，聲稱本公司密謀串同法團及顧問公司藉着更改外牆飾面物料而增加工程造價..."
+>
+> *Translation:*
+> "Learned of rumors claiming our company conspired with MC and Consultant to increase project cost by changing materials..."
+
+> **Evidence [E]: Residents' Rage**  
+> *Source: Lee Kwok Hung (FB Group) / 2024-07-27*
+>
+> "你兩個邊個講大話？法團定你宏業講大話？... 你依家屈我哋啲住户？"
+>
+> *Translation:*
+> "Which one of you is lying? The MC or Prestige? ... Now you are framing us residents?"
+
+> **Evidence [F]: The "Free Upgrade" Offer**  
+> *Source: 12th MC EGM Minutes / 2024-10-05*
+>
+> "承建商...已書面回覆**不會向法團徵收差價**..."
+>
+> *Translation:*
+> "Contractor... replied in writing they **would not charge the Corporation for the price difference**..."
+
+> **Evidence [G]: The Market Reality (Consultant's Chart)**  
 > *Source: Material Comparison Chart / 2024-09-27*
 >
 > | Material | Market Price (Ref) |
@@ -3160,15 +3193,29 @@ Instead of verifying the "out of production" claim (which is their job), Will Po
 >
 > *(Analysis: If the chart is true, Prestige was offering a ~300% material upgrade for free. This defies economic gravity unless the specific tiles used were of inferior quality or obtained at a distress price.)*
 
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"There was a misunderstanding in communication. The 'out of production' claim might have referred to a specific brand/model, not the generic type. Both parties acted in good faith to explore better options (Tiles) for the estate's benefit without increasing costs. The conflicting statements were due to administrative confusion, not conspiracy."
+
+**The Logical Trap:**
+1.  **Specific vs. Generic:** If only a specific brand was out of stock, a competent consultant would simply source another brand of mosaic, not propose a radical switch to a completely different material (Tiles). Using a "stock issue" to justify a "system change" is a classic bait-and-switch.
+2.  **The "Good Faith" Paradox:** If it was good faith, why the discrepandcy? Why did the MC record say "Contractor said no supply" while the Contractor said "MC instructed"? 
+3.  **The "Free Lunch":** The Consultant's own chart showed Tiles were ~300% more expensive. Prestige offering them for "free" defies economic gravity. It strongly suggests the "Tiles" were either counterfeit (like the TAPEER foam) or the original Mosaic price was massively inflated to begin with.
+
 **📅 Timeline:**
-*   **2024-06-27:** Prestige claims Mosaic is "out of production."
-*   **2024-09-27:** Will Power issues comparison chart favoring Tiles.
-*   **2024-10-05:** Owners vote 54.59% to **Reject** the switch and keep Mosaic.
+*   **2024-06-27:** MC Minutes: Prestige says "No Stock."
+*   **2024-07-27:** Prestige Notice: "MC instructed us."
+*   **2024-09-27:** Consultant Comparison: Tiles are expensive.
+*   **2024-10-05:** Owners Vote: Reject Tiles (54.59%).
 
 **🔗 Links:**
-*   [Minute 2](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf) | [Backup](2024-06-27%20第十二屆第二次會議紀錄.pdf)
-*   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議記錄.pdf) | [Backup](2024-10-05%20第十二屆管理委員會特別業主大會會議紀錄.pdf)
+
+*   [Minute 2](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf) | [Backup](2024-06-27%20第十二屆第二次會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-06-27-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Prestige Notice](http://www.wangfuk.org/html/home/doc/2024-07-27%20L027有關：更換外牆飾面物料澄清事宜.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%2021%202024-07-27%20L027有關：更換外牆飾面物料澄清事宜(A-H信箱).pdf)
+*   [Resident FB Reaction](https://www.facebook.com/share/p/1ah5ELGchv/)
 *   [Comparison Chart](http://www.wangfuk.org/html/home/doc/2024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf) | [Backup](大維修相關資訊%204.%202024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf)
+*   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議記錄.pdf) | [Backup](2024-10-05%20第十二屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-10-05-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
 
