@@ -429,20 +429,26 @@ The policy of mandating inspections for "2,000 buildings per year" created a mas
 
 **🚨 Significance:**
 
-A forensic reconstruction of the timeline reveals that **Chan Kau-keung (陳球強)**, the MC's "Advisor," played a pivotal role in engineering the selection of the low-cost consultant. Chan is the brother of convicted corrupt official **Chan Kau-tai**, having fled to the mainland in 2001 before his brother's arrest and returning only after the 6-year bank record retention period expired. His strategic positioning within the MC allowed him to guide critical decisions while maintaining plausible deniability.
+A forensic reconstruction of the timeline reveals that **Chan Kau-keung (陳球強)**, the MC's "Advisor," played a pivotal role in the renovation project. Chan is the brother of convicted corrupt official **Chan Kau-tai**, having fled to the mainland in 2001 before his brother's arrest. His return to the estate in 2013 aligns suspiciously with the launch of the **Mandatory Building Inspection Scheme (MBIS)**, suggesting a calculated re-entry to capitalize on the new policy.
 
-**1. The "Guided" Survey Architect:**
+**1. The "Perfect Timing" Return:**
+*   **2001:** Chan flees HK.
+*   **2007:** 6-year bank record retention expires (Legal risk reduces).
+*   **2012-06:** **MBIS comes into effect**, creating a guaranteed market for renovation.
+*   **2013-01:** Chan reappears in the Wang Fuk MC.
+*   *The Deduction:* He did not return immediately after the legal risk faded (2007), but only until the **"Gold Rush"**—the creation of the multi-billion dollar mandatory repair market—began. 
+
+**2. The "Guided" Survey Architect:**
 Meeting minutes confirm that Chan Kau-keung was a member of the "Publicity Group" that drafted the controversial 2021 survey.
 *   *The Move:* Despite knowing **Will Power (鴻毅)** had already bid **HK$308,000** in Jan 2020, Chan helped design a survey in July 2021 that asked owners if a fee "**Less than HK$400,000**" was reasonable.
 *   *The Effect:* This survey manufactured a mandate for the predatory low bid, paving the way for Will Power's selection.
 
-**2. The "Advisor" Shield:**
+**3. The "Advisor" Shield:**
 Chan served as Chairman (1st-3rd terms) and Committee Member (8th term) before switching to "Advisor" (9th-11th terms).
 *   *The Tactic:* By stepping back from a voting role to an advisory one, he retained influence over inexperienced MC members while minimizing legal liability for the decisions made.
 
-**3. The Historical Shadow:**
-Chan fled HK in 2001 just as the ICAC arrested his brother for accepting bribes. Prosecution revealed Chan Kau-tai deposited bribes into Chan Kau-keung's account, which held **HK$10 million** of unexplained funds.
-*   *The Inference:* His return to estate politics coincides with the massive renovation project. While unproven, his background in high-level corruption and knowledge of engineering networks make him the most sophisticated player in a room full of laymen.
+**4. The Historical Shadow:**
+Chan fled HK in 2001 just as the ICAC arrested his brother. Prosecution revealed Chan Kau-tai deposited bribes into Chan Kau-keung's account, which held **HK$10 million** of unexplained funds. His background in high-level corruption makes him the most sophisticated player in the room.
 
 **📜 Original Record:**
 
@@ -517,16 +523,17 @@ Chan fled HK in 2001 just as the ICAC arrested his brother for accepting bribes.
 
 **🛡️ Pre-emptive Rebuttal:**
 
-**Anticipated Defense:**  
-"I have never been charged with any crime. My brother's actions are his own. I served the estate as a volunteer advisor using my past experience as Chairman. I did not vote on the tender selection. The survey was a collective decision of the publicity group. Linking my family history to this fire is a smear."
+**Anticipated Defense:**
+"My return to Hong Kong and the MC was for personal reasons and unrelated to the MBIS policy. I served as a volunteer advisor to help the estate navigate complex regulations. The timing is purely coincidental. There is no evidence linking my family history or my return date to any bid-rigging conspiracy."
 
 **The Logical Trap:**
-1.  **Influence vs. Vote:** In a boardroom, the person who *frames the question* (the survey) often controls the answer. You don't need a vote to rig an election; you just need to design the ballot. Chan's role in designing the "price anchor" survey was instrumental in selecting Will Power.
-2.  **The "Unexplained Wealth" Context:** While not convicted, the fact that he fled during an ICAC probe and held HK$10M in unexplained funds establishes a **risk profile**. A responsible MC should have been wary of such a background when appointing an advisor for a HK$330M project.
-3.  **The Pattern of "Coincidence":** It is a remarkable coincidence that the Advisor who favoured the "Low Price Consultant" happens to be the brother of a convicted corrupt official known for engineering bribes. In forensic accounting, such patterns are red flags, not accidents.
+1.  **Coincidence vs. Strategy:** While correlation is not causation, the timing is **strategically perfect**. Returning exactly when a policy creates a HK$100 billion market suggests foresight, not randomness. A sophisticated actor with his background would understand the lucrative implications of MBIS better than any layman.
+2.  **The "Volunteer" Paradox:** Why would someone with HK$10M (in 2001 money) and a history of fleeing corruption probes return to do tedious, unpaid "volunteer work" for a housing estate? Unless the "volunteer work" provided access to something valuable—like control over a HK$330M contract.
+3.  **The Pattern of Influence:** He wasn't just a passive advisor. He actively designed the **survey** that justified the low-bid consultant. He was present at every key tender meeting. His fingerprints are on the specific mechanisms (survey, scoring) used to rig the outcome.
 
 **📅 Timeline:**
 *   **2001-08-04:** Chan Kau-tai arrested; Chan Kau-keung flees to Mainland.
+*   **2012-06-30:** MBIS implementation.
 *   **2013-01-07:** Chan Kau-keung returns to Wang Fuk MC.
 *   **2015-06-25:** Becomes "Advisor."
 *   **July 2021:** Helps draft the survey favoring Will Power.
@@ -573,6 +580,7 @@ Chan fled HK in 2001 just as the ICAC arrested his brother for accepting bribes.
 *   **2003-12-12:** Media reports Chan Kau-tai admitted most bribes went to his wife and Chan Kau-keung — [archive](https://news.creaders.net/china/2003/12/12/big5/434564.html)
 *   **2003-12-13:** Media reports the prosecution says Kau-tai deposited HK$410,000 in bribes into Kau-keung's bank account, which holds over HK$10 million of unexplained funds — [report](https://the-sun.on.cc/channels/news/20031213/20031213022653_0001_2.html)
 *   **2007-07-31:** 6 years passed after handling last round of suspected bribe; Banks are not obliged to keep records — [ref](https://www.msoa.hk/faq_record_keeping.html)
+*   **2012-06-30:** MBIS implementation — [source](https://www.info.gov.hk/gia/general/201206/29/P201206290429.htm)
 *   **2013-01-07:** Reappears; participates in 8th MC 17th meeting as committee member — [minutes](http://www.wangfuk.org/html/meeting/02/第一次全體委員會議記錄.pdf)
 *   **2015-06-06:** Last attendence as MC member — [minutes](http://www.wangfuk.org/html/meeting/03/第18次全體業主大會(周年大會)會議記錄.pdf)
 *   **2015-06-25:** Starts participating in MC as advisor — [minutes](http://www.wangfuk.org/html/meeting/04/第一次全體委員會議記錄.pdf)
