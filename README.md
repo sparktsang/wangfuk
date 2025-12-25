@@ -5,7 +5,7 @@ This GitHub repository stores backups of all of the meeting minutes and other do
 
 ### Compilation of meeting minutes for accessibility
 
-The meeting minutes from 2023-01-16 to 2025-11-07 have been consolidated into Markdown format as follows.
+The meeting minutes from 2021-06-28 to 2025-11-07 have been consolidated into Markdown format as follows.
 
 https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 
