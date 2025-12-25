@@ -1949,6 +1949,7 @@ When MC members asked if the criteria were reasonable, the Property Manager (**I
 > (*Note: Scores for Similar Project Experience being **All 0***)
 
 > **Evidence [B]: Failure Statistics**
+> *Source: Evidence [A] above*
 >
 > | 評分項目 <br> Criteria | 獲得零分的公司數量 (共 57 間) <br> Bidders who score 0 (57 tenders) | 佔比 (%) <br> Percentage (%) |
 > | :--- | :---: | :---: |
@@ -1961,10 +1962,10 @@ When MC members asked if the criteria were reasonable, the Property Manager (**I
 > **Evidence [C]: The Manager's False Assurance**  
 > *Source: 11th MC Meeting Minutes (No. 17) / 2023-03-17*
 >
-> "委員...查詢評標準則的要求是否合理？「置邦」工程部鄭經理回應**一般承建商大部分能符合相關要求**。"
+> "5.5 委員...查詢評標準則的要求是否合理？「置邦」工程部鄭經理 [鄭逸佳] 回應**一般承建商大部分能符合相關要求**。"
 >
 > *Translation:*
-> "Member asked if criteria were reasonable... ISS Manager Cheng replied that **most contractors can meet the relevant requirements**."
+> "5.5 MC members asked if criteria were reasonable... ISS Manager Cheng Yat-kai (鄭逸佳) replied that **most contractors can meet the relevant requirements**."
 
 **🛡️ Pre-emptive Rebuttal:**
 
