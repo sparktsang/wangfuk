@@ -3700,7 +3700,6 @@ The "Smart Tender" system is marketed as an anti-bid-rigging tool, but its actua
 > *Translation:*
 > "Independent professionals **cannot replace** the role and responsibility of the building engineering consultant."
 
-
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**  
@@ -3713,7 +3712,7 @@ The "Smart Tender" system is marketed as an anti-bid-rigging tool, but its actua
 
 **📅 Timeline:**
 *   **2023-03-04:** MC passes "Final Tender" (Criteria missing) — [ref](#-e-cartel-2023-03-17-01-the-blank-cheque-tender-how-critical-scoring-rules-were-added-after-the-vote)
-*   **2024-07-19:** Consultant uses URA's funding to silence critics.
+*   **2024-07-19:** Consultant uses URA's funding to silence critics — [ref](http://www.wangfuk.org/html/incorp/index.htm)
 *   **2025-11-26:** Fire reveals the project was a fraud from day one.
 
 **🔗 Links:**
