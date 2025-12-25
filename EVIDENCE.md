@@ -1793,6 +1793,72 @@ The meeting was attended by a roster of pro-establishment figures (Yu Chi-wing, 
 
 ---
 
+### 🆔 [E-CARTEL-2023-03-17-01] The "Blank Cheque" Tender: How Critical Scoring Rules Were Added AFTER the Vote
+
+**🚨 Significance:**
+
+Meeting records reveal a fundamental breach of procedural justice. On March 4, 2023, owners voted to approve the "Final Version" of the tender document. However, records show that the most critical part of the tender—the specific **Scoring Criteria (Marking Scheme)**—was incomplete at the time of the vote. The controversial criteria (e.g., [MPF headcount scoring](#-e-cartel-2023-03-24-01-headcount-over-brains-how-16-clerks-outranked-a-structural-engineer) 3x higher than professionals) were inserted by the MC and Consultant in a closed-door meeting *two weeks later*, effectively bypassing owner scrutiny.
+
+**1. The "Empty Shell" Vote:**
+On March 4, owners voted on a tender document where the scoring criteria were generic.
+*   *The Gap:* The document mentioned "Company Profile" but did not specify *how* it would be scored. Owners had no idea that "16 laborers" would later be weighted higher than "1 Registered Structural Engineer."
+
+**2. The "Backdoor" Insertion:**
+On March 17 (13 days after the EGM), the MC held a meeting to finalize the scoring details.
+*   *The Specifics:* It was in *this* private meeting that the rigged criteria (MPF levels, 1 point for professionals) were formally adopted.
+*   *The Violation:* The MC altered the material terms of a tender *after* it had been approved by the owners. This stripped owners of their right to define how their HK$330M would be spent.
+
+**3. The URA's Passive Complicity:**
+The Urban Renewal Authority (URA) reviewed the criteria on March 15 and offered "no other opinion" except asking for clarity.
+*   *The Failure:* By not flagging the absurdity of the weighting (Labor > Professionals) or the procedural irregularity of adding criteria post-EGM, the URA's procedures failed its primary function of quality assurance.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Final" Vote (Premature)**  
+> *Source: 11th MC EGM Minutes / 2023-03-04*
+>
+> "議決根據...標書為**最終版本**。... 贊成 98.33%"
+>
+> *Translation:*
+> "Resolved that the tender document... be the **Final Version**. Approved 98.33%."
+
+> **Evidence [B]: The "Backdoor" Criteria (Post-Vote)**  
+> *Source: 11th MC Meeting Minutes (No. 17) / 2023-03-17*
+>
+> "市建局於 **3 月 15 日**回覆... 需就個別項目的評分字眼需加以列明清楚。... 參考市建局提供的意見，評分內容如下：... 提供 16 位或以上僱員 MPF 記錄=**3 分**... 提供註冊結構工程師證書=**1 分**"
+>
+> *Translation:*
+> "URA replied on **March 15**... need to clarify scoring wording... Scoring content as follows: ... 16+ MPF employees = **3 points**... Registered Structural Engineer = **1 point**."
+
+> **Evidence [C]: The Closed-Door Approval**  
+> *Source: 11th MC Meeting Minutes (No. 17) / 2023-03-17*
+>
+> "各委員一致同意上述**經修訂**的評標準則。"
+>
+> *Translation:*
+> "All members unanimously agreed to the above **revised** evaluation criteria."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The EGM approved the 'Tender Document' structure. The specific 'Marking Scheme' is an administrative detail within the MC's delegated authority to refine. Returning to the EGM for every minor adjustment would paralyze the process. We followed URA advice and ensured the criteria were objective. The 'Final Version' referred to the scope of works, not the internal scoring matrix."
+
+**The Logical Trap:**
+1.  **Scoring IS the Tender:** In a competitive tender, *how* you score determines *who* wins. The Marking Scheme is not a "minor detail"; it is the DNA of the selection process. Changing the DNA in private (especially to favor headcount over expertise) is a material change that fundamentally alters the nature of the "Best Pick."
+2.  **Delegated Authority vs. Fiduciary Duty:** While the MC has delegated power, using that power to insert irrational criteria (MPF > Professionals) that defy common sense violates their fiduciary duty to act in the owners' best interest.
+3.  **The "Expert" Shield:** Blaming the URA ("followed URA advice") is a deflection. The URA checks for *format*, not *logic*. The MC and Consultant are responsible for the *content*. If the content is rigged, the URA's stamp doesn't make it clean; it just makes the URA look incompetent.
+
+**📅 Timeline:**
+*   **2023-03-04:** Owners vote for "Final Tender" (Scoring vague).
+*   **2023-03-15:** URA reviews draft scoring.
+*   **2023-03-17:** MC finalizes rigged scoring criteria (MPF > Professional) in private.
+
+**🔗 Links:**
+*   [Minutes 17 PDF](http://www.wangfuk.org/html/meeting/05/第17次全體委員會議記錄.pdf) | [Backup](2023-03-17%20第十一屆第十七次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-03-17-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%B8%83%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minutes EGM (Mar 4)](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-03-04-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+
+---
+
 ### 🆔 [E-CARTEL-2023-03-24-01] Headcount over Brains: How 16 Clerks Outranked a Structural Engineer
 
 **🚨 Significance:**
@@ -1857,7 +1923,7 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 3.  **Benchmarking:** In public works (Housing Authority/ArchSD), the presence of AP/RSE/RCM is a *mandatory* or highly weighted requirement. Relegating it to a 1-point tokenism contradicts industry best practices.
 
 **📅 Timeline:**
-*   **2023-03-24:** Will Power decides the skewed scoring criteria — [booklet p.4](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+*   **2023-03-24:** Will Power and MC decides the skewed scoring criteria — [booklet p.4](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
 *   **2023-08-31:** Prestige is evaluated and scores 4 (highest) despite lacking key professionals.
 *   **2024-01-28:** Prestige wins.
 
