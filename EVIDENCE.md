@@ -1377,7 +1377,7 @@ The MC passed a resolution requiring owners to **register and apply** before com
 *   *The Control:* Chairman Tang claimed "lawyers said" the MC has the right to approve any activity. This effectively abolished freedom of assembly within the estate, ensuring only pro-MC messages could be heard.
 
 **3. State-Sponsored Doxxing:**
-When resident Mrs. Li (Yip Bik-yi) submitted the 5% petition, the MC posted a letter containing her **full name and address** in public lobbies.
+When resident Mrs. Li (Yip Pik-yi) submitted the 5% petition, the MC posted a letter containing her **full name and address** in public lobbies.
 *   *The Malice:* This was a calculated act of **Doxxing** to intimidate the convenor. The address was only redacted after complaints, proving the initial exposure was intentional.
 
 **4. The Propaganda War:**
@@ -1559,7 +1559,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 > "第十一屆管理委員會顧問... **黃碧嬌女士**"
 >
 > *Translation:*
-> "11th MC Advisor... **Ms. Peggy Wong Bik-kiu**"
+> "11th MC Advisor... **Ms. Peggy Wong Pik-kiu**"
 
 > **Evidence [E]: The Shout**  
 > *Source: Ma Choyin FB Video Post and Comments / 2025-12-14*  
@@ -1590,9 +1590,9 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 > Wong shouted: "How would I… [inaudible] What authority do I have?"  
 > Man: "Then don't speak; go back to the management office and handle it, okay?"  
 > Wong folds her arms and glares at the man.  
-> Man clasps his hands and says: "Thanks, Justice of the Peace Wong Bik‑kiu, thank you."  
+> Man clasps his hands and says: "Thanks, Justice of the Peace Wong Pik‑kiu, thank you."  
 > Wong: "What are you saying now, Yiu Kwan‑ho [Herman Yiu]?"  
-> Man repeats: "Justice of the Peace Wong Bik‑kiu, thank you."  
+> Man repeats: "Justice of the Peace Wong Pik‑kiu, thank you."  
 >  
 > **Selected comments (paraphrased):**  
 > Claims she has the most power and brought people to collect fake proxy votes; says she acted like the host; warns she is aggressive; mocks her as a Justice of the Peace; alleges she stood at the proxy table like a greeter and knew proxy holders; questions her authority and possible hidden interests; insults and derides her behaviour and temperament.
