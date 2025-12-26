@@ -810,7 +810,7 @@ The fact that Wang Fuk Court's consultant was born from the ashes of a proven bi
 *   **2002:** Century (Shum's firm) manager bribes MC Vice-Chairman.
 *   **2005:** Century implicated in Garden Vista bid-rigging scheme — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
 *   **2005:** Shum exits Century. 
-*   **Jan 2006:** Shum founds Will Power — [source](https://www.ltddir.com/companies/will-power-architects-company-limited/)
+*   **2006-01-11:** Shum founds Will Power — [source](https://www.ltddir.com/companies/will-power-architects-company-limited/)
 *   **2016-09-29:** Garden Vista case concludes; Yau Shui-tin jailed — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
 *   **2024-01-28:** Will Power oversees Wang Fuk tender — [minutes](http://www.wangfuk.org/html/meeting/03/2024%E5%B9%B41%E6%9C%8828%E6%97%A5%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84%20%E9%80%A3%E9%99%84%E4%BB%B6.pdf)  
 *   **2025-11-26:** The Fire.
