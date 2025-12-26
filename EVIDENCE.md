@@ -753,7 +753,7 @@ The Government has known this for a decade. In **2015**, Secretary for Developme
 
 ---
 
-### 🆔 [E-CARTEL-2016-12-31-01] The "Ever-Victorious" Monster: How a Resource-Poor Firm Hoarded 28 Projects
+### 🆔 [E-CARTEL-PRESTIGE-2016-12-31-01] The "Ever-Victorious" Monster: How a Resource-Poor Firm Hoarded 28 Projects
 
 **🚨 Significance:**
 
@@ -908,7 +908,7 @@ The termination of the Garden Vista investigation, despite "knowing the facts" (
 
 ---
 
-### 🆔 [E-CARTEL-2018-09-26-01] The "14% Price" Entry Ticket: Buying the Right to Rig the Game
+### 🆔 [E-CARTEL-WILLPOWER-2018-09-26-01] The "14% Price" Entry Ticket: Buying the Right to Rig the Game
 
 **🚨 Significance:**
 
@@ -993,7 +993,7 @@ When the Management Company asked the **Urban Renewal Authority (URA)** for pric
 
 ---
 
-### 🆔 [E-CARTEL-2020-01-20-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption
+### 🆔 [E-CARTEL-WILLPOWER-2020-01-20-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption
 
 **🚨 Significance:**
 
@@ -1136,7 +1136,7 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 
 ---
 
-### 🆔 [E-CARTEL-2020-01-20-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse
+### 🆔 [E-CARTEL-WILLPOWER-2020-01-20-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse
 
 **🚨 Significance:**
 
@@ -1286,7 +1286,7 @@ State media (**People's Daily**) exposed this exact "No Sample" industry back in
 
 ---
 
-### 🆔 [E-CARTEL-2021-07-18-01] The "Price Anchor": How a Questionnaire was Rigged to Justify the Low-Ball Consultant
+### 🆔 [E-CARTEL-WILLPOWER-2021-07-18-01] The "Price Anchor": How a Questionnaire was Rigged to Justify the Low-Ball Consultant
 
 **🚨 Significance:**
 
@@ -1507,7 +1507,7 @@ Using estate funds, the MC printed a "Special Issue" (宏福特刊) unprecedente
 
 ---
 
-### 🆔 [E-CARTEL-2021-12-09-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate
+### 🆔 [E-CARTEL-WILLPOWER-2021-12-09-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate
 
 **🚨 Significance:**
 
@@ -1635,7 +1635,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 
 ---
 
-### 🆔 [E-CARTEL-2022-05-05-01] The Mathematical Fingerprint: Academic Proof of Prestige's Bid-Rigging
+### 🆔 [E-CARTEL-PRESTIGE-2022-05-05-01] The Mathematical Fingerprint: Academic Proof of Prestige's Bid-Rigging
 
 **🚨 Significance:**
 
@@ -1705,7 +1705,7 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 
 ---
 
-### 🆔 [E-CARTEL-2022-06-10-01] The Death of Data: Why the Evidence that convicted the Cartel can never be gathered again
+### 🆔 [E-CARTEL-PRESTIGE-2022-06-10-01] The Death of Data: Why the Evidence that convicted the Cartel can never be gathered again
 
 **🚨 Significance:**
 
@@ -2008,7 +2008,7 @@ The Urban Renewal Authority (URA) reviewed the criteria on March 15 and offered 
 
 ---
 
-### 🆔 [E-CARTEL-2023-03-17-02] The Zero-Sum Game: How 100% of Bidders Failed the "Experience" Test
+### 🆔 [E-CARTEL-WILLPOWER-2023-03-17-02] The Zero-Sum Game: How 100% of Bidders Failed the "Experience" Test
 
 **🚨 Significance:**
 
@@ -2142,7 +2142,7 @@ When MC members asked if the criteria were reasonable, the Property Manager (**I
 
 ---
 
-### 🆔 [E-CARTEL-2023-03-24-01] Headcount over Brains: How 16 Clerks Outranked a Structural Engineer
+### 🆔 [E-CARTEL-WILLPOWER-2023-03-24-01] Headcount over Brains: How 16 Clerks Outranked a Structural Engineer
 
 **🚨 Significance:**
 
@@ -2215,7 +2215,7 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 
 ---
 
-### 🆔 [E-CARTEL-2023-07-04-01] The "Prestige" Spiderweb: How Business Partners Posed as Competitors
+### 🆔 [E-CARTEL-PRESTIGE-2023-07-04-01] The "Prestige" Spiderweb: How Business Partners Posed as Competitors
 
 **🚨 Significance:**
 
@@ -2291,7 +2291,7 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 
 ---
 
-### 🆔 [E-CARTEL-2023-07-04-02] The "Magic" 1.6%: How Prestige Hit the Bullseye on a Rigged Target
+### 🆔 [E-CARTEL-PRESTIGE-2023-07-04-02] The "Magic" 1.6%: How Prestige Hit the Bullseye on a Rigged Target
 
 **🚨 Significance:**
 
@@ -2568,7 +2568,7 @@ By filling the mandatory interview slots with these firms, the Cartel ensured th
 
 ---
 
-### 🆔 [E-CARTEL-2023-08-31-01] The "Perfect Score" Scam: How a Safety Violator was Rated "Clean"
+### 🆔 [E-CARTEL-WILLPOWER-2023-08-31-01] The "Perfect Score" Scam: How a Safety Violator was Rated "Clean"
 
 **🚨 Significance:**
 
@@ -2680,7 +2680,7 @@ Will Power inserted a clause stating: *"Report is based on data submitted by ten
 
 ---
 
-### 🆔 [E-CARTEL-2023-08-31-02] The "Trust Me" Evaluation: Unverifiable Documents & The Missing ISO
+### 🆔 [E-CARTEL-WILLPOWER-2023-08-31-02] The "Trust Me" Evaluation: Unverifiable Documents & The Missing ISO
 
 **🚨 Significance:**
 
@@ -2776,7 +2776,7 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 
 ---
 
-### 🆔 [E-CARTEL-2023-10-16-01] The Schizophrenic Scorecard: Why the "Criticized" Beat the "Praised"
+### 🆔 [E-CARTEL-WILLPOWER-2023-10-16-01] The Schizophrenic Scorecard: Why the "Criticized" Beat the "Praised"
 
 **🚨 Significance:**
 
@@ -2844,7 +2844,7 @@ This disconnect proves that the "Scoring System" was a sham. The scores were not
 
 ---
 
-### 🆔 [E-CARTEL-2023-10-16-02] The Kingmaker's Algorithm: How "Variance" Nullified the Owners' Vote
+### 🆔 [E-CARTEL-WILLPOWER-2023-10-16-02] The Kingmaker's Algorithm: How "Variance" Nullified the Owners' Vote
 
 **🚨 Significance:**
 
@@ -2926,7 +2926,7 @@ The "Final Recommendation List" of 5 contractors aligns **perfectly** with Will 
 
 ---
 
-### 🆔 [E-CARTEL-2023-10-30-01] The HK$150 Million Upsell: How "10-Year Warranty" was Used to Double the Bill
+### 🆔 [E-CARTEL-WILLPOWER-2023-10-30-01] The HK$150 Million Upsell: How "10-Year Warranty" was Used to Double the Bill
 
 **🚨 Significance:**
 
@@ -3679,7 +3679,7 @@ Despite the error in June 2024, the new MC under Tsui Man-kam reappointed C.W. C
 
 ---
 
-### 🆔 [E-CARTEL-2024-06-27-01] The "Rashomon" of Tiles: Lies, Finger-Pointing, and the "Free Upgrade" Trap
+### 🆔 [E-CARTEL-PRESTIGE-2024-06-27-01] The "Rashomon" of Tiles: Lies, Finger-Pointing, and the "Free Upgrade" Trap
 
 **🚨 Significance:**
 
@@ -3787,7 +3787,7 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 
 ---
 
-### 🆔 [E-CARTEL-2024-07-19-01] The "Endorsement" Myth: How URA Subsidies Were Used to Whitewash Corruption
+### 🆔 [E-CARTEL-WILLPOWER-2024-07-19-01] The "Endorsement" Myth: How URA Subsidies Were Used to Whitewash Corruption
 
 **🚨 Significance:**
 
