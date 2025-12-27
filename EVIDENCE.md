@@ -826,7 +826,7 @@ The Government has known this for a decade. In **2015**, Secretary for Developme
 
 **🚨 Significance:**
 
-A forensic analysis of corporate filings and investigative reporting reveals the physical headquarters of the cartel. At least **20 interconnected companies** are registered across just **10 units** in **Mei Wah Industrial Centre (美華工業中心)**, To Kwa Wan. This location serves as the operational hub for a network linking **Will Power (鴻毅)** to the "Godfather of Maintenance" **Chan Heung-fat (陳响發)**.
+A forensic analysis of corporate filings and investigative reporting reveals the physical headquarters of the cartel. There are at least 37 companies interconnected with **Will Power (鴻毅)**. At least **20 interconnected companies** are registered across just **10 units** in **Mei Wah Industrial Centre (美華工業中心)**, To Kwa Wan. This location serves as the operational hub for a network linking Will Power to the "Godfather of Maintenance" **Chan Heung-fat (陳响發)**.
 
 **1. The "Hive" Logic:**
 *   **The Hub:** A single industrial building houses a cluster of companies that appear distinct but share directors, shareholders, and addresses.
@@ -862,10 +862,10 @@ The address cluster physically links the "new" consultants (Will Power) to the "
 > **Evidence [A]: The Physical Cluster**  
 > *Source: Journalist W's Report / 2025-12-26*
 >
-> "多間公司的登記地址，多年來均位於**土瓜灣美華工業中心**的10個單位。用地址搜尋，發現最少**20間**他們旗下的公司登記，其中**13間**曾經在樓宇維修工程中入標... 包括陳响發、王劭強、王長輝等的公司，還有黃文康、單揚波、黃天喜等擔任董事時的公司登記。"
+> "鴻毅建築師有限公司與在業內最少37間顧問及工程公司有關聯... 多間公司的登記地址，多年來均位於**土瓜灣美華工業中心**的10個單位。用地址搜尋，發現最少**20間**他們旗下的公司登記，其中**13間**曾經在樓宇維修工程中入標... 包括陳响發、王劭強、王長輝等的公司，還有黃文康、單揚波、黃天喜等擔任董事時的公司登記。"
 >
 > *Translation:*
-> "The registered addresses of multiple companies... have been located in **10 units at Mei Wah Industrial Centre, To Kwa Wan** for years. An address search revealed at least **20 companies** registered under them, **13** of which have bid for building maintenance projects... including companies of Chan Heung-fat, Ong Siu-keung, Wang Cheung-fai, etc, also includes company registrations when **Wong Man-hong**, **Sin Yeung-bor**, and **Wong Tin-hei** served as directors."
+> "Will Power is interconnected to at least 37 industry consultants and construction firms... The registered addresses of multiple companies... have been located in **10 units at Mei Wah Industrial Centre, To Kwa Wan** for years. An address search revealed at least **20 companies** registered under them, **13** of which have bid for building maintenance projects... including companies of Chan Heung-fat, Ong Siu-keung, Wang Cheung-fai, etc, also includes company registrations when **Wong Man-hong**, **Sin Yeung-bor**, and **Wong Tin-hei** served as directors."
 
 
 > **Evidence [B]: The Spider Web**  
