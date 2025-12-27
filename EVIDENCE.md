@@ -89,6 +89,74 @@
 
 ---
 
+### 🆔 [E-CARTEL-WILLPOWER-2006-01-11-01] The Reincarnation: How a Bid-Rigging Syndicate Rebranded as the Estate Consultant
+
+**🚨 Significance:**
+
+Corporate records and court judgments reveal that the renovation consultant for Wang Fuk Court, **Will Power Architects Company Limited (鴻毅建築師有限公司)**, is the direct successor of a firm implicated in one of Hong Kong's most notorious bid-rigging scandals.
+
+**1. The "Century" Connection:**
+Will Power was co-founded in 2006 by **William Shum (沈鉅忠)**. Shum was previously a director and shareholder of **Century Architects Limited (世紀建築師樓有限公司)** from 2001 to 2005.  
+*   *The Legacy:* Century was a key conspirator in the **Garden Vista (濱景花園)** bid-rigging case (DCCC 552/2015), alongside **Global Housing (環球屋宇)**.
+
+**2. The Rebranding Strategy:**
+Shortly after Century was embroiled in corruption scandals (including a 2002 bribery conviction of its sales manager), the company ceased operations.  
+*   *The Switch:* Shum exited Century in 2005 and immediately established Will Power in Jan 2006. Industry insiders confirm that Will Power took over Century's office location (changing signage) and business operations, effectively laundering its reputation while continuing the same practices.
+
+**3. The DNA of Corruption:**
+The fact that Wang Fuk Court's consultant was born from the ashes of a proven bid-rigging syndicate explains the sophisticated manipulation seen in the project (fake scores, rigged surveys). This was not incompetence; it was the application of a "proven" criminal playbook developed over two decades.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Founder's History**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "沈鉅忠是鴻毅創辦人之一... 2001年至2005年間曾持有另一間公司世紀建築師樓有限公司，這公司涉及一宗沙田濱景花園的案件... 案中自首的判頭丘瑞田在庭上指出... 協助聯繫「世紀」... 令「環球屋宇」取得顧問合約"  
+> *Translation:*  
+> "Shum cofounded Will Power... Between 2001 and 2005, he held another company, Century Architects Limited, which was involved in the Shatin Garden Vista case... The self-surrendered subcontractor Yau Shui-tin stated in court... he assisted in contacting 'Century'... enabling 'Universial Housing' to win the consultancy contract."  
+
+> **Evidence [B]: The "Signboard Change"**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "有業內人士透露... 「世紀出事(捲入貪污案)之後無幾耐，他們辦公室已經換上鴻毅招牌，轉個名繼續做生意，這行好常見。」... 鴻毅成立於2006年1月... 與「世紀」的地址一度同座不同層。"  
+> *Translation:*  
+> "Industry insiders revealed... 'Shortly after Century got into trouble (involved in corruption cases), their office signboard was changed to Will Power; changing the name to continue business is common in this industry.'... Will Power was established in Jan 2006... shared the same building (different floor) with 'Century' at one point."  
+
+> **Evidence [C]: The Earlier Bribery Conviction**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "「世紀」在更早時間亦捲入另一宗貪案。一名營業經理於2002年間... 賄賂大廈法團副主席... 案件在2005年審結，時間上與與沈鉅忠退出公司時間相若。"  
+> *Translation:*  
+> "'Century' was involved in another corruption case earlier. A sales manager in 2002... bribed an MC Vice-Chairman... The case concluded in 2005, coinciding with Shum's exit from the company."  
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Will Power is a separate legal entity established in 2006. Shum was never personally charged in the Garden Vista case. The actions of a previous company (Century) or a former employee cannot be imputed to Will Power. We operate under strict professional codes. Linking us to a 20-year-old case involving a different company is unfair guilt by association."
+
+**The Logical Trap:**  
+1.  **The "Corporate Veil" vs. Reality:** While legally separate, the continuity of *personnel* (Shum), *location* (same building), and *business model* (bid-rigging allegations) establishes a de facto succession. In forensic accounting, this is a classic "Phoenix Company" maneuver to evade reputational liability.  
+2.  **The "Clean Hands" Defense:** Shum founded Will Power *immediately* after exiting Century amidst a bribery scandal. A professional truly committed to ethics would distance themselves from such a toxic legacy, not replicate it under a new name.  
+3.  **Pattern Recognition:** The specific tactics used at Garden Vista (rigged tender, inflated price) reappeared at Wang Fuk under Will Power. When the same people produce the same outcome under a different flag, it is not "association"; it is **recidivism**.  
+
+**¶ Statutory Basis:**
+
+*   **Context:** Companies Ordinance (Shadow Directors / Corporate Identity).  
+
+**📅 Timeline:**
+
+*   **2002:** Century (Shum's firm) manager bribes MC Vice-Chairman.
+*   **2005:** Century implicated in Garden Vista bid-rigging scheme — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
+*   **2005:** Shum exits Century. 
+*   **2006-01-11:** Shum founds Will Power — [source](https://www.ltddir.com/companies/will-power-architects-company-limited/)
+*   **2016-09-29:** Garden Vista case concludes; Yau Shui-tin jailed — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
+*   **2024-01-28:** Will Power oversees Wang Fuk tender — [minutes](http://www.wangfuk.org/html/meeting/03/2024%E5%B9%B41%E6%9C%8828%E6%97%A5%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84%20%E9%80%A3%E9%99%84%E4%BB%B6.pdf)  
+*   **2025-11-26:** The Fire.
+*   **2025-12-02:** Will Power reportedly ceases operation — [report](https://www.hk01.com/社會新聞/60299914/)
+
+**🔗 Links:**
+*   [Journalist W's Full Report](https://www.facebook.com/share/p/19YbQWsXBe/) 
+*   [DCCC 552/2015 Judgment](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
+
+---
+
 ### 🆔 [E-CARTEL-2009-05-07-01] The timeline of Decay: From "Fat Meat" to Silence
 
 **🚨 Significance:**
@@ -751,74 +819,6 @@ The Government has known this for a decade. In **2015**, Secretary for Developme
 *   HK01 Report: [Tsui Lam 2023](https://www.hk01.com/article/891287) | [Tsui Lam 2024](https://www.hk01.com/article/1012190)
 *   [Dev Bureau Statement 2015](https://www.devb.gov.hk/tc/legco_matters/replies_to_legco_questions/index_id_8847.html)
 *   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
-
----
-
-### 🆔 [E-CARTEL-WILLPOWER-2006-01-11-01] The Reincarnation: How a Bid-Rigging Syndicate Rebranded as the Estate Consultant
-
-**🚨 Significance:**
-
-Corporate records and court judgments reveal that the renovation consultant for Wang Fuk Court, **Will Power Architects Company Limited (鴻毅建築師有限公司)**, is the direct successor of a firm implicated in one of Hong Kong's most notorious bid-rigging scandals.
-
-**1. The "Century" Connection:**
-Will Power was co-founded in 2006 by **William Shum (沈鉅忠)**. Shum was previously a director and shareholder of **Century Architects Limited (世紀建築師樓有限公司)** from 2001 to 2005.  
-*   *The Legacy:* Century was a key conspirator in the **Garden Vista (濱景花園)** bid-rigging case (DCCC 552/2015), alongside **Global Housing (環球屋宇)**.
-
-**2. The Rebranding Strategy:**
-Shortly after Century was embroiled in corruption scandals (including a 2002 bribery conviction of its sales manager), the company ceased operations.  
-*   *The Switch:* Shum exited Century in 2005 and immediately established Will Power in Jan 2006. Industry insiders confirm that Will Power took over Century's office location (changing signage) and business operations, effectively laundering its reputation while continuing the same practices.
-
-**3. The DNA of Corruption:**
-The fact that Wang Fuk Court's consultant was born from the ashes of a proven bid-rigging syndicate explains the sophisticated manipulation seen in the project (fake scores, rigged surveys). This was not incompetence; it was the application of a "proven" criminal playbook developed over two decades.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Founder's History**  
-> *Source: Journalist W's Report / 2025-12-26*  
-> "沈鉅忠是鴻毅創辦人之一... 2001年至2005年間曾持有另一間公司世紀建築師樓有限公司，這公司涉及一宗沙田濱景花園的案件... 案中自首的判頭丘瑞田在庭上指出... 協助聯繫「世紀」... 令「環球屋宇」取得顧問合約"  
-> *Translation:*  
-> "Shum cofounded Will Power... Between 2001 and 2005, he held another company, Century Architects Limited, which was involved in the Shatin Garden Vista case... The self-surrendered subcontractor Yau Shui-tin stated in court... he assisted in contacting 'Century'... enabling 'Universial Housing' to win the consultancy contract."  
-
-> **Evidence [B]: The "Signboard Change"**  
-> *Source: Journalist W's Report / 2025-12-26*  
-> "有業內人士透露... 「世紀出事(捲入貪污案)之後無幾耐，他們辦公室已經換上鴻毅招牌，轉個名繼續做生意，這行好常見。」... 鴻毅成立於2006年1月... 與「世紀」的地址一度同座不同層。"  
-> *Translation:*  
-> "Industry insiders revealed... 'Shortly after Century got into trouble (involved in corruption cases), their office signboard was changed to Will Power; changing the name to continue business is common in this industry.'... Will Power was established in Jan 2006... shared the same building (different floor) with 'Century' at one point."  
-
-> **Evidence [C]: The Earlier Bribery Conviction**  
-> *Source: Journalist W's Report / 2025-12-26*  
-> "「世紀」在更早時間亦捲入另一宗貪案。一名營業經理於2002年間... 賄賂大廈法團副主席... 案件在2005年審結，時間上與與沈鉅忠退出公司時間相若。"  
-> *Translation:*  
-> "'Century' was involved in another corruption case earlier. A sales manager in 2002... bribed an MC Vice-Chairman... The case concluded in 2005, coinciding with Shum's exit from the company."  
-
-**🛡️ Pre-emptive Rebuttal:**
-
-**Anticipated Defense:**  
-"Will Power is a separate legal entity established in 2006. Shum was never personally charged in the Garden Vista case. The actions of a previous company (Century) or a former employee cannot be imputed to Will Power. We operate under strict professional codes. Linking us to a 20-year-old case involving a different company is unfair guilt by association."
-
-**The Logical Trap:**  
-1.  **The "Corporate Veil" vs. Reality:** While legally separate, the continuity of *personnel* (Shum), *location* (same building), and *business model* (bid-rigging allegations) establishes a de facto succession. In forensic accounting, this is a classic "Phoenix Company" maneuver to evade reputational liability.  
-2.  **The "Clean Hands" Defense:** Shum founded Will Power *immediately* after exiting Century amidst a bribery scandal. A professional truly committed to ethics would distance themselves from such a toxic legacy, not replicate it under a new name.  
-3.  **Pattern Recognition:** The specific tactics used at Garden Vista (rigged tender, inflated price) reappeared at Wang Fuk under Will Power. When the same people produce the same outcome under a different flag, it is not "association"; it is **recidivism**.  
-
-**¶ Statutory Basis:**
-
-*   **Context:** Companies Ordinance (Shadow Directors / Corporate Identity).  
-
-**📅 Timeline:**
-
-*   **2002:** Century (Shum's firm) manager bribes MC Vice-Chairman.
-*   **2005:** Century implicated in Garden Vista bid-rigging scheme — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
-*   **2005:** Shum exits Century. 
-*   **2006-01-11:** Shum founds Will Power — [source](https://www.ltddir.com/companies/will-power-architects-company-limited/)
-*   **2016-09-29:** Garden Vista case concludes; Yau Shui-tin jailed — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
-*   **2024-01-28:** Will Power oversees Wang Fuk tender — [minutes](http://www.wangfuk.org/html/meeting/03/2024%E5%B9%B41%E6%9C%8828%E6%97%A5%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84%20%E9%80%A3%E9%99%84%E4%BB%B6.pdf)  
-*   **2025-11-26:** The Fire.
-*   **2025-12-02:** Will Power reportedly ceases operation — [report](https://www.hk01.com/社會新聞/60299914/)
-
-**🔗 Links:**
-*   [Journalist W's Full Report](https://www.facebook.com/share/p/19YbQWsXBe/) 
-*   [DCCC 552/2015 Judgment](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
 
 ---
 
