@@ -3622,6 +3622,88 @@ The Consultant selects the cartel's contractor. The Contractor's job is to extra
 *   [Yahoo News Report (Police called)](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39d6ff3)
 *   [Minute 24 (Legal letter)](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf) | [Backup](2024-04-22%20第十一屆第二十四次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-04-22-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
+---
+
+### 🆔 [E-CARTEL-WILLPOWER-2024-04-16-01] The "Smartgoal" Trap: Why the Runner-Up was a Guaranteed Disaster
+
+**🚨 Significance:**
+
+A forensic review of the tender results reveals that the "Runner-Up" contractor, **Smartgoal (俊豪)**, was not a viable alternative but a strategic plant designed to make **Prestige (宏業)** look affordable. Smartgoal bid an astronomical **HK$476 million** (41% higher than Prestige) and was later implicated in a major ICAC/Competition Commission crackdown for bid-rigging and corruption.
+
+**1. The Price Anchor Strategy:**
+*   **Prestige Bid:** HK$336M (The "Choice").
+*   **Smartgoal Bid:** HK$476M (The "Scarecrow").
+*   *The Tactic:* By placing a ridiculously high bid next to Prestige, the Cartel made the HK$330M price tag seem "reasonable" by comparison. This manipulated the owners' perception of value.
+
+**2. The "Smartgoal" Implosion:**
+Just 3 months after the Wang Fuk vote, Smartgoal was raided by the ICAC and Competition Commission (April 2024) for manipulating tenders in other estates. By 2025, Smartgoal had collapsed into insolvency, leaving projects like **Victory Garden** (怡勝花園) abandoned.
+*   *The Bullet Dodged (Only to hit a Mine):* If Wang Fuk owners had chosen the runner-up, they would have faced a **HK$476M bankruptcy scandal**. Instead, they chose Prestige and faced a **HK$330M fire disaster**. The tender offered no safe exit.
+
+**3. The "Widely" Recycle:**
+When Smartgoal collapsed at Victory Garden, the project was taken over by **Widely (偉利)**.
+*   *The Connection:* Widely was also one of **Will Power's (鴻毅)** ["Top 5 Recommended Contractors"](#-e-cartel-willpower-2023-10-16-02-the-kingmakers-algorithm-how-variance-nullified-the-owners-vote) for Wang Fuk.
+*   *The Pattern:* At **On Kay Court** (安基苑), the Consultant is Will Power, and the Contractor is Widely.
+*   *The Verdict:* This reveals a **Closed Ecosystem**. Whether Plan A (Prestige), Plan B (Smartgoal), or Plan C (Widely) is chosen, the project remains within the same circle of firms.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Price Anchor**  
+> *Source: 11th MC EGM Attachment / 2024-01-28*
+>
+> "18. 俊豪建築 (Smartgoal)... 總集資費用 **$476,125,262**"
+> "22. 宏業建築 (Prestige)... 總集資費用 **$336,616,277**"
+
+> **Evidence [B]: The Corruption Raid**  
+> *Source: Now News / 2024-04-18*
+>
+> "廉署與競委會... 搗破... 貪污及圍標... 集團... 消息指，其中一間被調查的是**俊豪建築**... 涉嫌行賄及受賄，包括操控工程招標程序、誇大工程標價、協助與集團有關的承辦商取得工程及顧問合約"
+>
+> *Translation:*  
+> "ICAC & Comp Comm... smashed... bid-rigging syndicate... sources say one investigated firm is **Smartgoal Construction**... alleged bribery: manipulating tenders, inflating bids, and helping interconnected contractors win contracts and consultancy deals."
+
+> **Evidence [C]: The Insolvency & Abandonment**  
+> *Source: Insolvency Notice / 2025-04-25*
+>
+> "鑑於俊豪建築工程有限公司**無清償債務能力**... 提出清盤呈請"
+>
+> *Translation:*  
+> "Given Smartgoal... is **insolvent**... winding-up petition presented."
+
+> **Evidence [D]: The "Widely" Connection**  
+> *Source: Victory Garden Minutes / 2025-08-20 & HK01 / 2025-12-01*
+>
+> "通過揀選「**偉利**」...為...承辦商。"  
+> "安基苑...同樣由**鴻毅**負責工程任顧問... 工程承建商「**偉利**」..."
+>
+> *Translation:*  
+> "[Victory Garden] Selected '**Widely**'... as contractor."  
+> "On Kay Court... Consultant is also **Will Power**... Contractor is '**Widely**'..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The high price of Smartgoal reflects their assessment of the project's complexity and risk. We cannot control market pricing. The fact that Smartgoal later faced legal issues proves our system worked—we didn't pick them. We picked the 'Reasonable' option (Prestige). The connections between other firms are industry coincidences; the construction world is small."
+
+**The Logical Trap:**
+1.  **The "Reasonable" Fallacy:** Prestige was only "Reasonable" because Smartgoal was "Insane." Without Smartgoal's inflated bid, Prestige's HK$330M would have looked like robbery. Smartgoal's role was to **normalize** Prestige's price.
+2.  **The "System Worked" Lie:** You didn't reject Smartgoal because you knew they were corrupt; you rejected them because they were the designated loser. You picked Prestige, who turned out to be equally corrupt (Fake Nets) and incompetent (Fire). The system failed to find *any* honest contractor because the pool was poisoned.
+3.  **The "Small World" Excuse:** When the same Consultant (Will Power) repeatedly recommends the same Contractors (Prestige, Widely) across different estates (Wang Fuk, On Kay), and those contractors are linked to corruption or safety failures, it is not a "small world"; it is a **Syndicate**.
+
+**📅 Timeline:**
+*   **2023-10-31:** Smartgoal wins Victory Garden tender — [source](https://www.facebook.com/share/p/1BpVkJKcXa/)
+*   **2024-01-28:** Smartgoal bids high ($476M) at Wang Fuk; loses to Prestige — [minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf)
+*   **2024-04-16:** Smartgoal raided by ICAC/Comp Comm — [report](https://hk.news.yahoo.com/share/448cb288-0613-354f-8648-bf449988907e)
+*   **2024-04-29:** Smartgoal claims maintenance project on progress — [source](https://www.facebook.com/share/p/1UsHztawaY/)
+*   **2024-10-21:** Last appearance of Smartgoal's representatives — [source](https://www.facebook.com/share/p/1BpVkJKcXa/)
+*   **2025-04-25:** Smartgoal goes bust; Victory Garden project rots — [source](https://www.facebook.com/share/p/1CSX1mu3YJ/)
+*   **2025-08-20:** Widely (Will Power's other favorite) takes over Victory — [source](https://www.facebook.com/share/17eGTYbeYW/)
+*   **2025-12-01:** Will Power & Widely found together at On Kay Court — [report](https://www.hk01.com/article/60299179)
+
+**🔗 Links:**
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Now News Report (Smartgoal)](https://hk.news.yahoo.com/share/448cb288-0613-354f-8648-bf449988907e)
+*   [HK01 Report (On Kay Court)](https://www.hk01.com/article/60299179)
+*   Victory Garden Concern Group: [Timeline](https://www.facebook.com/share/p/1BpVkJKcXa/) | [Smartgoal's Insolvency](https://www.facebook.com/share/p/1CSX1mu3YJ/) | [Widely's takeover](https://www.facebook.com/share/17eGTYbeYW/)
 
 ---
 
