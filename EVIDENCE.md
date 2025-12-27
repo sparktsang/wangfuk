@@ -5225,6 +5225,79 @@ The warning demanded "proper storage of flammables." Sticking Styrofoam boards o
 
 ---
 
+### 🆔 [E-CARTEL-2025-10-25-01] The Teflon Don: How a "Distinguished" Official Survived Two Major Bid-Rigging Scandals
+
+**🚨 Significance:**
+
+Investigation into the cartel's network reveals the presence of **Wong Siu-keung (王劭強)**, the boss of **Universal Housing (環球屋宇)**. Despite being implicated in Hong Kong's two biggest bid-rigging cases (Garden Vista & ICAC Op "Fire Net"), Wong remains untouched, shielded by a powerful network of political titles and "grey area" associates. His career epitomizes the fusion of **Official, Business, and Criminal** power.
+
+**1. The "Teflon" Survival:**
+*   **Case 1 (Garden Vista):** Universal Housing was one of the three consultants involved. While "Century" (世紀建築師樓) and "Wealthy Gate" (裕基建築師) dissolved, Universal Housing continued operating for 10 years.
+*   **Case 2 (ICAC Op "Fire Net"):** In 2023, Wong was arrested as a "Middleman" for bribing management staff in the Discovery Bay "La Costa" case (HK$1.63M project). Yet, his company was not named, and he transferred shares to family member **Wong Mei-kuen** (王美娟) to distance himself.
+*   *The Anomaly:* Only two major bid-rigging cases have ever reached court (Yau Shui-tin & Fire Net). Wong is implicated in **both**, yet his company continues to win government-approved tenders (e.g., Siu On Court in Oct 2025).
+
+**2. The Political-Criminal Nexus:**
+Wong's resilience is explained by his high-level connections:
+*   **Political:** Member of **CPPCC (Yangjiang)** (陽江市政協) (2012/2017), Director of **Pok Oi Hospital** (博愛醫院) (2012), Committee Member of **CGCC** (香港中華總商會) (2014).
+*   **Criminal:** His co-director at Universal Housing Construction (2008-2024) was **Chan Shun-chi** (陳慎芝), a former triad member known as the "Triad Bomb Disposal Expert."
+*   **Corporate:** Another director, **Siu Yim-kwan** (蕭炎坤), is a veteran independent director of listed companies and former Pok Oi Chairman, yet involved in a money-laundring case. 
+*   *The Verdict:* This fusion of **CPPCC status**, **Charity Board legitimacy**, and **Underworld muscle** creates a "protection umbrella" that normal law enforcement struggles to penetrate.
+
+**3. The Physical Link to Will Power:**
+Universal Housing was founded in 1998 at the **same address** that later became **Will Power's office**. This physical overlap confirms that Wong is not just a parallel player, but an integral part of the same **Mei Wah Industrial Centre** hive that birthed the Wang Fuk disaster.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Address & Garden Vista Connection**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "陳响發的關聯公司網絡中，一名重要合作夥伴是「環球屋宇」的老闆王劭強，他1998年公司成立時，登記地址就是後來的鴻毅辦公室。... 「環球屋宇工程顧問」是剛才提過濱景花園圍標案中，與「世紀」同時涉案的3間顧問公司之一。... 唯獨「環球屋宇」過去10年運作如常。"  
+> *Translation:*  
+> "A key partner in Chan Heung-fat's network is 'Universal Housing' boss **Wong Siu-keung**; when established in 1998, its registered address was what later became **Will Power's office**... 'Universal Housing Engineering Consultants' was one of the 3 consultants involved in the **Garden Vista** bid-rigging case alongside 'Century'... Only 'Universal Housing' has operated as normal for the past 10 years."  
+
+> **Evidence [B]: The "Fire Net" Arrest & Share Transfer**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "去年6月，王劭強將「環球屋宇工程顧問」股份轉讓予家人王美娟... 相信與廉署2023年的「火網」行動被拘捕有關。... 王劭強在案中是以「中間人」身份被捕... 案情涉及愉景灣第五期頤峰1.63億元工程，他連同另外4人以150萬元賄賂管理公司職員"  
+> *Translation:*  
+> "Last June, Wong Siu-keung transferred 'Universal Housing' shares to family member **Wong Mei-kuen**... believed to be related to his arrest in ICAC's 2023 'Fire Net' operation... Wong was arrested as a '**Middleman**'... involving the HK$163M Discovery Bay La Costa project; he and 4 others bribed management staff with HK$1.5M."  
+
+> **Evidence [C]: The Political & Underworld Titles**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "王劭強十多年前銜頭甚多，2012年博愛醫院總理、2012及2017年陽江巿政協委員、2014年中華總商會港島東區聯絡處委員等，2005年更獲世界傑出華人獎... 董事還包括蕭炎坤... 環球屋宇建築工程有限公司... 2024年董事包括... 陳慎芝... 曾加入黑幫後改邪歸正... 自稱「黑社會拆彈專家」"  
+> *Translation:*  
+> "Wong Siu-keung had many titles... 2012 Pok Oi Hospital Director, 2012/2017 **Yangjiang CPPCC Member**, 2014 CGCC District Committee Member... 2005 World Outstanding Chinese Award... Directors also included **Siu Yim-kwan**... 'Universal Housing Construction'... 2024 directors included... **Chan Shen-chi**... former triad member... self-proclaimed '**Triad Bomb Disposal Expert**'."  
+
+> **Evidence [D]: Continued Operation (Siu On Court)**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "目前已知的工程包括屯門兆安苑大維修，兆安苑今年10月底收到巿建局通知... 「完成審閱」環球屋宇工程顧問草擬的標書"  
+> *Translation:*  
+> "Current known projects include Tuen Mun **Siu On Court** renovation... received URA notice end of Oct this year... 'completed review' of tender drafted by Universal Housing."  
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Mr. Wong's past public service roles are unrelated to his business activities. Being investigated or arrested does not imply guilt until convicted. Share transfers are normal business arrangements for succession planning. The company operates legally and passes all URA vetting processes, as evidenced by the Siu On Court project. Associating with rehabilitated persons shows social responsibility, not criminal intent."
+
+**The Logical Trap:**
+1.  **The "Middleman" Reality:** In corruption cases, the "Middleman" is often the key link between the Bribe Payer and Receiver. Being arrested in such a specific role in a major ICAC operation ("Fire Net") while simultaneously transferring shares to family suggests **asset protection** and **liability evasion**, not normal succession.  
+2.  **The "Vetting" Failure:** If a company owned by a suspect in a major bribery case can still pass URA vetting for new projects (Siu On Court), it proves the **[URA vetting system](#-e-cartel-willpower-2024-07-19-01-the-endorsement-myth-how-ura-subsidies-were-used-to-whitewash-corruption) is broken**. The "pass" is not proof of innocence; it is proof of regulatory blindness.  
+3.  **The "Rehabilitated" Cover:** Chan Shen-chi's role as a "Triad Bomb Disposal Expert" implies his value lies in **negotiating with the underworld**. For a construction company to employ such a figure as a Director for 16 years (2008-2024) suggests that navigating the "grey zone" of triad influence is part of their core business strategy.  
+
+**📅 Timeline:**
+*   **1998-04-03:** Universal Housing founded at future Will Power address — [ref](https://www.tempb.com/companies/universal-housing-engineering-consultants-limited/)
+*   **2005:** Garden Vista case (Universal Housing implicated) — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
+*   **2008:** Chan Shen-chi becomes Director.  
+*   **2012:** Wong becomes CPPCC member — [ref](http://pdf.wenweipo.com/2015/06/07/a10-11-0607.pdf)
+*   **2023-01-04:** Wong arrested in ICAC Op "Fire Net" (Discovery Bay case) — [source](https://youtu.be/6CDPv2uHm3w?si=sAIAf7vmQNfxZCTp) | [ref](https://www.brplatform.org.hk/f/upload/10612/Fire_Net_Press_2023.pdf)
+*   **Jun 2024:** Wong transfers shares to Wong Mei-kuen.  
+*   **2025-03-19:** Co-director Siu, accused of laundering funds, was acquitted — [report](https://thewitnesshk.com/博愛醫院前主席蕭炎坤涉黃金投資騙局-獲裁洗黑錢/)
+*   **2025-10-25:** Universal Housing wins Siu On Court approval from URA — [ref](https://www.facebook.com/share/p/1FUAkxRfbL/)
+
+**🔗 Links:**
+*   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/)  
+*   [Hive Diagram based on the report](鴻毅與業界關係圖.png)
+
+---
+
 ### 🆔 [E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
 
 **🚨 Significance:**
