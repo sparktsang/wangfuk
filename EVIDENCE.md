@@ -822,6 +822,78 @@ The Government has known this for a decade. In **2015**, Secretary for Developme
 
 ---
 
+### 🆔 [E-CARTEL-WILLPOWER-2016-12-31-01] The "Bid-Rigging Factory": 20 Companies, 10 Units, One Industrial Building
+
+**🚨 Significance:**
+
+A forensic analysis of corporate filings and investigative reporting reveals the physical headquarters of the cartel. At least **20 interconnected companies** are registered across just **10 units** in **Mei Wah Industrial Centre (美華工業中心)**, To Kwa Wan. This location serves as the operational hub for a network linking **Will Power (鴻毅)** to the "Godfather of Maintenance" **Chan Heung-fat (陳响發)**.
+
+**1. The "Hive" Logic:**
+*   **The Hub:** A single industrial building houses a cluster of companies that appear distinct but share directors, shareholders, and addresses.
+*   **The Scale:** 13 of these companies have records of bidding for building maintenance.
+*   **The Wang Fuk Swarm:** This single "Hive" deployed agents to infiltrate every stage of the Wang Fuk project:
+    *   **Inspection Stage:** 
+        * Will Power (Winner)
+        * A Ferrari (快利達) (Loser)
+        * IPS Consultants (艾比斯顧問) (Loser)
+        * Wealthy Gate (裕基建築師) (Loser)
+        * Ho Hei (浩熙建築工程顧問) (Loser)
+    *   **Consultant Stage:** 
+        * Will Power (Winner)
+        * A Ferrari (Loser)
+        * IPS Consultants (Loser)
+        * Sky House (恒建建築師) (Loser)
+    *   **Construction Stage:** 
+        * Wai Yip (瑋業發展) (Loser)
+        * Sun Kong (新港建築) (Loser)
+        * Lucky Bright (順程建築) (Loser)
+        * Milton (萬昇建築) (Loser)
+*   *The Verdict:* This creates a **"Simulated Market."** When the MC invites tenders, they aren't getting market competition; they are getting different departments of the same Cartel Factory.
+
+**2. The Illusion of Choice:**
+Owners thought they were choosing between different companies. In reality, they were choosing between **Room A and Room B** of the same corridor in To Kwa Wan.
+*   *Example:* **Milton (萬昇)** and **Wai Yip (瑋業)** both bid for the construction contract. Both are linked to this network. Their loss to **Prestige (宏業)** was not a competitive defeat but a coordinated maneuver to ensure the "External Partner" (Prestige) won the big prize, likely with backend profit-sharing.
+
+**3. The "Godfather" Nexus:**
+The address cluster physically links the "new" consultants (Will Power) to the "old" triad-linked networks (Chan Heung-fat's family). It proves that the "Professional" consultants and the "Gangster" contractors are literally roommates.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Physical Cluster**  
+> *Source: Journalist W's Report / 2025-12-26*
+>
+> "多間公司的登記地址，多年來均位於**土瓜灣美華工業中心**的10個單位。用地址搜尋，發現最少**20間**他們旗下的公司登記，其中**13間**曾經在樓宇維修工程中入標... 包括陳响發、王劭強、王長輝等的公司，還有黃文康、單揚波、黃天喜等擔任董事時的公司登記。"
+>
+> *Translation:*
+> "The registered addresses of multiple companies... have been located in **10 units at Mei Wah Industrial Centre, To Kwa Wan** for years. An address search revealed at least **20 companies** registered under them, **13** of which have bid for building maintenance projects... including companies of Chan Heung-fat, Ong Siu-keung, Wang Cheung-fai, etc, also includes company registrations when **Wong Man-hong**, **Sin Yeung-bor**, and **Wong Tin-hei** served as directors."
+
+
+> **Evidence [B]: The Spider Web**  
+> *Source: Journalist W's Report / 2025-12-26*
+>
+> (*Note: See the Hive Diagram.  
+Bidding activities record stem from 2009-2016 FactWire database*)
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Sharing an industrial building is common for SMEs to save costs. Many companies use the same secretarial service or accounting firm, leading to the same registered address. This does not imply shared operations or collusion. We prepare our bids independently."
+
+**The Logical Trap:**
+1.  **Directors, not just Desks:** The network doesn't just share addresses; it shares **people**. The diagram shows a web of cross-directorships (e.g., Wong Man-hong serving multiple boards). You can share a secretary, but you don't accidentally share the same boss unless you are the same entity.
+2.  **The Statistical Impossibility:** What are the odds that 10 different bidders for *one specific estate* (Wang Fuk) all originate from the *same* specific industrial center? This concentration exceeds any random distribution. It indicates a coordinated attack, or **"Swarming"**.
+3.  **The "Dummy" Behavior:** The companies from this hub (like Milton and Wai Yip) consistently *lost* the bid with low votes or high prices. If they were independent, they would try to win. Their consistent failure suggests their role is to **pad the tender list**, making the "Winner" look legitimate.
+
+**🔗 Links:**
+*   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/)
+*   [Hive Diagram based on the report](鴻毅與業界關係圖.png)
+
+**📊 Diagram:**  
+  
+![Hive Diagram based on the report](鴻毅與業界關係圖.png)
+
+---
+
 ### 🆔 [E-CARTEL-PRESTIGE-2016-12-31-01] The "Ever-Victorious" Monster: How a Resource-Poor Firm Hoarded 28 Projects
 
 **🚨 Significance:**
